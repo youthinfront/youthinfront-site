@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I'm a taco.
+We're a site for *youth*
 ============
 
 And I'm just markdown text.  It has *features* that are pretty easy.
