@@ -3,7 +3,7 @@ email: youthinfront@youthinfront.com
 phone: >
   +1.234.567.8910
 description: Youth In Front
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/youthinfront-site" # the subpath of your site, e.g. /blog
 url: "http://youthinfront.com" # maybe?
 twitter_username: youthinfront
 github_username:  youthinfront
