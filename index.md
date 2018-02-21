@@ -2,15 +2,13 @@
 layout: home
 ---
 
-We're a site for *youth*
+*youth in front*
 ============
 
-And I'm just markdown text.  It has *features* that are pretty easy.
 
 Subheaders
 ----------
 
-With more text
 
 ##### Little Subheaders
 
