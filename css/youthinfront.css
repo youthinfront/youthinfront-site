@@ -1,0 +1,80 @@
+/* footer styles */
+.contact {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+/* footer magic */
+html, body {
+    height: 100%;
+}
+
+p > a {
+    color: #f15f4c;
+}
+
+.non-footer {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -150px; /* the bottom margin is the negative value of the footer's height */
+}
+
+#jth-footer {
+	padding-top: 0;
+    height: 150px; /* .push must be the same height as .footer */
+    color: #777;
+    overflow: hidden;
+}
+
+.push {
+    height: 150px;
+}
+
+/* "Logo" aka Name */
+.site-header .navbar-brand {
+    line-height: 60px;
+    text-shadow: none;
+}
+
+/* Blog (basically shitty medium rip off) */
+
+.blog-post {
+    margin-bottom: 20px;
+}
+
+.post-content img, iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.post-content a {
+    color: #2a7ae2;
+}
+
+.post-content {
+    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-size: 19px;
+}
+
+.post-content h1 {
+    font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+    font-weight: 700;
+    margin-bottom: 40px;
+    letter-spacing: -.028em;
+}
+
+.post-content small {
+    font-size: 70%;
+}
+
+.caption {
+    font-size: 12px;
+    color: #777;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
