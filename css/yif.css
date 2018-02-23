@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'oneday';
+    src: url('/fonts/ONEDAY.ttf');
+}
+
+h1.header-title {
+	color: white;
+	font-size: 24px;
+	font-family: oneday;
+	margin-top: 12px;
+}
+
+.section-title {
+	color: white;
+}
+
+.card-body {
+	position: absolute;
+	font-family: oneday;
+	font-size: 36px;
+	text-align: right;
+}
+
+.side-bleed {
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 200px;
+}
+
+.gradient-bleed {
+	width: 100%;
+	height: 200px;
+	position: absolute;
+}
+
+.background-gradient-1 {
+	background: linear-gradient(
+		to right, 
+		#12C72D88 0%, 
+		#12C72DFF 65%,
+		#12C72DFF 100%
+	);
+}
+
+.background-gradient-2 {
+	background: linear-gradient(
+		to right, 
+		#00BD8988 0%, 
+		#00BD89FF 65%,
+		#00BD89FF 100%
+	);
+}
+
+.background-gradient-3 {
+	background: linear-gradient(
+		to right, 
+		#00ACDA88 0%, 
+		#00ACDAFF 65%,
+		#00ACDAFF 100%
+	);
+}
+
+.background-gradient-4 {
+	background: linear-gradient(
+		to right, 
+		#0093FF88 0%, 
+		#0093FFFF 65%,
+		#0093FFFF 100%
+	);
+}
+
+.background-gradient-5 {
+	background: linear-gradient(
+		to right, 
+		#006CFF88 0%, 
+		#006CFFFF 65%,
+		#006CFFFF 100%
+	);
+}
+
+.background-gradient-6 {
+	background: linear-gradient(
+		to right, 
+		#8E1DC288 0%, 
+		#8E1DC2FF 65%,
+		#8E1DC2FF 100%
+	);
+}
