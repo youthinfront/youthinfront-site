@@ -2,19 +2,9 @@
 layout: home
 ---
 
-I'm a taco.
+*youth in front*
 ============
+Youth Organizing in Schools and Communities 
 
-And I'm just markdown text.  It has *features* that are pretty easy.
 
-Subheaders
-----------
-
-With more text
-
-##### Little Subheaders
-
-I'm a taco.
-============
-
-With other text
+March 14. March 24. April 20. 
