@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Second
+title: Know your Rights
 category: blog
-short_description: Second thing.
+short_description: Know your Rights
 bg_img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0E-i13Mqx_TZgLAhtUWMsQvuMiBQr5Zqk59fQ2FrfSN6iNFRxA
 ---
 
