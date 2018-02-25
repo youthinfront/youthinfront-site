@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Third
+title: History of Student Protest
 category: blog
-short_description: Fifth Item
+short_description: History of Student Protest
 bg_img: https://i.ytimg.com/vi/8vS6kIbJu64/maxresdefault.jpg
 ---
 
