@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First Thing to Do
+title: Get Organized
 category: blog
-short_description: The first thing.
+short_description: Get Organized
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
 ---
 
