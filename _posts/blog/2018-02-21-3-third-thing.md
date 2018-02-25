@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Third
+title: From Marches to Movements
 category: blog
-short_description: Third Item
+short_description: From Marches to Movements
 bg_img: http://anadiycrafts.com/wp-content/uploads/2017/03/socket-puppet.jpg
 ---
 
