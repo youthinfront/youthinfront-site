@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Third
+title: Get Connected
 category: blog
-short_description: Forth Item
+short_description: Get Connected
 bg_img: https://i.ytimg.com/vi/oTcalBQCe6s/maxresdefault.jpg
 ---
 
