@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Get Organized
+title: Why protest? Will it make a difference?
 category: blog
-short_description: Get Organized
+short_description: Why protest? Will it make a difference?
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
 ---
 
