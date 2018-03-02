@@ -1,8 +1,8 @@
 ---
 layout: post
-title: From Marches to Movements
+title: What do you wish you knew before starting as a youth organizer?
 category: blog
-short_description: From Marches to Movements
+short_description: What do you wish you knew before starting as a youth organizer?
 bg_img: http://anadiycrafts.com/wp-content/uploads/2017/03/socket-puppet.jpg
 ---
 
