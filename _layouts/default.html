@@ -15,6 +15,8 @@
     <!-- Custom styles for this template -->
     <link href="{{site.baseurl}}/css/album.css" rel="stylesheet">
     <link href="{{site.baseurl}}/css/yif.css" rel="stylesheet">
+    <link href="{{site.baseurl}}/css/fontawesome-all.min.css" rel="stylesheet">
+
   </head>
 
   <body>
@@ -51,20 +53,7 @@
       </div>
     </header>
 
-    <main role="main">
-      {% for post in site.posts reversed %}
-        <div class="side-bleed" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
-          <div class="gradient-bleed background-gradient-{{forloop.index}}"></div>
-          <div class="card-body">
-            <p class="card-text section-title">{{post.short_description}}</p>
-            <div class="d-flex justify-content-between align-items-center">
-              <small class="text-muted">9 mins</small>
-            </div>
-          </div>
-        </div>
-        </div>
-      {% endfor %}
-    </main>
+    {{ content }}
 
     <footer class="text-muted">
       <div class="container">
