@@ -4,10 +4,6 @@ title: How do I get adults on my side?
 subtitle: Speaking to your principal and making adult allies
 cards:
     - content:
-        title: First Video
-        subtitle: All about the first video
-        href: http://google.com
-    - content:
         title: Advice for Principals on Walkouts
         subtitle: From the National Association of Secondary School Principals
         href: /nassp-advice-for-principals-for-walkouts.html

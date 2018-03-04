@@ -3,9 +3,6 @@ layout: post
 title: How do I organize a protest?
 subtitle: Yeah, how do I?
 cards:
-    - content: 
-        title: First Video
-        subtitle: All about the first video.
     - content:
         title: "What is the difference: Walkout, March, Protest?"
         subtitle: The basics.

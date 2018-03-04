@@ -4,10 +4,6 @@ title: Will I get in trouble?
 subtitle: Know the law, know your rights.
 cards:
     - content:
-        title: First Video
-        subtitle: All about the first video
-        href: http://google.com
-    - content:
         title: Houston Public Media
         subtitle: Helpful materials via Houston Public Media. 
         href: /will-i-get-in-trouble-houston-pub.html
