@@ -28,4 +28,4 @@ Messaging templates:
   * When a peaceful protest or walkout occurs (link)
   * When a protest or walkout becomes disruptive (link)
 
-(Source: (http://www.aasa.org/policy-blogs.aspx?id=42161&blogid=84002))
+(Source: http://www.aasa.org/policy-blogs.aspx?id=42161&blogid=84002)
