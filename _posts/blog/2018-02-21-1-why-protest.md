@@ -8,9 +8,9 @@ cards:
         subtitle: All about the first video
         href: http://google.com
     - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
+        title: Ernesto Villareal
+        subtitle: Read about Ernesto Villareal here.
+        href: /why-protest-ernesto-villareal.html
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
 ---
