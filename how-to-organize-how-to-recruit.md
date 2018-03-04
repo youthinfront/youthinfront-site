@@ -2,8 +2,10 @@
 layout: default
 ---
 
-How to Organize?: How to Recruit
+How to Organize?
 =================
+### How to Recruit
+
 
 >Create posters, use social media to spread the word, and talk to people to recruit them! 
 
