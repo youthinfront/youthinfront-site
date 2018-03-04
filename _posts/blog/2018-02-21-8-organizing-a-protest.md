@@ -11,6 +11,10 @@ cards:
         title: How do I join an existing movement?
         subtitle: "#teamwork"
         href: /how-to-join-an-existing-movement.html
+    - content:
+        title: How do I talk to administrators?
+        subtitle: Don't be nervous!
+        href: /how-to-talk-to-administrators.html
 category: blog
 bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
 students: true
