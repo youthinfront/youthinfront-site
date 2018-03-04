@@ -1,8 +1,8 @@
 ---
 layout: post
 title: History of Student Protest
+subtitle: Successes from the past.
 category: blog
-short_description: History of Student Protest
 bg_img: https://i.ytimg.com/vi/8vS6kIbJu64/maxresdefault.jpg
 ---
 

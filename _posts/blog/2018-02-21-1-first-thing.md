@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Why protest? Will it make a difference?
+title: Why protest?
+subtitle: Will it make a difference?
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
 ---

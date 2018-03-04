@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Will I get in trouble?
+subtitle: Know the law, know your rights.
 category: blog
-short_description: Will I get in trouble?
 bg_img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0E-i13Mqx_TZgLAhtUWMsQvuMiBQr5Zqk59fQ2FrfSN6iNFRxA
 ---
 

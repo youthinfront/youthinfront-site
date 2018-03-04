@@ -30,6 +30,8 @@ h1.header-title {
 .section-title {
 	font-family: oneday;
 	font-size: 36px;
+	line-height: 36px;
+	margin-bottom: .5rem;
 }
 
 .section-text {

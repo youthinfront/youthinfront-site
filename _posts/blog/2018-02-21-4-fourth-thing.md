@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Get Connected
+subtitle: Find other organizers and support
 category: blog
-short_description: Get Connected
 bg_img: https://i.ytimg.com/vi/oTcalBQCe6s/maxresdefault.jpg
 ---
 

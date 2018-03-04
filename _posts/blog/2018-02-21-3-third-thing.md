@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What do you wish you knew before starting as a youth organizer?
+title: What do you wish you knew?
+subtitle: Advice from youth organizers
 category: blog
-short_description: What do you wish you knew before starting as a youth organizer?
 bg_img: http://anadiycrafts.com/wp-content/uploads/2017/03/socket-puppet.jpg
 ---
 
