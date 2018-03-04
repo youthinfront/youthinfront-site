@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The sixth article
-subtitle: This is the sixth subtitle
+title: How do I stay safe?
+subtitle: Staying safe during a walkout or protest
 category: blog
 bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
 ---
