@@ -28,6 +28,10 @@ cards:
         subtitle: Read about her work here.
         href: /why-protest-marilyn.html
     - content:
+        title: Xiuhtezcatl Roske-Martinez
+        subtitle: Read about the indigenous environmental activist here.
+        href: /why-protest-roske-martinez.html
+    - content:
         title: Chicago Public Schools Boycott
         subtitle: Read about the 1963 boycott here.
         href: /why-protest-chicago.html    
@@ -43,6 +47,14 @@ cards:
         title: Singing Revolution
         subtitle: Read about the Singing Revolution here.
         href: /why-protest-singing-revolution.html
+    - content:
+        title: Inspirational Quotes
+        subtitle: Read some inspirational quotes here.
+        href: /why-protest-inspirational-quotes.html
+    - content: 
+        title: Miscellaneous Resources
+        subtitle: Find more links to various websites and articles here.
+        href: /why-protest-resources.html
 
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
