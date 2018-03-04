@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will I be alone?
-subtitle: Nope.  Probably.
+subtitle: No, we're going to do this together.
 cards:
     - content:
         title: National and Local Protests
