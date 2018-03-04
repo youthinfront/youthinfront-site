@@ -5,7 +5,7 @@ layout: default
 <main role="main">
   {% for post in site.posts reversed %}
     <div class="side-bleed" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
-      <div class="gradient-bleed background-gradient-{{forloop.index}}"></div>
+      <div class="gradient-bleed background-gradient-{{forloop.index | modulo: 6 | plus: 1}}"></div>
       <div class="card-body">
         <div class="card-top">
           <p class="card-text section-title">{{post.title}}</p>
@@ -16,13 +16,17 @@ layout: default
             <div class="video-play-button video-timeline-shadowed">
               <i class="fas fa-play"></i>
             </div>
-            <div class="video-timeline-connector"></div>
-            <div class="video-timeline-description video-timeline-shadowed">
-              <div class="video-timeline-description-inner">
-                <h1>Video Title</h1>
-                <p>Video description goes here.  If it's too long, it gets truncated.  So, stuff like this at the very end better not be too important.</p>
-              </div>
-            </div>
+            {% for card in post.cards %}
+              <div class="video-timeline-connector"></div>
+              <a href="{{card.content.href}}">
+                <div class="video-timeline-description video-timeline-shadowed">
+                  <div class="video-timeline-description-inner">
+                    <h1>{{card.content.title}}</h1>
+                    <p>{{card.content.subtitle}}</p>
+                  </div>
+                </div>
+              </a>
+            {% endfor %}
           </div>
           <div class="video-preview"></div>
         </div>
