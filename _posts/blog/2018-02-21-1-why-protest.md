@@ -21,12 +21,16 @@ cards:
         href: /why-protest-greensboro.html
     - content: 
         title: Columbia University Sit-Ins
-        subtitle: Read more about the 1985 sit-ins here.
+        subtitle: Read about the 1985 sit-ins here.
         href: /why-protest-columbia.html
     - content:
         title: Marilyn Hildreth
-        subtitle: Read more about her work here.
+        subtitle: Read about her work here.
         href: /why-protest-marilyn.html
+    - content:
+        title: Chicago Public Schools Boycott
+        subtitle: Read about the 1963 boycott here.
+        href: /why-protest-chicago.html
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
 ---
