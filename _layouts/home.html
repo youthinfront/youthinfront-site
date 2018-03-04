@@ -7,22 +7,24 @@ layout: default
     <div class="side-bleed" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
       <div class="gradient-bleed background-gradient-{{forloop.index}}"></div>
       <div class="card-body">
-        <p class="card-text section-title">{{post.title}}</p>
-        <p class="card-text section-description section-text">{{post.short_description}}</p>
-        <p class="section-text duration-label">{{post.intro_length_in_minutes}} minute intro</p>
-        <div class="card-text section-video-preview">
-          <div class="video-play-button video-timeline-shadowed">
-            <i class="fas fa-play"></i>
-          </div>
-          <div class="video-timeline-connector"></div>
-          <div class="video-timeline-description video-timeline-shadowed">
-            <div class="video-timeline-description-inner">
-              <h1>Video Title</h1>
-              <p>Video description goes here.  If it's too long, it gets truncated.  So, stuff like this at the very end better not be too important.</p>
+        <div class="card-top">
+          <p class="card-text section-title">{{post.title}}</p>
+        </div>
+        <div class="card-bottom">
+          <div class="card-text section-video-preview">
+            <div class="video-play-button video-timeline-shadowed">
+              <i class="fas fa-play"></i>
+            </div>
+            <div class="video-timeline-connector"></div>
+            <div class="video-timeline-description video-timeline-shadowed">
+              <div class="video-timeline-description-inner">
+                <h1>Video Title</h1>
+                <p>Video description goes here.  If it's too long, it gets truncated.  So, stuff like this at the very end better not be too important.</p>
+              </div>
             </div>
           </div>
+          <div class="video-preview"></div>
         </div>
-        <div class="video-preview"></div>
       </div>
     </div>
     </div>
