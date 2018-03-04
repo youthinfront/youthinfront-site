@@ -2,8 +2,16 @@
 layout: default
 ---
 
-I am a page title
+What's the difference: Walkout, March, Protest?
 =================
+
+**Walkouts** and **marches** are both forms of **protest**: ways of making a public statement to voice disapproval and your opinion to influence policy and public opinion. Walkouts and protests both use collective action, where many people coordinate their protest at the same time and on the same day to make their voices heard and their messages louder. 
+
+Walkout
+-------
+[**_The action of leaving a meeting or organization as an expression of disapproval._**](https://www.merriam-webster.com/dictionary/walkout)
+
+
 
 Here's some text.  All of this is done in markdown.  [Here's a cheatsheet showing how to write markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
