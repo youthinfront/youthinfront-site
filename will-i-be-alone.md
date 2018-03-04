@@ -10,6 +10,6 @@ Nope. Probably.
 Nationally
 ---------------
 
-You don't need to worry about fonts and stuff, just making sure things have a good *structure* (are the titles right?  are there links? are there lists? images?)
+March for our Lives events: (Include Images of March for our Lives event)
 
 Contact john@ on slack to style things
