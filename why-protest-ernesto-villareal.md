@@ -5,7 +5,7 @@ layout: default
 Why Protest?: Singing Revolution
 =================
 
->The young people, without any political party, and without any politicians, just came together. Not tens of thousands, but hundreds of thousands… to gather and to sing and to give this nation a new spirit.” 
+>"The young people, without any political party, and without any politicians, just came together. Not tens of thousands, but hundreds of thousands… to gather and to sing and to give this nation a new spirit.” 
 
 -Mart Laar, Estonian activist
 
