@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What do you wish you knew?
+title: What do you wish you knew before?
 subtitle: Advice from youth organizers
 category: blog
 bg_img: http://anadiycrafts.com/wp-content/uploads/2017/03/socket-puppet.jpg
