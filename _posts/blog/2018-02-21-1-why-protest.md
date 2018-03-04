@@ -28,6 +28,10 @@ cards:
         subtitle: Read about her work here.
         href: /why-protest-marilyn.html
     - content:
+        title: Xiuhtezcatl Roske-Martinez
+        subtitle: Read about the indigenous environmental activist here.
+        href: /why-protest-roske-martinez.html
+    - content:
         title: Chicago Public Schools Boycott
         subtitle: Read about the 1963 boycott here.
         href: /why-protest-chicago.html    
