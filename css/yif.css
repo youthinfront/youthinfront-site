@@ -3,11 +3,8 @@
     src: url('/fonts/ONEDAY.ttf');
 }
 
-h1.header-title {
-	color: white;
-	font-size: 24px;
-	font-family: oneday;
-	margin-top: 12px;
+img.page-logo {
+	height: 50px;
 }
 
 .card-container {
