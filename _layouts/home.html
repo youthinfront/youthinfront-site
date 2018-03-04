@@ -5,13 +5,13 @@ layout: default
 <main role="main">
   {% for post in site.posts reversed %}
     <div class="side-bleed" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
-      <div class="gradient-bleed background-gradient-{{forloop.index | modulo: 6 | plus: 1}}"></div>
+      <div class="gradient-bleed background-gradient-{{forloop.index | plus: -1 | modulo: 6 | plus: 1}}"></div>
       <div class="card-body">
         <div class="card-top">
           <p class="card-text section-title">{{post.title}}</p>
           <p class="card-text section-description section-text">{{post.subtitle}}</p>
         </div>
-        <div class="card-bottom">
+        <div class="card-bottom color-{{forloop.index | plus: -1 | modulo: 6 | plus: 1}}">
           <div class="card-text section-video-preview">
             <div class="video-play-button video-timeline-shadowed">
               <i class="fas fa-play"></i>
