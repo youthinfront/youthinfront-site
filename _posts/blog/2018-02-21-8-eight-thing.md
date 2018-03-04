@@ -4,9 +4,9 @@ title: How do I organize a protest?
 subtitle: Yeah, how do I?
 cards:
     - content:
-        title: First Video
-        subtitle: All about the first video
-        href: http://google.com
+        title: What's the difference between a march and a walkout?
+        subtitle: Learn more.
+        href: /difference-between-march-walkout.html
     - content:
         title: Second Video
         subtitle: All about the second video
