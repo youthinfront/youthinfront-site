@@ -13,4 +13,4 @@ You can join an existing movement or register your own through the links below.
 
 **National School Walkout
 
-[Click here to register your walkout.] (http://act.indivisible.org/event/national-school-walkout/)
+[Click here to register your walkout.](http://act.indivisible.org/event/national-school-walkout/)
