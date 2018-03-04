@@ -8,9 +8,9 @@ cards:
         subtitle: All about the first video
         href: http://google.com
     - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
+        title: Write an op-ed!
+        subtitle: Not ready to storm the barricades? Write an op-ed in your local newspaper.
+        href: /how-to-write-an-oped.html
 category: blog
 bg_img: https://i.ytimg.com/vi/oTcalBQCe6s/maxresdefault.jpg
 students: true
