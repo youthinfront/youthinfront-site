@@ -71,9 +71,8 @@ img.page-logo {
     margin: 0 -20px;
 	overflow-x: scroll;
 	width: calc(100% + 40px);
-}::-webkit-scrollbar {
-    width: 0px;  /* remove scrollbar space */
-    background: transparent;  /* optional: just make scrollbar invisible */
+	-ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
 }
 
 .section-title {
