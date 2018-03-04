@@ -27,8 +27,9 @@ h1.header-title {
 }
 
 .card-bottom {
-	width: 100%;
+    margin: 0 -20px;
 	overflow-x: scroll;
+	width: calc(100% + 40px);
 }
 
 .section-title {
@@ -81,9 +82,10 @@ h1.header-title {
 	/* TODO: make me the brand color */
 	color: black;
 	height: 75px;
+	margin-right: 10px;
 	padding: 10px;
 	position: relative;
-	width: 200px;
+	width: 275px;
 	z-index: 1;
 }
 
@@ -98,7 +100,7 @@ h1.header-title {
 
 .video-timeline-description-inner > p {
 	font-size: 12px;
-	font-weight: normal;
+	font-weight: 300;
 }
 
 .video-play-button {
@@ -111,7 +113,7 @@ h1.header-title {
 	font-size: 24px;
   	height: 70px;
 	justify-content: center;
-	margin-left: 5px; /* leave room for drop shadow */
+	margin-left: 25px; /* leave room for drop shadow */
 	width: 70px;
 	z-index: 1;
 }
