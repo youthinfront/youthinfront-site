@@ -4,7 +4,7 @@ title: How do I organize a protest?
 subtitle: Yeah, how do I?
 cards:
     - content:
-        title: What is the difference: Walkout, March, Protest?
+        title: "What is the difference: Walkout, March, Protest?"
         subtitle: The basics.
         href: /difference-between-march-walkout.html
     - content:
