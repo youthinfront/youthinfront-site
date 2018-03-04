@@ -13,6 +13,8 @@ cards:
         href: http://aclu.org
 category: blog
 bg_img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0E-i13Mqx_TZgLAhtUWMsQvuMiBQr5Zqk59fQ2FrfSN6iNFRxA
+students: true
+teachers: false
 ---
 
 You should do this at your leisure

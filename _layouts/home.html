@@ -8,6 +8,7 @@ layout: default
     <div class="{% if page.audience == 'teachers' %}active-audience{% endif %}"><a href="/teachers.html">Teachers</a></div>
   </div>
   {% for post in site.posts reversed %}
+    {% if post[page.audience] %}
     <div class="side-bleed" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
       <div class="gradient-bleed background-gradient-{{forloop.index | plus: -1 | modulo: 6 | plus: 1}}"></div>
       <div class="card-body">
@@ -36,6 +37,6 @@ layout: default
         </div>
       </div>
     </div>
-    </div>
+    {% endif %}
   {% endfor %}
 </main>

@@ -13,6 +13,8 @@ cards:
         href: /nassp-advice-for-principals-for-walkouts.html
 category: blog
 bg_img: https://i.ytimg.com/vi/8vS6kIbJu64/maxresdefault.jpg
+students: true
+teachers: false
 ---
 
 You should do this at your leisure

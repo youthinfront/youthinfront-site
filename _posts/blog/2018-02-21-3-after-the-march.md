@@ -13,6 +13,8 @@ cards:
         href: http://aclu.org
 category: blog
 bg_img: http://anadiycrafts.com/wp-content/uploads/2017/03/socket-puppet.jpg
+students: true
+teachers: true
 ---
 
 You should do this at your leisure

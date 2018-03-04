@@ -46,6 +46,8 @@ cards:
 
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
+students: true
+teachers: true
 ---
 
 I am the first post when you actually visit it
