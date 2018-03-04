@@ -8,9 +8,9 @@ cards:
         subtitle: The basics.
         href: /difference-between-march-walkout.html
     - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
+        title: How do I join an existing movement?
+        subtitle: #teamwork
+        href: /how-to-join-an-existing-movement.html
 category: blog
 bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
 ---
