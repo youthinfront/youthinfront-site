@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How do I get adults on my side?
-subtitle: Finding and working with adult allies
+subtitle: Speaking to your principal and making adult allies
 category: blog
 bg_img: https://i.ytimg.com/vi/8vS6kIbJu64/maxresdefault.jpg
 ---
