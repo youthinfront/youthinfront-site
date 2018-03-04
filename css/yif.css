@@ -115,7 +115,7 @@ img.page-logo {
 .video-timeline-connector {
 	background-color: white;
 	height: 5px;
-	margin: 0 -10px;
+	margin: 0 -20px;
 	width: 40px;
 	z-index: 0;
 }
@@ -126,7 +126,7 @@ img.page-logo {
 	/* TODO: make me the brand color */
 	color: black;
 	height: 75px;
-	margin-right: 10px;
+	margin: 0 20px;
 	padding: 10px;
 	position: relative;
 	width: 275px;

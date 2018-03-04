@@ -18,14 +18,14 @@ layout: default
         </div>
         <div class="card-bottom color-{{forloop.index | plus: -1 | modulo: 6 | plus: 1}}">
           <div class="card-text section-video-preview">
-            <div class="video-play-button video-timeline-shadowed">
-              <i class="fas fa-play"></i>
-            </div>
             {% for card in post.cards %}
-              <div class="video-timeline-connector"></div>
+              {% if forloop.index != 1 %}
+                <div class="video-timeline-connector"></div>
+              {% endif %}
               <a href="{{card.content.href}}">
                 <div class="video-timeline-description video-timeline-shadowed">
                   <div class="video-timeline-description-inner">
+                    {% if post.content.is_video %}<i class="fas fa-play"></i>{% endif %}
                     <h1>{{card.content.title}}</h1>
                     <p>{{card.content.subtitle}}</p>
                   </div>
