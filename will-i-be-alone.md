@@ -11,7 +11,7 @@ Nationally
 ---------------
 
 March for our Lives events: 
-![alt text](https://drive.google.com/open?id=1PrHbyBMnGE61WvrHRUsWV1vbgSea0vts)
+![alt text](https://github.com/youthinfront/youthinfront-site/blob/master/images/will-i-be-alone-map-1.png)
 
 Locally
 ---------------
