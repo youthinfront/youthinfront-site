@@ -21,9 +21,10 @@ Guidelines for School Leaders
 -----------------------------------------------------------------------------------------------------------------------------
 
 4. With student input, provide space on campus for students to assemble peacefully, but also ask students not to move off of campus for their own safety and security
-----------
+-----------------------------------------------------------------------------------------------------------------------------
 
 5. Stay in touch with Learning Community Superintendent, DISTRICT NAME Communications and DISTRICT NAME PD on any plans that may emerge.
+-----------------------------------------------------------------------------------------------------------------------------
 
 Messaging templates:
 If you hear rumors of a walkout or protest
