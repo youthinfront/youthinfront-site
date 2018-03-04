@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Get Connected
-subtitle: Find other organizers and support
+title: How to start as an activist?
+subtitle: Advice from youth activists
 category: blog
 bg_img: https://i.ytimg.com/vi/oTcalBQCe6s/maxresdefault.jpg
 ---
