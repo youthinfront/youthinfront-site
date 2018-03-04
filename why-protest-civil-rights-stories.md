@@ -4,7 +4,7 @@ layout: default
 
 Why Protest?
 ============
-### A Collection of Civil Rights Stories 
+## A Collection of Civil Rights Stories 
 <br>
 #### Charles Mauldin, Civil Rights Leader
 
