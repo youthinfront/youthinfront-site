@@ -5,13 +5,12 @@ layout: default
 Guidelines for School Leaders
 =============================
 
-1. Ensure student input**
+1. Ensure student input
 
   * Meet with student leaders to assess needs and plans
   * Invite ideas for improving campus safety, culture, and security.
   
-2. Make them aware of the resources available for them:
--------------------------------------------------------
+## 2. Make them aware of the resources available for them:
 
   * Counseling and guidance support (if available)
   * Presence of increased staff, DISTRICT NAME PD, CMPD for the safety of staff and students
