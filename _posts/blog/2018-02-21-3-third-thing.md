@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What do you wish you knew before?
-subtitle: Advice from youth organizers
+title: What happens after the march?
+subtitle: Moving from March to Movement
 category: blog
 bg_img: http://anadiycrafts.com/wp-content/uploads/2017/03/socket-puppet.jpg
 ---
