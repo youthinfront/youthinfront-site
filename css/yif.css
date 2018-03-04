@@ -103,6 +103,7 @@ img.page-logo {
 	height: 85px;
 	text-align: left;
 	width: fit-content;
+	width: -moz-fit-content;
 }
 
 .video-timeline-shadowed {
