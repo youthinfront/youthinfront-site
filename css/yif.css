@@ -7,11 +7,48 @@ img.page-logo {
 	height: 50px;
 }
 
+.tagline {
+	font-size: 12px;
+	text-align: right;
+}
+
 .footer-link {
 	font-family: "Avenir Next", sans-serif;
 	font-size: 24px;
 	font-weight: 300;
 	margin: 0 10px;
+}
+
+.top-level-tabs {
+	display: flex;
+	position: relative;
+}
+
+.top-level-tabs > div {
+	padding: 8px 0;
+	position: relative;
+	text-align: center;
+	width: 125px;
+}
+
+.top-level-tabs > div.active-audience::after {
+	background-color: #00ACDA;
+	bottom: 0px;
+	content: "";
+	height: 4px;
+	left: 0px;
+	position: absolute;
+	width: 125px;
+}
+
+.top-level-tabs > div > a {
+	color: #00ACDA;
+	font-family: "Avenir Next", sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+}
+.top-level-tabs > div > a:hover {
+	text-decoration: none;
 }
 
 .card-container {

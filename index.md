@@ -1,5 +1,6 @@
 ---
 layout: home
+audience: students
 ---
 
 *youth in front*
