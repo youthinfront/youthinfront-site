@@ -14,7 +14,7 @@ cards:
     - content:
         title: Singing Revolution
         subtitle: Read about the Singing Revolution here.
-        href: //why-protest-singing-revolution.html
+        href: /why-protest-singing-revolution.html
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
 ---
