@@ -4,13 +4,9 @@ title: Will I be alone?
 subtitle: Nope.  Probably.
 cards:
     - content:
-        title: First Video
-        subtitle: All about the first video
+        title: National and Local Protests
+        subtitle: Check out other March for our Lives events here.
         href: /will-i-be-alone.html
-    - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
 category: blog
 bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
 ---
