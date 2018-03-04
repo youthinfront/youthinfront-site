@@ -3,6 +3,10 @@ layout: default
 ---
 
 <main role="main">
+  <div class="top-level-tabs">
+    <a href="/index.html">Students</a>
+    <a href="/teachers.html">Teachers</a>
+  </div>
   {% for post in site.posts reversed %}
     <div class="side-bleed" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
       <div class="gradient-bleed background-gradient-{{forloop.index | plus: -1 | modulo: 6 | plus: 1}}"></div>
