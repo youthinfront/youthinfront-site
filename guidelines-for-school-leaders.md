@@ -5,8 +5,7 @@ layout: default
 Guidelines for School Leaders
 =============================
 
-1. Ensure student input
------------------------
+1. Ensure student input**
 
   * Meet with student leaders to assess needs and plans
   * Invite ideas for improving campus safety, culture, and security.
