@@ -11,6 +11,10 @@ cards:
         title: Ernesto Villareal
         subtitle: Read about Ernesto Villareal here.
         href: /why-protest-ernesto-villareal.html
+    - content:
+        title: Singing Revolution
+        subtitle: Read about the Singing Revolution here.
+        href: //why-protest-singing-revolution.html
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
 ---
