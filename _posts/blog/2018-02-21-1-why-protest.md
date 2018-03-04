@@ -43,6 +43,10 @@ cards:
         title: Singing Revolution
         subtitle: Read about the Singing Revolution here.
         href: /why-protest-singing-revolution.html
+    - content: 
+        title: Miscellaneous Resources
+        subtitle: Find more links to various websites and articles here.
+        href: /why-protest-resources.html
 
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
