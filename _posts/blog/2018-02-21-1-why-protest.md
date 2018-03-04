@@ -15,6 +15,10 @@ cards:
         title: Singing Revolution
         subtitle: Read about the Singing Revolution here.
         href: /why-protest-singing-revolution.html
+    - content:
+        title: Greensboro Lunch Counter Sit-In
+        subtitle: Read about the 1960s sit-ins here.
+        href: /why-protest-greensboro.html
 category: blog
 bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
 ---
