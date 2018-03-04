@@ -9,7 +9,7 @@ cards:
         href: /difference-between-march-walkout.html
     - content:
         title: How do I join an existing movement?
-        subtitle: #teamwork
+        subtitle: "#teamwork"
         href: /how-to-join-an-existing-movement.html
 category: blog
 bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
