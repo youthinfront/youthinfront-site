@@ -8,9 +8,9 @@ cards:
         subtitle: All about the first video
         href: http://google.com
     - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
+        title: Advice for Principals on Walkouts
+        subtitle: From the National Association of Secondary School Principals
+        href: /nassp-advice-for-principals-for-walkouts.html
 category: blog
 bg_img: https://i.ytimg.com/vi/8vS6kIbJu64/maxresdefault.jpg
 ---
