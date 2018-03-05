@@ -1,185 +1,220 @@
 img.page-logo {
-	height: 50px;
-	margin: 10px 0;
+    height: 50px;
+    margin: 10px 0;
 }
 
 .yif-navbar {
-	background: white;
-	padding: 0 1rem;
+    background: white;
+    padding: 0 1rem;
 }
 
 .tagline {
-	background-color: #333;
-	color: #BBB;
-	font-size: 12px;
-	padding: 10px 0;
-	text-align: center;
+    background-color: #333;
+    color: #BBB;
+    font-size: 12px;
+    padding: 10px 0;
+    text-align: center;
 }
 
 .footer-link {
-	font-family: "Avenir Next", sans-serif;
-	font-size: 24px;
-	font-weight: 300;
-	margin: 0 10px;
+    font-family: "Avenir Next", sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    margin: 0 10px;
 }
 
 .top-level-tabs {
-	display: flex;
-	position: relative;
+    display: flex;
+    position: relative;
 }
 
 .top-level-tabs > div {
-	padding: 20px 0;
-	position: relative;
-	text-align: center;
-	width: 100px;
+    padding: 20px 0;
+    position: relative;
+    text-align: center;
+    width: 100px;
 }
 
 .top-level-tabs > div.active-audience::after {
-	background-color: #12C72D;
-	bottom: 0px;
-	content: "";
-	height: 4px;
-	left: 0px;
-	position: absolute;
-	width: 100px;
+    background-color: #12C72D;
+    bottom: 0px;
+    content: "";
+    height: 4px;
+    left: 0px;
+    position: absolute;
+    width: 100px;
 }
 
 .top-level-tabs > div > a {
-	color: #12C72D;
-	font-family: "Avenir Next", sans-serif;
-	font-size: 20px;
-	font-weight: 300;
+    color: #12C72D;
+    font-family: "Avenir Next", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
 }
 .top-level-tabs > div > a:hover {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 .page-container h1 {
-	margin: 40px 0;
+    margin: 40px 0;
 }
 
 .card-container {
-	display: flex;
-	flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
 .card-body {
-	color: white;
-	position: absolute;
-	text-align: right;
-	width: 100%;
+    color: white;
+    position: absolute;
+    text-align: right;
+    width: 100%;    
+    transform: translateX(200%);
+    -webkit-transform: translateX(200%);
+}
+
+.slide-in-1 {
+    animation: slide-in .5s forwards;
+    -webkit-animation: slide-in .5s forwards;
+}
+
+.slide-in-2 {
+    animation: slide-in 1.0s forwards;
+    -webkit-animation: slide-in 1.0s forwards;
+}
+
+.slide-in-3 {
+    animation: slide-in 1.5s forwards;
+    -webkit-animation: slide-in 1.5s forwards;
+}
+
+.slide-in-4 {
+    animation: slide-in 2.0s forwards;
+    -webkit-animation: slide-in 2.0s forwards;
+}
+
+.slide-in-5 {
+    animation: slide-in 2.5s forwards;
+    -webkit-animation: slide-in 2.5s forwards;
+}
+
+@keyframes slide-in {
+    100% { transform: translateX(0%); }
+}
+
+@-webkit-keyframes slide-in {
+    100% { -webkit-transform: translateX(0%); }
 }
 
 .card-top {
-	height: 108px;
+    height: 108px;
 }
 
 .card-bottom {
     margin: 0 -20px;
-	overflow-x: scroll;
-	width: calc(100% + 40px);
-	-ms-overflow-style: none;
+    overflow-x: scroll;
+    width: calc(100% + 40px);
+    -ms-overflow-style: none;
     overflow: -moz-scrollbars-none;
 }
 
 .section-title {
-	font-family: "Hiragino Kaku Gothic Std";
-	font-size: 36px;
-	line-height: 36px;
-	margin-bottom: .5rem;
+    font-family: "Hiragino Kaku Gothic Std";
+    font-size: 36px;
+    line-height: 36px;
+    margin-bottom: .5rem;
 }
 
 .section-text {
-	font-family: "Avenir Next", sans-serif;
-	font-size: 14px;
-	font-weight: 600;
+    font-family: "Avenir Next", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
 }
 
 .section-description {
-	margin-left: auto;
-	max-height: 105px;
-	width: 80%;
+    margin-left: auto;
+    max-height: 105px;
+    width: 80%;
 }
 
 .duration-label {
-	font-size: 10px;
-	text-align: left;
+    font-size: 10px;
+    text-align: left;
 }
 
 .section-video-preview {
-	align-items: center;
-	display: flex;
-	height: 85px;
-	text-align: left;
-	width: fit-content;
-	width: -moz-fit-content;
+    align-items: center;
+    display: flex;
+    height: 85px;
+    text-align: left;
+    width: fit-content;
+    width: -moz-fit-content;
 }
 
 .video-timeline-shadowed {
-	box-shadow: 0 0 4px 0;
+    box-shadow: 0 0 4px 0;
 }
 
 .video-timeline-connector {
-	background-color: white;
-	height: 5px;
-	margin: 0 -20px;
-	width: 40px;
-	z-index: 0;
+    background-color: white;
+    height: 5px;
+    margin: 0 -20px;
+    width: 40px;
+    z-index: 0;
 }
 
 .video-timeline-description {
     align-items: center;
-	background-color: white;
-	border-radius: 3px;
-	/* TODO: make me the brand color */
-	color: black;
+    background-color: white;
+    border-radius: 3px;
+    /* TODO: make me the brand color */
+    color: black;
     display: flex;
     flex-direction: row;
-	height: 75px;
-	margin: 0 20px;
-	padding: 10px;
-	position: relative;
-	width: 275px;
-	z-index: 1;
+    height: 75px;
+    margin: 0 20px;
+    padding: 10px;
+    position: relative;
+    width: 275px;
+    z-index: 1;
 }
 
 .video-timeline-description-inner {
-	max-height: 100%;
-	overflow: hidden;
+    max-height: 100%;
+    overflow: hidden;
 }
 
 .video-timeline-description-inner > h1 {
-	font-size: 14px;
-	margin-bottom: 0;
+    font-size: 14px;
+    margin-bottom: 0;
 }
 
 .video-timeline-description-inner > p {
-	font-size: 12px;
-	font-weight: 300;
-	margin-top: .5rem;
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: .5rem;
 }
 
 .video-timeline-description > i {
-	font-size: 24px;
-	margin: 0 15px;
+    font-size: 24px;
+    margin: 0 15px;
 }
 
 .side-bleed {
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 75%;
-	height: 220px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75%;
+    height: 220px;
 }
 
 .gradient-bleed {
-	width: 100%;
-	height: 220px;
-	position: absolute;
+    width: 100%;
+    height: 220px;
+    position: absolute;
 }
 
 .no-underline:hover {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 .color-1,
@@ -187,7 +222,7 @@ img.page-logo {
 .color-1 a,
 .color-1 h1, 
 .color-1 i {
-	color: #12C72D;
+    color: #12C72D;
 }
 
 .color-2,
@@ -195,7 +230,7 @@ img.page-logo {
 .color-2 a,
 .color-2 h1, 
 .color-2 i {
-	color: #00BD89;
+    color: #00BD89;
 }
 
 .color-3,
@@ -203,7 +238,7 @@ img.page-logo {
 .color-3 a,
 .color-3 h1, 
 .color-3 i {
-	color: #00ACDA;
+    color: #00ACDA;
 }
 
 .color-4,
@@ -211,7 +246,7 @@ img.page-logo {
 .color-4 a,
 .color-4 h1, 
 .color-4 i {
-	color: #0093FF;
+    color: #0093FF;
 }
 
 .color-5,
@@ -219,7 +254,7 @@ img.page-logo {
 .color-5 a,
 .color-5 h1, 
 .color-5 i {
-	color: #006CFF;
+    color: #006CFF;
 }
 
 .color-6,
@@ -227,59 +262,59 @@ img.page-logo {
 .color-6 a,
 .color-6 h1, 
 .color-6 i {
-	color: #8E1DC2;
+    color: #8E1DC2;
 }
 
 .background-gradient-1 {
-	background: linear-gradient(
-		to right, 
-		#12C72D88 0%, 
-		#12C72DFF 65%,
-		#12C72DFF 100%
-	);
+    background: linear-gradient(
+        to right, 
+        #12C72D88 0%, 
+        #12C72DFF 65%,
+        #12C72DFF 100%
+    );
 }
 
 .background-gradient-2 {
-	background: linear-gradient(
-		to right, 
-		#00BD8988 0%, 
-		#00BD89FF 65%,
-		#00BD89FF 100%
-	);
+    background: linear-gradient(
+        to right, 
+        #00BD8988 0%, 
+        #00BD89FF 65%,
+        #00BD89FF 100%
+    );
 }
 
 .background-gradient-3 {
-	background: linear-gradient(
-		to right, 
-		#00ACDA88 0%, 
-		#00ACDAFF 65%,
-		#00ACDAFF 100%
-	);
+    background: linear-gradient(
+        to right, 
+        #00ACDA88 0%, 
+        #00ACDAFF 65%,
+        #00ACDAFF 100%
+    );
 }
 
 .background-gradient-4 {
-	background: linear-gradient(
-		to right, 
-		#0093FF88 0%, 
-		#0093FFFF 65%,
-		#0093FFFF 100%
-	);
+    background: linear-gradient(
+        to right, 
+        #0093FF88 0%, 
+        #0093FFFF 65%,
+        #0093FFFF 100%
+    );
 }
 
 .background-gradient-5 {
-	background: linear-gradient(
-		to right, 
-		#006CFF88 0%, 
-		#006CFFFF 65%,
-		#006CFFFF 100%
-	);
+    background: linear-gradient(
+        to right, 
+        #006CFF88 0%, 
+        #006CFFFF 65%,
+        #006CFFFF 100%
+    );
 }
 
 .background-gradient-6 {
-	background: linear-gradient(
-		to right, 
-		#8E1DC288 0%, 
-		#8E1DC2FF 65%,
-		#8E1DC2FF 100%
-	);
+    background: linear-gradient(
+        to right, 
+        #8E1DC288 0%, 
+        #8E1DC2FF 65%,
+        #8E1DC2FF 100%
+    );
 }
