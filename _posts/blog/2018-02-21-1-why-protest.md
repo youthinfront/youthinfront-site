@@ -6,11 +6,11 @@ cards:
     - content: 
         title: Nonviolence and Protest
         subtitle: Dr. King's Principles of Non-Violence
-        href: /why-protest-resources.html
+        href: /nonviolence-and-protest.html
     - content: 
         title: Creative Nonviolent Resistence
         subtitle: Jamila Raqib's TED Talk on Secrets of Effective Nonviolence
-        href: /why-protest-resources.html
+        href: /effective-nonviolent-resistence.html
     - content: 
         title: Miscellaneous Resources
         subtitle: Find more links to various websites and articles here.
