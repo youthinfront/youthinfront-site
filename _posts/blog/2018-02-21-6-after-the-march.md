@@ -14,7 +14,7 @@ cards:
         href: http://aclu.org
         is_video: true
 category: blog
-bg_img: http://anadiycrafts.com/wp-content/uploads/2017/03/socket-puppet.jpg
+bg_img: /images/what-happens-after-the-march-bg2.jpg
 students: true
 teachers: true
 ---
