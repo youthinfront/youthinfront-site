@@ -20,14 +20,14 @@ img.page-logo {
 	margin-right: 20px;
 }
 
-.sub-header-about {
+.sub-header-item {
 	display: inline;
-	list-style-type: none; 
 	padding-right:10px;
 }
 
 .sub-header-about ul {
 	display: inline-block;
+	list-style-type: none; 
 	margin-bottom: 0;
 	padding: 0;
 }
