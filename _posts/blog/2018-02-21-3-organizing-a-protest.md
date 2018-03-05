@@ -20,7 +20,7 @@ cards:
         subtitle: Strategies to reduce student activism
         href: /how-schools-prevent-walkouts.html
 category: blog
-bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
+bg_img: /images/how-do-i-organize-a-protest-bg2.jpg
 students: true
 teachers: false
 ---
