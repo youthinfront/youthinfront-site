@@ -9,6 +9,6 @@ layout: default
 
 * Create an argument around facts, statistics and logic.
 
-* Create an appeal based on emotion, and tap into shared feelings or values.[Generation Citizen](
+* Create an appeal based on emotion, and tap into shared feelings or values.
 
 Thanks to [Generation Citizen](https://generationcitizen.org) for sharing this great resource from their Tactics Toolkit!
