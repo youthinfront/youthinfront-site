@@ -24,7 +24,7 @@ cards:
         subtitle: Strategies to reduce student activism
         href: /how-schools-prevent-walkouts.html
 category: blog
-bg_img: /images/how-do-i-organize-a-protest-bg2.jpg
+bg_img: /images/how-do-i-organize-a-protest-bg.jpg
 students: true
 teachers: false
 ---

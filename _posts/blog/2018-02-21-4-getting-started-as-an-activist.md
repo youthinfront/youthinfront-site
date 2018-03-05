@@ -14,7 +14,7 @@ cards:
         
       
 category: blog
-bg_img: /images/how-to-start-as-an-activist-bg6.jpg
+bg_img: /images/how-to-start-as-an-activist-bg.jpg
 students: true
 teachers: true
 ---

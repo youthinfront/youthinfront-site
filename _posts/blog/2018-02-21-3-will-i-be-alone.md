@@ -8,7 +8,7 @@ cards:
         subtitle: Around the country, young people are organizing against gun violence
         href: /marches-and-walkouts-against-gun-violence-2018.html
 category: blog
-bg_img: /images/will-i-be-alone-bg6.jpg
+bg_img: /images/will-i-be-alone-bg.jpg
 students: true
 teachers: false
 ---
