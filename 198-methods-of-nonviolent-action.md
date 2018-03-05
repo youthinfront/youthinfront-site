@@ -14,4 +14,5 @@ layout: page
 * (141) Civil disobedience of “illegitimate” laws
 * (174) Establishing new social patterns
 
-Read the rest at the Albert Einstein Institute's [198 Methods of Nonviolent Action(https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
+Read the rest at the Albert Einstein Institute's [198 Methods of Nonviolent Action](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
+
