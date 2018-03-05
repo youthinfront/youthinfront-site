@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Help Your Teachers Help You
