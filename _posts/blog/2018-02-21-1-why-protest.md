@@ -7,6 +7,7 @@ cards:
         title: Barack Obama
         subtitle: Read about the former president here.
         href: /why-protest-barack-obama.html
+        is_video: true
     - content:
         title: Charles Maudlin
         subtitle: Read about the civil rights leader here.

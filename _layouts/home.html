@@ -22,10 +22,10 @@ layout: default
               {% if forloop.index != 1 %}
                 <div class="video-timeline-connector"></div>
               {% endif %}
-              <a href="{{card.content.href}}">
+              <a class="no-underline" href="{{card.content.href}}">
                 <div class="video-timeline-description video-timeline-shadowed">
+                  {% if card.content.is_video %}<i class="fas fa-play"></i>{% endif %}
                   <div class="video-timeline-description-inner">
-                    {% if post.content.is_video %}<i class="fas fa-play"></i>{% endif %}
                     <h1>{{card.content.title}}</h1>
                     <p>{{card.content.subtitle}}</p>
                   </div>
