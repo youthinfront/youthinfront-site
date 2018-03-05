@@ -6,11 +6,11 @@ cards:
     - content:
         title: "How to organize a walkout"
         subtitle: A guide from the Harry Potter Alliance
-        href: /how-to-organize-hpa-walkout-guide.md
+        href: /how-to-organize-hpa-walkout-guide.html
     - content:
         title: "Walkout Organizing Toolkit"
         subtitle: The Women's March Youth Empower organizing kit
-        href: /womens-march-enough-walkout-toolkit.md
+        href: /womens-march-enough-walkout-toolkit.html
     - content:
         title: "What is the difference: Walkout, March, Protest?"
         subtitle: The basics.
