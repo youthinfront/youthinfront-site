@@ -17,11 +17,16 @@ img.page-logo {
 }
 
 .sub-header-about {
-	text-align: right; 
 	display: inline;
 	list-style-type: none; 
-	padding: 0 10px;
+	padding-right:10px;
 
+}
+
+.sub-header-about ul {
+	display: inline-block;
+	margin-bottom: 0;
+	padding:0;
 }
 
 .sub-header-about img {
