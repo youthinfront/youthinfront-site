@@ -36,7 +36,7 @@ img.page-logo {
 }
 
 .top-level-tabs > div.active-audience::after {
-	background-color: #00ACDA;
+	background-color: #12C72D;
 	bottom: 0px;
 	content: "";
 	height: 4px;
@@ -46,7 +46,7 @@ img.page-logo {
 }
 
 .top-level-tabs > div > a {
-	color: #00ACDA;
+	color: #12C72D;
 	font-family: "Avenir Next", sans-serif;
 	font-size: 20px;
 	font-weight: 300;
