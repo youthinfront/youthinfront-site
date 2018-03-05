@@ -14,7 +14,7 @@ cards:
         href: http://aclu.org
         is_video: true
 category: blog
-bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
+bg_img: /images/how-do-i-stay-safe-bg6.jpg
 students: true
 teachers: false
 ---
