@@ -7,10 +7,12 @@ cards:
         title: First Video
         subtitle: All about the first video
         href: http://google.com
+        is_video: true
     - content:
         title: Second Video
         subtitle: All about the second video
         href: http://aclu.org
+        is_video: true
 category: blog
 bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
 students: true

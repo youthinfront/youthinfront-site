@@ -27,7 +27,7 @@ layout: default
                   {% if card.content.is_video %}<i class="fas fa-play"></i>{% endif %}
                   <div class="video-timeline-description-inner">
                     <h1>{{card.content.title}}</h1>
-                    <p>{{card.content.subtitle}}</p>
+                    {% if card.content.subtitle %}<p>{{card.content.subtitle}}</p>{% endif %}
                   </div>
                 </div>
               </a>
