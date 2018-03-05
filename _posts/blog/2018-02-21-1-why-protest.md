@@ -4,8 +4,12 @@ title: Why protest?
 subtitle: Will it make a difference?
 cards:
     - content: 
-        title: Non-violence and Protest
+        title: Nonviolence and Protest
         subtitle: Dr. King's Principles of Non-Violence
+        href: /why-protest-resources.html
+    - content: 
+        title: Creative Nonviolent Resistence
+        subtitle: Jamila Raqib's TED Talk on Secrets of Effective Nonviolence
         href: /why-protest-resources.html
     - content: 
         title: Miscellaneous Resources
