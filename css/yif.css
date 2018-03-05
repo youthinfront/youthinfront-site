@@ -288,53 +288,53 @@ img.page-logo {
 .background-gradient-1 {
     background: linear-gradient(
         to right, 
-        #12C72D88 0%, 
-        #12C72DFF 65%,
-        #12C72DFF 100%
+        rgba(18,199,45,0.533) 0%, 
+       	rgba(18,199,45,1) 65%,
+        rgba(18,199,45,1) 100%
     );
 }
 
 .background-gradient-2 {
     background: linear-gradient(
         to right, 
-        #00BD8988 0%, 
-        #00BD89FF 65%,
-        #00BD89FF 100%
+        rgba(0,189,137,0.533) 0%, 
+        rgba(0,189,137,1) 65%,
+        rgba(0,189,137,1) 100%
     );
 }
 
 .background-gradient-3 {
     background: linear-gradient(
         to right, 
-        #00ACDA88 0%, 
-        #00ACDAFF 65%,
-        #00ACDAFF 100%
+        rgba(0,172,218,0.533) 0%, 
+        rgba(0,172,218,1) 65%,
+        rgba(0,172,218,1) 100%
     );
 }
 
 .background-gradient-4 {
     background: linear-gradient(
         to right, 
-        #0093FF88 0%, 
-        #0093FFFF 65%,
-        #0093FFFF 100%
+        rgba(0,147,255,0.533) 0%, 
+        rgba(0,147,255,1) 65%,
+        rgba(0,147,255,1) 100%
     );
 }
 
 .background-gradient-5 {
     background: linear-gradient(
         to right, 
-        #006CFF88 0%, 
-        #006CFFFF 65%,
-        #006CFFFF 100%
+        rgba(0,108,255,0.533) 0%, 
+        rgba(0,108,255,1) 65%,
+        rgba(0,108,255,1) 100%
     );
 }
 
 .background-gradient-6 {
     background: linear-gradient(
         to right, 
-        #8E1DC288 0%, 
-        #8E1DC2FF 65%,
-        #8E1DC2FF 100%
+        rgba(142,29,194,0.533) 0%, 
+        rgba(142,29,194,1) 65%,
+        rgba(142,29,194,1) 100%
     );
 }
