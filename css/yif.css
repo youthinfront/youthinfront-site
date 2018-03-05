@@ -12,7 +12,7 @@ img.page-logo {
 	background-color: #333;
 	color: #BBB;
 	font-size: 12px;
-	padding: 5px 0;
+	padding: 10px 0;
 	text-align: center;
 }
 
@@ -32,7 +32,7 @@ img.page-logo {
 	padding: 20px 0;
 	position: relative;
 	text-align: center;
-	width: 125px;
+	width: 100px;
 }
 
 .top-level-tabs > div.active-audience::after {
@@ -168,7 +168,7 @@ img.page-logo {
 .side-bleed {
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 100%;
+	width: 75%;
 	height: 220px;
 }
 
