@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 3 Ways to Persuade Someone in Power
