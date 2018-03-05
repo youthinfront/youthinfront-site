@@ -11,6 +11,7 @@ cards:
         title: Creative Nonviolent Resistence
         subtitle: Jamila Raqib's TED Talk on Secrets of Effective Nonviolence
         href: /effective-nonviolent-resistence.html
+        is_video: true
     - content: 
         title: Miscellaneous Resources
         subtitle: Find more links to various websites and articles here.
