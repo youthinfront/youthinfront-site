@@ -5,11 +5,14 @@ layout: page
 Upcoming Marches and Walkouts Against Gun Violence
 =================
 
-There are three national actions planned in March and April of 2018 to protest gun violence. 
-* March 14 | [ENOUGH: National School Walkout] (https://www.womensmarch.com/enough) | Organized by Women's March Empower Youth Organization
-* March 24 | [March for Our Lives in Washington DC and Local Communities] (https://marchforourlives.com/) | Organized by Parkland students
-* April 20 | [National School Walkout](http://nationalschoolwalkout.us/) | Commemorates 19th anniversary of Columbine shooting | Organized by youth across the U.S. 
+<br>
+There are three upcoming protests in schools across the United States, likely with more emerging as dates approach. 
+[Click here](https://www.actionnetwork.org/event_campaigns/enough-national-school-walkout) to find where ENOUGH: National School Walkout events are happening near you on **March 14**
 
-![alt text](/images/will-i-be-alone-map-1.png)
+![alt text](/images/will-i-be-alone-map-1.png){:height="50%" width="50%"}
 
-![alt text](/images/will-i-be-alone-map-2.png)
+[Click here](https://event.marchforourlives.com/event/march-our-lives-events/search/) to find where March for Our Lives events are happening near you on **March 24**
+
+![alt text](/images/will-i-be-alone-map-2.png){:height="50%" width="50%"}
+
+[Click here](http://nationalschoolwalkout.us/) to find our where National School Walkout events are happening near you on **April 20**, the 19 year anniversary of the Columbine shooting. 
