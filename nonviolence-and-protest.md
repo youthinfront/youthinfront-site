@@ -2,10 +2,10 @@
 layout: page
 ---
 
-Martin Luther King Jr.'s Six Principles of Non-Violence
+Martin Luther King Jr.'s Six Principles of Nonviolence
 =================
 
-Non-violent protest has been an essential part of social and political change in American history. Martin Luther King Jr. laid out six principles of non-violence in his book [*Stride Towards Freedom*](https://www.amazon.com/Stride-Toward-Freedom-Montgomery-Story/dp/0062504908). 
+Nonviolent protest has been an essential part of social and political change in American history. Martin Luther King Jr. laid out six principles of nonviolence in his book [*Stride Towards Freedom*](https://www.amazon.com/Stride-Toward-Freedom-Montgomery-Story/dp/0062504908). 
 
 * **PRINCIPLE ONE:** Nonviolence is a way of life for courageous people.
 * **PRINCIPLE TWO:** Nonviolence seeks to win friendship and understanding.
