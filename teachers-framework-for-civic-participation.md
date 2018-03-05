@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Framework for civic participation in your classroom

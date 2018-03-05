@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 How to let students lead the conversation
