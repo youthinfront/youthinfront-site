@@ -138,6 +138,10 @@ img.page-logo {
     overflow: -moz-scrollbars-none;
 }
 
+.card-bottom::-webkit-scrollbar {
+	width: 0
+}
+
 .section-title {
     font-family: "Hiragino Kaku Gothic Std";
     font-size: 36px;
