@@ -16,6 +16,10 @@ cards:
         subtitle: An introduction to your rights to free speech as a student
         href: /will-i-get-in-trouble-first-amendment-rights.html
     - content:
+        title: National School Board Association Guide
+        subtitle: A legal guide by the NSBA
+        href: /will-i-get-in-trouble-NSBA.html
+    - content:
         title: Houston Public Media
         subtitle: Helpful materials via Houston Public Media. 
         href: /will-i-get-in-trouble-houston-pub.html
