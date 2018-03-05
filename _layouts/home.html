@@ -4,11 +4,12 @@ show_teacher_student_toggle: true
 ---
 
 <main role="main">
-
+  {% assign displayed_posts = 0 %}
   {% for post in site.posts reversed %}
     {% if post[page.audience] %}
+    {% assign displayed_posts = displayed_posts | plus: 1 %}
     <div class="side-bleed" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
-      <div class="gradient-bleed background-gradient-{{forloop.index | plus: -1 | modulo: 6 | plus: 1}}"></div>
+      <div class="gradient-bleed background-gradient-{{displayed_posts | plus: -1 | modulo: 6 | plus: 1}}"></div>
       <div class="card-body">
         <div class="card-top">
           <p class="card-text section-title">{{post.title}}</p>
