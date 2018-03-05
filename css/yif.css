@@ -9,8 +9,8 @@ img.page-logo {
 }
 
 .sub-header {
-	background-color: #333;
-	color: #BBB;
+	background-color: #eeeeee;
+	color: #333333;
 	font-size: 12px;
 	padding: 10px;
 	text-align: left;
@@ -20,13 +20,12 @@ img.page-logo {
 	display: inline;
 	list-style-type: none; 
 	padding-right:10px;
-
 }
 
 .sub-header-about ul {
 	display: inline-block;
 	margin-bottom: 0;
-	padding:0;
+	padding: 0;
 }
 
 .sub-header-about img {
