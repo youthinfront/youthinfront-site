@@ -14,7 +14,7 @@ cards:
         href: http://aclu.org
         is_video: true
 category: blog
-bg_img: /images/what-happens-after-the-march-bg2.jpg
+bg_img: /images/what-happens-after-the-march-bg6.jpg
 students: true
 teachers: true
 ---
