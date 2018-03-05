@@ -4,6 +4,10 @@ title: Why protest?
 subtitle: Will it make a difference?
 cards:
     - content: 
+        title: Non-violence and Protest
+        subtitle: Dr. King's Principles of Non-Violence
+        href: /why-protest-resources.html
+    - content: 
         title: Miscellaneous Resources
         subtitle: Find more links to various websites and articles here.
         href: /why-protest-resources.html
