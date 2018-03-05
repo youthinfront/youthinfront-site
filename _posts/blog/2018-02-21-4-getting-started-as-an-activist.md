@@ -9,7 +9,7 @@ cards:
         href: /how-to-write-an-oped.html
     - content:
         title: 198 Methods of Nonviolent Action
-        subtitle: More ideas for ways to support a cause you care about
+        subtitle: You won't believe how #62 speaks truth to power
         href: /198-methods-of-nonviolent-action.html   
         
       
