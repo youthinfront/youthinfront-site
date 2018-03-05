@@ -59,7 +59,7 @@ cards:
         href: /why-protest-inspirational-quotes.html
  
 category: blog
-bg_img: /images/who-inspired-you-bg2.jpg
+bg_img: /images/who-inspired-you-bg3.jpg
 students: true
 teachers: false
 ---
