@@ -8,7 +8,7 @@ cards:
         subtitle: Not ready to storm the barricades? Write an op-ed in your local newspaper.
         href: /how-to-write-an-oped.html
 category: blog
-bg_img: https://i.ytimg.com/vi/oTcalBQCe6s/maxresdefault.jpg
+bg_img: /images/how-to-start-as-an-activist-bg2.jpg
 students: true
 teachers: true
 ---
