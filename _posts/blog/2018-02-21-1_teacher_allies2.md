@@ -7,7 +7,18 @@ cards:
         title: Youth and Social Movements
         subtitle: Key lessons for allies
         href: /youth-and-social-movements-lessons-for-allies.html
-        
+    - content:
+        title: Civic participation in the classroom
+        subtitle: Framework for conversations about protest
+        href: /teachers-framework-for-civic-participation.html   
+    - content:
+        title: How to let students lead the discussion
+        subtitle: Four tips for classroom discussion
+        href: /teachers-how-to-let-students-lead-the-conversation.html
+    - content:
+        title: Short activities to empower students
+        subtitle: Engage with current events
+        href: /teachers-short-activities-to-empower-our-students.html
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: false
