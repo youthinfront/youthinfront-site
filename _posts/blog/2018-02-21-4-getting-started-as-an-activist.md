@@ -11,7 +11,10 @@ cards:
         title: 198 Methods of Nonviolent Action
         subtitle: You won't believe how number 62 speaks truth to power
         href: /198-methods-of-nonviolent-action.html   
-        
+    - content:
+        title: Create a petition
+        subtitle: Find allies and create a shared voice
+        href: /circulate-a-petition.html  
       
 category: blog
 bg_img: /images/how-to-start-as-an-activist-bg6.jpg
