@@ -59,7 +59,7 @@ cards:
         href: /why-protest-inspirational-quotes.html
  
 category: blog
-bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
+bg_img: /images/who-inspired-you-bg2.jpg
 students: true
 teachers: false
 ---
