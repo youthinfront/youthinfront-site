@@ -13,11 +13,11 @@ cards:
         subtitle: All about the second video
         href: http://aclu.org
         is_video: true
-   - content:
+    - content:
         title: Greensboro Lunch Counter Sit-Ins
         subtitle: Read about the 1960s sit-ins here.
         href: /why-protest-greensboro.html
-   - content:
+    - content:
         title: Chicago Public Schools Boycott
         subtitle: Read about the 1963 boycott here.
         href: /why-protest-chicago.html    
