@@ -53,7 +53,7 @@ cards:
         href: /why-protest-resources.html
 
 category: blog
-bg_img: https://media.nbcdfw.com/images/652*367/Fairfax+County+Sock+Drive.jpg
+bg_img: /images/why-protest-bg1.jpg
 students: true
 teachers: true
 ---
