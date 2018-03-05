@@ -12,7 +12,7 @@ cards:
         subtitle: Get involved here.
         href: /marches-and-walkouts-against-gun-violence-2018.html
 category: blog
-bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
+bg_img: /images/will-i-be-alone-bg3.jpg
 students: true
 teachers: false
 ---
