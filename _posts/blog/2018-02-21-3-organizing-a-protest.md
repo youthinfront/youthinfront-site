@@ -4,6 +4,10 @@ title: How do I organize a protest?
 subtitle: Yeah, how do I?
 cards:
     - content:
+        title: "Walkout Organizing Toolkit"
+        subtitle: The Women's March Youth Empower organizing kit
+        href: /womens-march-enough-walkout-toolkit.md
+    - content:
         title: "What is the difference: Walkout, March, Protest?"
         subtitle: The basics.
         href: /difference-between-march-walkout.html
@@ -20,7 +24,7 @@ cards:
         subtitle: Strategies to reduce student activism
         href: /how-schools-prevent-walkouts.html
 category: blog
-bg_img: /images/how-do-i-organize-a-protest-bg6.jpg
+bg_img: /images/how-do-i-organize-a-protest-bg2.jpg
 students: true
 teachers: false
 ---
