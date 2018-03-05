@@ -53,7 +53,7 @@ cards:
         href: /why-protest-resources.html
 
 category: blog
-bg_img: /images/why-protest-bg1.jpg
+bg_img: /images/why-protest-bg2.jpg
 students: true
 teachers: true
 ---
