@@ -5,7 +5,7 @@ subtitle:
 cards:
    
 category: blog
-bg_img: 
+bg_img: /images/how-do-i-get-adults-on-my-side-bg2.jpg
 students: false
 teachers: true
 ---
