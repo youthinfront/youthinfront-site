@@ -3,7 +3,10 @@ layout: post
 title: Can I get in trouble for supporting students?
 subtitle: Safely supporting student civic action
 cards:
-   
+    - content:
+        title: "National School Board Association Guide"
+        subtitle: A legal guide by the NSBA
+        href: /teachers-in-trouble-NSBA.html
 category: blog
 bg_img: /images/can-teachers-be-allies-bg.jpg
 students: false
