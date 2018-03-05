@@ -25,14 +25,14 @@ img.page-logo {
 	padding-right:10px;
 }
 
-.sub-header-about ul {
+.sub-header-item ul {
 	display: inline-block;
 	list-style-type: none; 
 	margin-bottom: 0;
 	padding: 0;
 }
 
-.sub-header-about img {
+.sub-header-item img {
 	max-width: 155px;
 }
 
