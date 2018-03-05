@@ -4,10 +4,9 @@ title: How do I stay safe?
 subtitle: Staying safe during a walkout or protest
 cards:
     - content:
-        title: First Video
-        subtitle: All about the first video
-        href: http://google.com
-        is_video: true
+        title: 21 Tips for Safe Protest
+        subtitle: A Self Magazine article from the Women's March
+        href: /self-magazine-protest-rights-safety.html
     - content:
         title: Second Video
         subtitle: All about the second video
