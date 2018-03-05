@@ -4,13 +4,13 @@ title: What happens after the march?
 subtitle: Moving from March to Movement
 cards:
     - content:
-        title: First Video
-        subtitle: All about the first video
-        href: http://google.com
+        title: Exploring activism as a long term fight
+        subtitle: Activities for the classroom 
+        href: /teachers-after-march-exploring-activism.html
     - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
+        title: Welcoming student feedback
+        subtitle: How to collect feedback and encourage student leadership
+        href: /teachers-after-march-student-feedback.html
 category: blog
 bg_img: /images/what-happens-after-the-march-bg.jpg
 students: false
