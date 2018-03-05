@@ -20,7 +20,7 @@ cards:
         subtitle: Read the Washington Post piece on the legality of threatening suspensions here.
         href: /will-i-get-in-trouble-wash-post.html
 category: blog
-bg_img: /images/will-i-get-in-trouble-bg6.jpg
+bg_img: /images/will-i-get-in-trouble-bg.jpg
 students: true
 teachers: false
 ---

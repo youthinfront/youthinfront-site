@@ -5,7 +5,7 @@ subtitle: Safely supporting student civic action
 cards:
    
 category: blog
-bg_img: /images/can-teachers-be-allies-bg6.jpg
+bg_img: /images/can-teachers-be-allies-bg.jpg
 students: false
 teachers: true
 ---
