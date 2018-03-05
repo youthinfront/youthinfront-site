@@ -13,8 +13,11 @@ img.page-logo {
 	color: #333333;
 	font-size: 12px;
 	padding: 10px;
-	margin-right: 20px;
 	text-align: left;
+}
+
+.sub-title {
+	margin-right: 20px;
 }
 
 .sub-header-about {
