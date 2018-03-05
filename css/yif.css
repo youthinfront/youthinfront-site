@@ -132,7 +132,7 @@ img.page-logo {
 
 .card-bottom {
     margin: 0 -20px;
-    overflow-x: scroll;
+    overflow-x: hidden;
     width: calc(100% + 40px);
     -ms-overflow-style: none;
     overflow: -moz-scrollbars-none;
