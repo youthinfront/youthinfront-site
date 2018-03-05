@@ -8,7 +8,7 @@ cards:
         subtitle: From the National Association of Secondary School Principals
         href: /nassp-advice-for-principals-for-walkouts.html
 category: blog
-bg_img: https://i.ytimg.com/vi/8vS6kIbJu64/maxresdefault.jpg
+bg_img: /images/how-do-i-get-adults-on-my-side-bg2.jpg
 students: true
 teachers: false
 ---
