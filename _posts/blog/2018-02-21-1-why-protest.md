@@ -13,7 +13,7 @@ cards:
         href: /why-protest-resources.html
 
 category: blog
-bg_img: /images/why-protest-bg3.jpg
+bg_img: /images/why-protest-bg4.jpg
 background-position: center
 students: true
 teachers: true
