@@ -12,6 +12,10 @@ cards:
         subtitle: A 35-minute recorded webinar on student free speech rights and limits
         href: /aclu-training-on-walkouts.html
     - content:
+        title: Student first amendment rights
+        subtitle: An introduction to your rights to free speech as a student
+        href: /will-i-get-in-trouble-first-amendment-rights.html
+    - content:
         title: Houston Public Media
         subtitle: Helpful materials via Houston Public Media. 
         href: /will-i-get-in-trouble-houston-pub.html
