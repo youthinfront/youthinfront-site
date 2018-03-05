@@ -54,6 +54,7 @@ cards:
 
 category: blog
 bg_img: /images/why-protest-bg3.jpg
+background-position: center
 students: true
 teachers: true
 ---
