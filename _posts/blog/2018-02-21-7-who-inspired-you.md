@@ -57,7 +57,7 @@ cards:
         title: Inspirational Quotes
         subtitle: Read some inspirational quotes here.
         href: /why-protest-inspirational-quotes.html
-    - content: 
+ 
 category: blog
 bg_img: https://ae01.alicdn.com/kf/HTB188XCSpXXXXbPaXXXq6xXFXXXz/SP-CITY-New-Colored-Ball-Cute-Socks-Women-Fashion-Winter-Warm-Short-Socks-Japan-Style-Popular.jpg_640x640.jpgÍ
 students: true
