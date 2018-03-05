@@ -1,12 +1,10 @@
 ---
 layout: default
+show_teacher_student_toggle: true 
 ---
 
 <main role="main">
-  <div class="top-level-tabs">
-    <div class="{% if page.audience == 'students' %}active-audience{% endif %}"><a href="/">Students</a></div>
-    <div class="{% if page.audience == 'teachers' %}active-audience{% endif %}"><a href="/teachers.html">Teachers</a></div>
-  </div>
+
   {% for post in site.posts reversed %}
     {% if post[page.audience] %}
     <div class="side-bleed" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">

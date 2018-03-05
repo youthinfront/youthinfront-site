@@ -21,16 +21,22 @@
 
   <body>
 
-    <header>
-      <div class="navbar">
+    <header class="sticky-top">
+      <div class="navbar yif-navbar">
         <a href="/"><img class="page-logo" src="/images/logo-black-wide.png"/></a>
-        <div class="float-right tagline">
-          Advice on Walkouts from<br/>
-          Experienced Youth<br/>
-          Activists and Allies
-        </div>
+        {% if layout.show_teacher_student_toggle %}
+          <div class="top-level-tabs">
+            <div class="{% if page.audience == 'students' %}active-audience{% endif %}"><a href="/">Students</a></div>
+            <div class="{% if page.audience == 'teachers' %}active-audience{% endif %}"><a href="/teachers.html">Teachers</a></div>
+          </div>
+        {% endif %}
       </div>
     </header>
+
+    <div class="tagline">
+      Advice on Walkouts from Experienced Youth Activists and Allies
+    </div>
+
 
     {{ content }}
 
