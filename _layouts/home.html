@@ -15,7 +15,7 @@ show_teacher_student_toggle: true
           <p class="card-text section-title">{{post.title}}</p>
           <p class="card-text section-description section-text">{{post.subtitle}}</p>
         </div>
-        <div class="card-bottom color-{{forloop.index | plus: -1 | modulo: 6 | plus: 1}}">
+        <div class="card-bottom color-{{displayed_posts | plus: -1 | modulo: 6 | plus: 1}}">
           <div class="card-text section-video-preview">
             {% for card in post.cards %}
               {% if forloop.index != 1 %}
