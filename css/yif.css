@@ -18,6 +18,14 @@ img.page-logo {
 
 .sub-header-about {
 	text-align: right; 
+	display: inline;
+	list-style-type: none; 
+	padding: 0 10px;
+
+}
+
+.sub-header-about img {
+	max-width:150px;
 }
 
 .footer-link {
