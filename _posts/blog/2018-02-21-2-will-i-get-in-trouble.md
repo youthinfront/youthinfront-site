@@ -4,6 +4,10 @@ title: Will I get in trouble?
 subtitle: Know the law, know your rights.
 cards:
     - content:
+        title: ACLU One-Pager on Student Walkouts
+        subtitle: Your First Amendment Guide to Student Walkouts 
+        href: /aclu-onepager-on-walkouts.html
+    - content:
         title: Houston Public Media
         subtitle: Helpful materials via Houston Public Media. 
         href: /will-i-get-in-trouble-houston-pub.html
