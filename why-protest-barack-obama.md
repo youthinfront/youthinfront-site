@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Why Protest?: President Barack Obama

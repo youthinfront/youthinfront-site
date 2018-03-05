@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Will I Get in Trouble?: Houston Public Media

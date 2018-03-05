@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 What's the difference: Walkout, March, Protest?

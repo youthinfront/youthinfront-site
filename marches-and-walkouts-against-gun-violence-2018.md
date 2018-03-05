@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Upcoming Marches and Walkouts Against Gun Violence

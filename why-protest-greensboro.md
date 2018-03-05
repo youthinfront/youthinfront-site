@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Why Protest?: Greensboro, NC Lunch Counter Sit-Ins, 1960

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 How To Talk To Administrators

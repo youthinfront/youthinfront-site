@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Why Protest?: Columbia University Sit-Ins, 1985

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Public School Teachers' Free Speech Rights

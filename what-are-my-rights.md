@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 What Are My Rights? What Are My Risks?

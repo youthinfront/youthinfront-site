@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 I am a page title
