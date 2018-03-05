@@ -11,5 +11,4 @@ Emma Gonzales and other activists from Parkland met with students who have been 
 
 [Read more about Chicago gun violence activists response to the Parkland school shooting](http://www.chicagotribune.com/news/local/breaking/ct-met-fed-plaza-march-gun-reform-20180218-story.html)
 
-[Read more about how "Black Teens Have Been Fighting Gun Violence for Years"]
-(https://www.teenvogue.com/story/black-teens-have-been-fighting-for-gun-reform-for-years.html)
+[Read more about how "Black Teens Have Been Fighting Gun Violence for Years"](https://www.teenvogue.com/story/black-teens-have-been-fighting-for-gun-reform-for-years)
