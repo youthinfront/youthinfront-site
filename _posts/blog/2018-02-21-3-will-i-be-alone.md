@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will I be alone?
-subtitle: No, we're going to do this together.
+subtitle: No, youth will do this together.
 cards:
     - content: 
         title: Upcoming Marches and Walkouts
