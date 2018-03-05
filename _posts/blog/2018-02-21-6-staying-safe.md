@@ -13,7 +13,7 @@ cards:
         href: http://aclu.org
         is_video: true
 category: blog
-bg_img: /images/how-do-i-stay-safe-bg.jpg
+bg_img: /images/how-do-i-stay-safe-bg6.jpg
 students: true
 teachers: false
 ---
