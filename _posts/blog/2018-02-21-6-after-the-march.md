@@ -16,7 +16,7 @@ cards:
 category: blog
 bg_img: /images/what-happens-after-the-march-bg.jpg
 students: true
-teachers: true
+teachers: false
 ---
 
 You should do this at your leisure
