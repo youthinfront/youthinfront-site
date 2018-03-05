@@ -5,7 +5,7 @@ subtitle:
 cards:
     - content:
         title: Youth and Social Movements
-        subtitle: key lessons for allies
+        subtitle: Key lessons for allies
         href: /youth-and-social-movements-lessons-for-allies.html
         
 category: blog
