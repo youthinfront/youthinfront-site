@@ -23,11 +23,11 @@ Framework for civic participation in your classroom
 - Who can support us? 
 - Who can help our voices be heard?
 - Invite them contact: 
--- Government (National, State, Local)
---  Nonprofit Organizations/Charities
--- Industry/Commercial Organizations
--- Professional Media
--- Influential Individuals (Authors, Lecturers, etc.)
+- Government (National, State, Local)
+- Nonprofit Organizations/Charities
+-Industry/Commercial Organizations
+-Professional Media
+-Influential Individuals (Authors, Lecturers, etc.)
 
 #### Provide real life examples
 Lesson plans for civic participation:
