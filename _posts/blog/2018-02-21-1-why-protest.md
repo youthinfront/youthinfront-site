@@ -6,7 +6,11 @@ cards:
     - content: 
         title: Nonviolence and Protest
         subtitle: Dr. King's Principles of Non-Violence
-        href: /nonviolence-and-protest.html
+        href: /nonviolence-and-protest.html 
+    - content: 
+        title: Chicago to Parkland
+        subtitle: The long history of youth activism and gun violence
+        href: /chicago-to-parkland.html
     - content: 
         title: Creative Nonviolent Resistence
         subtitle: Jamila Raqib's TED Talk on Secrets of Effective Nonviolence
