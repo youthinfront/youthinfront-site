@@ -11,6 +11,10 @@ cards:
         title: 3 Ways to Persuade Someone in Power
         subtitle: A guide for communicating with decision-makers
         href: /3-ways-to-persuade-someone-in-power.html
+    - content:
+        title: How Schools Prevent Walkouts
+        subtitle: Strategies to reduce student activism
+        href: /how-schools-prevent-walkouts.html
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: true
