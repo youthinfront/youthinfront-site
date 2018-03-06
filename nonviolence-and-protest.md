@@ -15,10 +15,3 @@ Nonviolent protest has been an essential part of social and political change in 
 * **PRINCIPLE SIX:** Nonviolence believes that the universe is on the side of justice.
 
 For more on Martin Luther King's philosophy of non-violence, visit [The King Center](http://www.thekingcenter.org/king-philosophy).
-
-I am a subtitle
----------------
-
-You don't need to worry about fonts and stuff, just making sure things have a good *structure* (are the titles right?  are there links? are there lists? images?)
-
-Contact john@ on slack to style things
