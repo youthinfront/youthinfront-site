@@ -21,7 +21,7 @@ cards:
         href: /teachers-short-activities-to-empower-our-students.html
     - content:
         title: Ways to support students without walking out
-        subtitle: Political engagement without protest
+        subtitle: Engaging inside the classroom
         href: /ways-to-support-students-without-walking-out.html
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
