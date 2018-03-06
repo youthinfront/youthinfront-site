@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Ways to Support Students Without Walking Out
