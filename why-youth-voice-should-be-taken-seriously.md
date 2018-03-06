@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Why Youth Voice Should Be Taken Seriously
