@@ -10,8 +10,11 @@ cards:
     - content:
         title: NSBA on Teacher Speech Outside School
         subtitle: Freer, but courts have defined limits
-        href: nsba-teacher-speech-outside-school.html    
-        
+        href: /nsba-teacher-speech-outside-school.html    
+    - content:
+        title: ACLU guide on teacher's free speech rights
+        subtitle: Some tips from the ACLU
+        href: /free-speech-rights-public-school-teachers.html         
         
 category: blog
 bg_img: /images/can-teachers-be-allies-bg.jpg
