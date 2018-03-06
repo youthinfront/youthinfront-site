@@ -13,6 +13,10 @@ cards:
         subtitle: All about the second video
         href: http://aclu.org
         is_video: true
+    - content:
+        title: High School Students' Field Guide for Activism
+        subtitle: 10 Week Plan for Legislative Action
+        href: http://making-legislative-change.html
 category: blog
 bg_img: /images/what-happens-after-the-march-bg.jpg
 students: true
