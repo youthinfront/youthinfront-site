@@ -6,7 +6,7 @@ cards:
     - content:
         title: NSBA on Teacher Speech
         subtitle: Employee speech has rights and limits
-        href: /teachers-in-trouble-NSBA.html
+        href: /nsba-teacher-speech-rights.html
 category: blog
 bg_img: /images/can-teachers-be-allies-bg.jpg
 students: false
