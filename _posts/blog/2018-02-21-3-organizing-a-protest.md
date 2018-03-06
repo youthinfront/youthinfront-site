@@ -20,10 +20,6 @@ cards:
         subtitle: The basics.
         href: /difference-between-march-walkout.html
     - content:
-        title: Upcoming protests
-        subtitle: Information on three upcoming national student protest events
-        href: /how-to-organize-info-on-the-three-protests.html
-    - content:
         title: How do I join an existing movement?
         subtitle: "#teamwork"
         href: /how-to-join-an-existing-movement.html  
