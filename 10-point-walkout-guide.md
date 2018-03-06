@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Walk Out and Keep Moving's 10 Point Walkout Guide
