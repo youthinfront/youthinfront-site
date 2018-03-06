@@ -10,7 +10,7 @@ National School Board Association Guide on Student and Employee Speech
 > Yes. Students have a constitutional right to free speech at school, but schools may regulate speech that interferes with the operations of the school or infringes upon the rights of others. 
 					
 2. Is a student’s right to free speech at school absolute?
-> No. Schools can also regulate speech when the school reasonably forecasts material disruption. Be familiar with the type of circumstances that courts have identi ed as constituting “material and substantial disruption” or “impingement” of the rights of others. 
+> No. Schools can also regulate speech when the school reasonably forecasts material disruption. Be familiar with the type of circumstances that courts have identified as constituting “material and substantial disruption” or “impingement” of the rights of others. 
 				
 3. Is protest a form of protected student speech?
 > Yes. Protest is a recognized form of protected student speech
