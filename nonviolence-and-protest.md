@@ -14,4 +14,4 @@ Nonviolent protest has been an essential part of social and political change in 
 * **PRINCIPLE FIVE:** Nonviolence chooses love instead of hate.
 * **PRINCIPLE SIX:** Nonviolence believes that the universe is on the side of justice.
 
-For more on Martin Luther King's philosophy of non-violence, visit [The King Center](http://www.thekingcenter.org/king-philosophy).
+For more on Martin Luther King's philosophy of nonviolence, visit [The King Center](http://www.thekingcenter.org/king-philosophy).
