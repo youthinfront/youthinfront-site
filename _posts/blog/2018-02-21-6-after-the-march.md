@@ -16,7 +16,7 @@ cards:
     - content:
         title: High School Students' Field Guide for Activism
         subtitle: 10 Week Plan for Legislative Action
-        href: http://making-legislative-change.html
+        href: /making-legislative-change.html
 category: blog
 bg_img: /images/what-happens-after-the-march-bg.jpg
 students: true
