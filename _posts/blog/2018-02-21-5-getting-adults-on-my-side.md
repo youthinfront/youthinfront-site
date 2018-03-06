@@ -22,7 +22,11 @@ cards:
     - content:
         title: How to talk to a decision maker
         subtitle: Guide on structuring talking points
-        href: /how-to-talk-to-a-decision-maker.html        
+        href: /how-to-talk-to-a-decision-maker.html    
+    - content:
+        title: Guidelines on meeting with decision makers
+        subtitle: Tips on what to do before, during, and after your meeting
+        href: /students-how-to-meet-decision-maker.html          
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: true
