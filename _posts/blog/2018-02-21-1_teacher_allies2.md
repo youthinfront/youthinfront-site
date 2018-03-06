@@ -7,7 +7,7 @@ cards:
         title: Youth and Social Movements
         subtitle: Key lessons for allies
         href: /youth-and-social-movements-lessons-for-allies.html
-   - content:
+    - content:
         title: Civic participation in the classroom
         subtitle: Framework for conversations about protest
         href: /teachers-framework-for-civic-participation.html   
