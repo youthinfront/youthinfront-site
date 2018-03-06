@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What happens after the march?
-subtitle: Moving from March to Movement
+title: How does a march become a movement?
+subtitle: What happens next
 cards:
     - content:
         title: First Video
