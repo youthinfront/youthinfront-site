@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How can teachers be allies?
-subtitle: 
+subtitle: Trusting young people as citizens
 cards:
     - content:
         title: Youth and Social Movements
