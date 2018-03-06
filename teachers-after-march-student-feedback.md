@@ -12,4 +12,4 @@ Three ways to integrate student voices into school systems:
 - Engage students as researchers — to study and assess their school. Train students in collecting and analyzing data. Students can create research questions and use observations and feedback from peers to figure how to improve their school.
 - Include authentic student representation in school leadership. Leave space for students on leadership teams, improvement teams, or equity and diversity teams.
 
-[Source](https://www.gse.harvard.edu/news/uk/16/08/giving-students-voice)
+[Source: Usable Knowledge: Giving Students a Voice](https://www.gse.harvard.edu/news/uk/16/08/giving-students-voice)
