@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to start as an activist?
+title: How do I start as an activist?
 subtitle: Advice from youth activists
 cards:
     - content:
