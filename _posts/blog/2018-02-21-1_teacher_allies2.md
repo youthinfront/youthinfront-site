@@ -7,7 +7,7 @@ cards:
         title: Youth and Social Movements
         subtitle: Key lessons for allies
         href: /youth-and-social-movements-lessons-for-allies.html
-    - content:
+   - content:
         title: Civic participation in the classroom
         subtitle: Framework for conversations about protest
         href: /teachers-framework-for-civic-participation.html   
@@ -19,6 +19,10 @@ cards:
         title: Short activities to empower students
         subtitle: Engage with current events
         href: /teachers-short-activities-to-empower-our-students.html
+    - content:
+        title: How Teachers Can Support Student Activists
+        subtitle: For starters, see youth as civic actors
+        href: /how-can-teachers-support-student-protesters.html
     - content:
         title: Ways to support students without walking out
         subtitle: Engaging inside the classroom
