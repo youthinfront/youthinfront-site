@@ -28,4 +28,4 @@ Yes! The Supreme Court has said that political speech and nonviolent actions tha
 
 #### Additional Resources
 [A Legal Guide for Public Schools on the Regulation of Student and Employee Speech from the National School Boards Association](https://cdn-files.nsba.org/s3fs-public/reports/First_Amendment_Guide-2018.pdf?KgOvuu2Dp8KvWkiwF_I9hHhv4wsUROez)
-Meira Levinson’s Instructional Materials
+
