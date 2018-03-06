@@ -32,9 +32,9 @@ cards:
         subtitle: Don't be nervous!
         href: /how-to-talk-to-administrators.html
     - content:
-        title: How Schools Prevent Walkouts
-        subtitle: Strategies to reduce student activism
-        href: /how-schools-prevent-walkouts.html
+        title: 10 Point Walkout Guide
+        subtitle: High schoolers break it down for you
+        href: /10-point-walkout-guide.html
 category: blog
 bg_img: /images/how-do-i-organize-a-protest-bg.jpg
 students: true
