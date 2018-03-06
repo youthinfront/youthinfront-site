@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Why Protest?: Miscellaneous Resources
+Why Protest? Miscellaneous Resources
 =================
 
 1. ["How the Children of Birmingham Changed the Civil-Rights Movement"](https://www.thedailybeast.com/how-the-children-of-birmingham-changed-the-civil-rights-movement) from The Daily Beast
