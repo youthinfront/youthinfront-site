@@ -8,10 +8,13 @@ cards:
         subtitle: A Self Magazine article from the Women's March
         href: /self-magazine-protest-rights-safety.html
     - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
-        is_video: true
+        title: So it's your first protest?
+        subtitle: A guide to staying safe at protests and demonstrations
+        href: /stay-safe-first-protest.html
+    - content:
+        title: Want to livestream a protest?
+        subtitle: WITNESS's guide to livestreaming
+        href: /safely-livestream-protests.html        
 category: blog
 bg_img: /images/how-do-i-stay-safe-bg6.jpg
 students: true

@@ -30,8 +30,23 @@ cards:
     - content:
         title: Guidelines for supporting students
         subtitle: 5 steps from AASA
-        href: /guidelines-for-school-leaders.html       
-              
+        href: /guidelines-for-school-leaders.html 
+    - content:
+        title: Teaching the past and present
+        subtitle: Another way to explore civic engagement
+        href: /teach-the-past-and-present.html             
+    - content:
+        title: Responding to and supporting students
+        subtitle: A guide from the Harvard Graduate School of Education
+        href: /teachers-responding-and-supporting.html        
+    - content:
+        title: Additional ways of supporting and responding to student protest
+        subtitle: A guide from the Harvard Graduate School of Education
+        href: /teachers-other-ways-to-respond-and-support.html        
+    - content:
+        title: 10 Questions for students
+        subtitle: Ways of guiding effective conversation about activism
+        href: /teachers-10-questions-for-students.html               
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: false
