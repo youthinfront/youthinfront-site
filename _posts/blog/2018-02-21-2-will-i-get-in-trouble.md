@@ -20,10 +20,6 @@ cards:
         subtitle: A legal guide by the NSBA
         href: /will-i-get-in-trouble-NSBA.html
     - content:
-        title: Houston Public Media
-        subtitle: Helpful materials via Houston Public Media. 
-        href: /will-i-get-in-trouble-houston-pub.html
-    - content:
         title: Washington Post
         subtitle: Read the Washington Post piece on the legality of threatening suspensions here.
         href: /will-i-get-in-trouble-wash-post.html
