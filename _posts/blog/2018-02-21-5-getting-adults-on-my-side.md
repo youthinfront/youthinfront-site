@@ -15,6 +15,10 @@ cards:
         title: How Schools Prevent Walkouts
         subtitle: Strategies to reduce student activism
         href: /how-schools-prevent-walkouts.html
+    - content:
+        title: Why Youth Voice Should Be Taken Seriously
+        subtitle: Cite scientific evidence for why your opinions matter
+        href: /why-youth-voice-should-be-taken-seriously.html
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: true
