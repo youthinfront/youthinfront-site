@@ -2,9 +2,9 @@
 layout: page
 ---
 
-Will I get in trouble?
+National School Board Association Guide on Student and Employee Speech
 ======================
-### National School Board Association guide
+### Highlights
 
 1. Do students have a constitutional right to free speech at school?
 > Yes. Students have a constitutional right to free speech at school, but schools may regulate speech that interferes with the operations of the school or infringes upon the rights of others. 
@@ -26,3 +26,7 @@ Will I get in trouble?
 
 7. Can schools place restrictions on speech that is otherwise protected by the Constitution?
 > Yes, under certain circumstances. Schools can place reasonable time, place and manner restrictions on the exercise of free speech in order to avoid disruption.
+
+Source: [Coercion, Conscience, and the First Amendment: A Legal Guide for Public Schools on the egulation of Student and Employee Speech
+Published January 2018](https://cdn-files.nsba.org/s3fs-public/reports/First_Amendment_Guide-2018.pdf?KgOvuu2Dp8KvWkiwF_I9hHhv4wsUROez)
+
