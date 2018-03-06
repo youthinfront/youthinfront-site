@@ -16,6 +16,10 @@ cards:
         subtitle: An introduction to your rights to free speech as a student
         href: /will-i-get-in-trouble-first-amendment-rights.html
     - content:
+        title: Examples of first amendment practices
+        subtitle: ACLU suggested protected actions
+        href: /student-first-amendment-rights.html    
+    - content:
         title: National School Board Association Guide
         subtitle: A legal guide by the NSBA
         href: /will-i-get-in-trouble-NSBA.html
