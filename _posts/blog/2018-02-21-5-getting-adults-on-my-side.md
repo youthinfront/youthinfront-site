@@ -19,7 +19,7 @@ cards:
         title: Why Youth Voice Should Be Taken Seriously
         subtitle: Cite scientific evidence for why your opinions matter
         href: /why-youth-voice-should-be-taken-seriously.html
-   - content:
+    - content:
         title: How to talk to a decision maker
         subtitle: Guide on structuring talking points
         href: /how-to-talk-to-a-decision-maker.html        
