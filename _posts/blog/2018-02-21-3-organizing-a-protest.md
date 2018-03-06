@@ -4,6 +4,10 @@ title: How do I organize a protest?
 subtitle: Yeah, how do I?
 cards:
     - content:
+        title: 10 Point Walkout Guide
+        subtitle: High schoolers break it down for you
+        href: /10-point-walkout-guide.html
+    - content:
         title: "Walkout Organizing Toolkit"
         subtitle: The Women's March Youth Empower organizing kit
         href: /womens-march-enough-walkout-toolkit.html
@@ -22,19 +26,12 @@ cards:
     - content:
         title: How do I join an existing movement?
         subtitle: "#teamwork"
-        href: /how-to-join-an-existing-movement.html
-    - content:
-        title: How do I recruit?
-        subtitle: Tips on how to recruit others to your movement
-        href: /how-to-organize-how-to-recruit.html    
+        href: /how-to-join-an-existing-movement.html  
     - content:
         title: How do I talk to administrators?
         subtitle: Don't be nervous!
         href: /how-to-talk-to-administrators.html
-    - content:
-        title: 10 Point Walkout Guide
-        subtitle: High schoolers break it down for you
-        href: /10-point-walkout-guide.html
+
 category: blog
 bg_img: /images/how-do-i-organize-a-protest-bg.jpg
 students: true
