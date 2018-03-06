@@ -37,6 +37,7 @@ $(document).ready(function() {
 	var addEventListener = 'add'+EventListener;
 	var removeEventListener = 'remove'+EventListener;
 	var newScrollX, newScrollY;
+	var draggedBuffer = 40;
 
 	var dragged = [];
 	var reset = function(i, el) {
@@ -51,7 +52,7 @@ $(document).ready(function() {
 		// cloning into array since HTMLCollection is updated dynamically
 		dragged = [].slice.call(_document.getElementsByClassName('dragscroll'));
 		for (i = 0; i < dragged.length;) {
-			(function(el, lastClientX, lastClientY, pushed, scroller, cont){
+			(function(el, lastClientX, lastClientY, pushed, scroller, cont, initialX){
 				(cont = el.container || el)[addEventListener](
 					mousedown,
 					cont.md = function(e) {
@@ -64,6 +65,7 @@ $(document).ready(function() {
 							DS.dragged = 0;
 							lastClientX = e.clientX;
 							lastClientY = e.clientY;
+							initialX = e.clientX;
 
 							e.preventDefault();
 						}
@@ -81,11 +83,15 @@ $(document).ready(function() {
 					mousemove,
 					cont.mm = function(e) {
 						if (pushed) {
-							DS.dragged = 1;
 							(scroller = el.scroller||el).scrollLeft -=
 								newScrollX = (- lastClientX + (lastClientX=e.clientX));
 							scroller.scrollTop -=
 								newScrollY = (- lastClientY + (lastClientY=e.clientY));
+
+							if (DS.dragged === 0 && Math.abs(initialX - lastClientX) > draggedBuffer) {
+								DS.dragged = 1;
+							}
+
 							if (el == _document.body) {
 								(scroller = _document.documentElement).scrollLeft -= newScrollX;
 								scroller.scrollTop -= newScrollY;
