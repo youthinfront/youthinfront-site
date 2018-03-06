@@ -4,13 +4,13 @@ title: How do I organize a protest?
 subtitle: Yeah, how do I?
 cards:
     - content:
-        title: "How to organize a walkout"
-        subtitle: A guide from the Harry Potter Alliance
-        href: /how-to-organize-hpa-walkout-guide.html
-    - content:
         title: "Walkout Organizing Toolkit"
         subtitle: The Women's March Youth Empower organizing kit
         href: /womens-march-enough-walkout-toolkit.html
+    - content:
+        title: "How to organize a walkout"
+        subtitle: A guide from the Harry Potter Alliance
+        href: /how-to-organize-hpa-walkout-guide.html
     - content:
         title: "What is the difference: Walkout, March, Protest?"
         subtitle: The basics.
