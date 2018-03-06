@@ -27,6 +27,11 @@ cards:
         title: Ways to support students without walking out
         subtitle: Engaging inside the classroom
         href: /ways-to-support-students-without-walking-out.html
+    - content:
+        title: Guidelines for supporting students
+        subtitle: 5 steps from AASA
+        href: /guidelines-for-school-leaders.html       
+              
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: false
