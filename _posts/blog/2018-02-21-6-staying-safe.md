@@ -7,11 +7,11 @@ cards:
         title: 21 Tips for Safe Protest
         subtitle: A Self Magazine article from the Women's March
         href: /self-magazine-protest-rights-safety.html
-     - content:
+    - content:
         title: So it's your first protest?
         subtitle: A guide to staying safe at protests and demonstrations
         href: /stay-safe-first-protest.html
-     - content:
+    - content:
         title: Want to livestream a protest?
         subtitle: WITNESS's guide to livestreaming
         href: /safely-livestream-protests.html        
