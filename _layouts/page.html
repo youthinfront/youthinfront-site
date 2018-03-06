@@ -4,6 +4,15 @@ layout: default
 
 <div class="container page-container">
     <div class="col-sm">
+        {% unless page.pdf == null %}
+        <div class="pdf-container">
+            <embed class="pdf" src="{{ page.pdf }}" type="application/pdf" />
+        </div>
+        <div class="pdf-download-link">
+            <a href="{{ page.pdf }}">Download</a>
+        </div>
+        {% endunless %}
+
         {{ content }}
     </div>
 </div>
