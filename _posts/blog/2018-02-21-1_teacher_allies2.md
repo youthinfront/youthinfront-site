@@ -30,8 +30,11 @@ cards:
     - content:
         title: Guidelines for supporting students
         subtitle: 5 steps from AASA
-        href: /guidelines-for-school-leaders.html       
-              
+        href: /guidelines-for-school-leaders.html 
+    - content:
+        title: Teaching the past and present
+        subtitle: Another way to explore civic engagement
+        href: /teach-the-past-and-present.html                
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: false
