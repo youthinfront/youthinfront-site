@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 You get to meet with a decision-maker! How should you organize what you say?
