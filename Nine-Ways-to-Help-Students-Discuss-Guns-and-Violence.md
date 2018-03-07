@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Nine Ways to Help Students Discuss Guns and Violence
-previous: 
-next: 
+previous: /teachers-10-questions-for-students.html
+next: /youth-and-social-movements-lessons-for-allies.html
 ---
 
 Nine Ways to Help Students Discuss Guns and Violence
