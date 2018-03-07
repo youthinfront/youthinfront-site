@@ -26,4 +26,4 @@ At the protest or march:
 
 The vast majority of protests and marches are planned to be peaceful, and you can expect them to stay that way. Just use common sense and trust your instincts. If you see someone yelling and stirring up the protestors or police, or you have a gut feeling that something is not right, alert your group and make a group decision as to whether or not to leave together.
 
-Read more here: {A Guide to Staying Safe at Public Protests and Demonstrations](https://drive.google.com/file/d/0B88YQqp--MevQzNKZ0ZoMDhBVzQ/view)
+Read more here: [A Guide to Staying Safe at Public Protests and Demonstrations](https://drive.google.com/file/d/0B88YQqp--MevQzNKZ0ZoMDhBVzQ/view)
