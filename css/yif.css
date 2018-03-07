@@ -60,14 +60,14 @@ img.page-logo {
     position: relative;
 }
 
-.top-level-tabs > div {
+.top-level-tabs>div {
     padding: 0 0 20px 0;
     position: relative;
     text-align: center;
     width: 100px;
 }
 
-.top-level-tabs > div.active-audience::after {
+.top-level-tabs>div.active-audience::after {
     background-color: #12C72D;
     bottom: 0px;
     content: "";
@@ -77,13 +77,14 @@ img.page-logo {
     width: 100px;
 }
 
-.top-level-tabs > div > a {
+.top-level-tabs>div>a {
     color: #12C72D;
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
     font-weight: 400;
 }
-.top-level-tabs > div > a:hover {
+
+.top-level-tabs>div>a:hover {
     text-decoration: none;
 }
 
@@ -99,7 +100,7 @@ img.page-logo {
 .card-body {
     color: white;
     text-align: right;
-    width: 100%;    
+    width: 100%;
 }
 
 .slide-in-1 {
@@ -128,11 +129,15 @@ img.page-logo {
 }
 
 @keyframes slide-in {
-    100% { transform: translateX(0%); }
+    100% {
+        transform: translateX(0%);
+    }
 }
 
 @-webkit-keyframes slide-in {
-    100% { -webkit-transform: translateX(0%); }
+    100% {
+        -webkit-transform: translateX(0%);
+    }
 }
 
 .card-top {
@@ -148,7 +153,7 @@ img.page-logo {
 }
 
 .card-bottom::-webkit-scrollbar {
-	width: 0
+    width: 0
 }
 
 .section-title {
@@ -218,18 +223,18 @@ img.page-logo {
     overflow: hidden;
 }
 
-.video-timeline-description-inner > h1 {
+.video-timeline-description-inner>h1 {
     font-size: 14px;
     margin-bottom: 0;
 }
 
-.video-timeline-description-inner > p {
+.video-timeline-description-inner>p {
     font-size: 12px;
     font-weight: 300;
     margin-top: .5rem;
 }
 
-.video-timeline-description > i {
+.video-timeline-description>i {
     font-size: 24px;
     margin: 20px 15px 0 10px;
 }
@@ -237,7 +242,7 @@ img.page-logo {
 .side-bleed {
     background-repeat: no-repeat;
     background-size: cover;
-    height: 220px;
+    height: 200px;
     transform: translateY(200%);
     -webkit-transform: translateY(200%);
 }
@@ -253,173 +258,123 @@ img.page-logo {
 }
 
 .color-1,
-.color-1 p, 
+.color-1 p,
 .color-1 a,
-.color-1 h1, 
+.color-1 h1,
 .color-1 i {
     color: #12C72D;
 }
 
 .color-2,
-.color-2 p, 
+.color-2 p,
 .color-2 a,
-.color-2 h1, 
+.color-2 h1,
 .color-2 i {
     color: #00BD89;
 }
 
 .color-3,
-.color-3 p, 
+.color-3 p,
 .color-3 a,
-.color-3 h1, 
+.color-3 h1,
 .color-3 i {
     color: #00ACDA;
 }
 
 .color-4,
-.color-4 p, 
+.color-4 p,
 .color-4 a,
-.color-4 h1, 
+.color-4 h1,
 .color-4 i {
     color: #0093FF;
 }
 
 .color-5,
-.color-5 p, 
+.color-5 p,
 .color-5 a,
-.color-5 h1, 
+.color-5 h1,
 .color-5 i {
     color: #006CFF;
 }
 
 .color-6,
-.color-6 p, 
+.color-6 p,
 .color-6 a,
-.color-6 h1, 
+.color-6 h1,
 .color-6 i {
     color: #8E1DC2;
 }
 
 .color-7,
-.color-7 p, 
+.color-7 p,
 .color-7 a,
-.color-7 h1, 
+.color-7 h1,
 .color-7 i {
     color: #006CFF;
 }
 
 .color-8,
-.color-8 p, 
+.color-8 p,
 .color-8 a,
-.color-8 h1, 
+.color-8 h1,
 .color-8 i {
     color: #0093FF;
 }
 
 .color-9,
-.color-9 p, 
+.color-9 p,
 .color-9 a,
-.color-9 h1, 
+.color-9 h1,
 .color-9 i {
     color: #00ACDA;
 }
 
 .color-10,
-.color-10 p, 
+.color-10 p,
 .color-10 a,
-.color-10 h1, 
+.color-10 h1,
 .color-10 i {
     color: #00BD89;
 }
 
 .background-gradient-1 {
-    background: linear-gradient(
-        to right, 
-        rgba(18,199,45,0.8) 0%, 
-       	rgba(18,199,45,1) 65%,
-        rgba(18,199,45,1) 100%
-    );
+    background: linear-gradient( to right, rgba(18, 199, 45, 0.8) 0%, rgba(18, 199, 45, 1) 65%, rgba(18, 199, 45, 1) 100%);
 }
 
 .background-gradient-2 {
-    background: linear-gradient(
-        to right, 
-        rgba(0,189,137,0.8) 0%, 
-        rgba(0,189,137,1) 65%,
-        rgba(0,189,137,1) 100%
-    );
+    background: linear-gradient( to right, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
 }
 
 .background-gradient-3 {
-    background: linear-gradient(
-        to right, 
-        rgba(0,172,218,0.8) 0%, 
-        rgba(0,172,218,1) 65%,
-        rgba(0,172,218,1) 100%
-    );
+    background: linear-gradient( to right, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
 }
 
 .background-gradient-4 {
-    background: linear-gradient(
-        to right, 
-        rgba(0,147,255,0.8) 0%, 
-        rgba(0,147,255,1) 65%,
-        rgba(0,147,255,1) 100%
-    );
+    background: linear-gradient( to right, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
 }
 
 .background-gradient-5 {
-    background: linear-gradient(
-        to right, 
-        rgba(0,108,255,0.8) 0%, 
-        rgba(0,108,255,1) 65%,
-        rgba(0,108,255,1) 100%
-    );
+    background: linear-gradient( to right, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
 }
 
 .background-gradient-6 {
-    background: linear-gradient(
-        to right, 
-        rgba(142,29,194,0.8) 0%, 
-        rgba(142,29,194,1) 65%,
-        rgba(142,29,194,1) 100%
-    );
+    background: linear-gradient( to right, rgba(142, 29, 194, 0.8) 0%, rgba(142, 29, 194, 1) 65%, rgba(142, 29, 194, 1) 100%);
 }
 
 .background-gradient-7 {
-    background: linear-gradient(
-        to right, 
-        rgba(0,108,255,0.8) 0%, 
-        rgba(0,108,255,1) 65%,
-        rgba(0,108,255,1) 100%
-    );
+    background: linear-gradient( to right, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
 }
 
 .background-gradient-8 {
-    background: linear-gradient(
-        to right, 
-        rgba(0,147,255,0.8) 0%, 
-        rgba(0,147,255,1) 65%,
-        rgba(0,147,255,1) 100%
-    );
+    background: linear-gradient( to right, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
 }
 
 .background-gradient-9 {
-    background: linear-gradient(
-        to right, 
-        rgba(0,172,218,0.8) 0%, 
-        rgba(0,172,218,1) 65%,
-        rgba(0,172,218,1) 100%
-    );
+    background: linear-gradient( to right, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
 }
 
 .background-gradient-10 {
-    background: linear-gradient(
-        to right, 
-        rgba(0,189,137,0.8) 0%, 
-        rgba(0,189,137,1) 65%,
-        rgba(0,189,137,1) 100%
-    );
+    background: linear-gradient( to right, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
 }
 
 .pdf {
@@ -433,6 +388,7 @@ blockquote {
     color: #6a737d;
     border-left: 0.25em solid #dfe2e5;
 }
+
 blockquote p {
     text-indent: 25px;
 }
@@ -447,30 +403,25 @@ footer {
         font-size: 36px;
         line-height: 36px;
     }
-
     .card-top {
         height: 120px;
     }
-
     .gradient-bleed {
         height: 260px;
     }
-
     .side-bleed {
         height: 260px;
     }
-
     .section-video-preview {
         height: 105px;
     }
-
     .video-timeline-description {
         height: 100px;
     }
-
 }
 
 /* Begin Article Page */
+
 .banner {
     height: 240px;
     -webkit-clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
@@ -508,7 +459,7 @@ footer {
 
 .article-container h2 {
     font-family: "Avenir Next", sans-serif;
-    color: rgba(67,66,66,1) 100%;
+    color: rgba(67, 66, 66, 1) 100%;
     font-size: 20pt;
     line-height: 25pt;
     font-weight: 475;
@@ -516,7 +467,7 @@ footer {
 
 .article-container h3 {
     font-family: "Avenir Next", sans-serif;
-    color: rgba(67,66,66,1) 100%;
+    color: rgba(67, 66, 66, 1) 100%;
     font-size: 18pt;
     line-height: 23pt;
     font-weight: 450;
@@ -524,7 +475,7 @@ footer {
 
 .article-container h4 {
     font-family: "Avenir Next", sans-serif;
-    color: rgba(67,66,66,1) 100%;
+    color: rgba(67, 66, 66, 1) 100%;
     font-size: 17pt;
     line-height: 22pt;
     font-weight: 400;
@@ -532,7 +483,7 @@ footer {
 
 .article-container h5 {
     font-family: "Avenir Next", sans-serif;
-    color: rgba(67,66,66,1) 100%;
+    color: rgba(67, 66, 66, 1) 100%;
     font-size: 16pt;
     line-height: 21pt;
     font-weight: 350;
@@ -540,7 +491,7 @@ footer {
 
 .article-container h6 {
     font-family: "Avenir Next", sans-serif;
-    color: rgba(67,66,66,1) 100%;
+    color: rgba(67, 66, 66, 1) 100%;
     font-size: 15pt;
     line-height: 20pt;
     font-weight: 300;
@@ -548,7 +499,7 @@ footer {
 
 .article-container p {
     font-family: "Avenir Next", sans-serif;
-    color: rgba(67,66,66,1) 100%;
+    color: rgba(67, 66, 66, 1) 100%;
     font-size: 14pt;
     line-height: 19pt;
     font-weight: normal;
@@ -556,99 +507,87 @@ footer {
 
 .article-container li {
     font-family: "Avenir Next", sans-serif;
-    color: rgba(67,66,66,1) 100%;
+    color: rgba(67, 66, 66, 1) 100%;
     font-size: 14pt;
     line-height: 19pt;
     font-weight: normal;
 }
 
 .article-container img {
-    max-width:100%;
-    max-height:400px;
+    max-width: 100%;
+    max-height: 400px;
 }
 
 @media screen and (min-width: 480px) {
     .banner {
         height: 240px;
     }
-
     .banner-title {
         font-size: 36px;
         line-height: 40px;
     }
 }
+
 /* End Article Page */
 
-/* modal panel + button */
-
-#modal-panel {
-    max-width: 350px;
-    margin: 50px auto 0 auto;
-    background: #ddd;
-    text-align: center;
-}
-
-.overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    transition: opacity 0.2s;
-    visibility: hidden;
-    opacity: 0;
-}
-
-.overlay .cancel {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    cursor: default;
-}
-
-.overlay:target {
-    visibility: visible;
-    opacity: 1;
-}
+/* Outer */
 
 .popup {
-    position: relative;
-    margin: 0 auto;
-    padding: 20px;
-    background: #fff;
-    border: 1px solid #666;
-    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 999;
 }
 
-/* pop-up close button 'x' */
+/* Inner */
 
-.popup .close {
+.popup-inner {
+    max-width: 700px;
+    width: 90%;
+    padding: 40px;
     position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 20px;
-    right: 20px;
-    opacity: 0.8;
-    transition: all 200ms;
-    font-size: 24px;
-    font-weight: bold;
-    text-decoration: none;
-    color: #666;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 1);
+    border-radius: 3px;
+    background: #fff;
 }
 
-.popup .close:hover {
-    opacity: 1;
-}
+/* Close Button */
 
-.popup .content {
-    max-height: 400px;
-    overflow: auto;
+.popup-close {
+    width: 30px;
+    height: 30px;
+    padding-top: 4px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    transition: ease 0.25s all;
+    -webkit-transform: translate(50%, -50%);
+    transform: translate(50%, -50%);
+    border-radius: 1000px;
+    background: rgba(0, 0, 0, 0.8);
+    font-family: Arial, Sans-Serif;
+    font-size: 20px;
     text-align: center;
+    line-height: 100%;
+    color: #fff;
 }
 
-.embedded-video {
-    width: 560px;
-    max-width: 100%;
-    height: 315px;
-    max-height: auto;
+.popup-close:hover {
+    -webkit-transform: translate(50%, -50%) rotate(180deg);
+    transform: translate(50%, -50%) rotate(180deg);
+    background: rgba(0, 0, 0, 1);
+    text-decoration: none;
+}
+
+a {
+    z-index: 0;
 }
