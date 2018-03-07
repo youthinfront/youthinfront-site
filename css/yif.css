@@ -472,3 +472,94 @@ footer {
     }
 
 }
+
+/* Begin Article Page */
+.banner {
+    height: 200px;
+    -webkit-clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
+    clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner-title {
+    font-family: "Hiragino Kaku Gothic Std";
+    font-size: 36px;
+    line-height: 40px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.article-container h1 {
+    font-family: "Avenir Next", sans-serif;
+    color: #12C72D;
+    font-size: 20pt;
+    line-height: 27pt;
+    font-weight: 500;
+}
+
+.article-container h1 {
+    font-family: "Avenir Next", sans-serif;
+    color: #12C72D;
+    font-size: 22pt;
+    line-height: 27pt;
+    font-weight: 500;
+}
+
+.article-container h2 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 20pt;
+    line-height: 25pt;
+    font-weight: 475;
+}
+
+.article-container h3 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 18pt;
+    line-height: 23pt;
+    font-weight: 450;
+}
+
+.article-container h4 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 17pt;
+    line-height: 22pt;
+    font-weight: 400;
+}
+
+.article-container h5 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 16pt;
+    line-height: 21pt;
+    font-weight: 350;
+}
+
+.article-container h6 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 15pt;
+    line-height: 20pt;
+    font-weight: 300;
+}
+
+.article-container p {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 14pt;
+    line-height: 19pt;
+    font-weight: normal;
+}
+
+.article-container li {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 14pt;
+    line-height: 19pt;
+    font-weight: normal;
+}
+/* End Article Page */
