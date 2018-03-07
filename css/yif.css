@@ -16,6 +16,7 @@ img.page-logo {
     font-family: "Avenir Next", sans-serif;
     font-size: 24px;
     font-weight: 300;
+    line-height: 70px;
     margin: 0 10px;
 }
 
@@ -41,13 +42,6 @@ img.page-logo {
 .subheader-tagline {
     font-weight: 400;
     padding: 1rem;
-}
-
-.footer-link {
-    font-family: "Avenir Next", sans-serif;
-    font-size: 18px;
-    font-weight: 300;
-    margin: 0 10px;
 }
 
 .about-logo {
