@@ -354,7 +354,11 @@ img.page-logo {
 }
 
 blockquote {
+    background: url("/images/big-quotes.png") no-repeat;
     padding: 0 1em;
     color: #6a737d;
     border-left: 0.25em solid #dfe2e5;
+}
+blockquote p {
+    text-indent: 25px;
 }
