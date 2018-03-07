@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who has inspired you?
-subtitle: Tell us.
+subtitle: Activists who have inspired movements
 cards:
     - content:
         title: First Video
