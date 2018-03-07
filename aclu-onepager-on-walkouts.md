@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advice on Student Walkouts from the American Civil Liberties Union
-previous: /video-will-i-get-in-trouble-main.html
+previous: /video-will-i-get-in-trouble-julian.html
 next: /aclu-training-on-walkouts.html
 ---
 

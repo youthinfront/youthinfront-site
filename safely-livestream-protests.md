@@ -2,7 +2,7 @@
 layout: page
 title: How to safely livestream actions
 previous: /stay-safe-first-protest.html
-next: /baltimore-gradesupgunsdown-code-of-conduct.html
+next: /video-how-to-stay-safe-main.html
 ---
 
 How to safely livestream actions

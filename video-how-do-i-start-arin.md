@@ -2,7 +2,7 @@
 layout: page
 title: How do I get started?
 previous: /video-how-do-i-start-charlotte.html
-next: /10-point-walkout-guide.html
+next: /video-wish-you-knew-arin.html
 ---
 
 How do I get started?

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why Protest?: Greensboro, NC Lunch Counter Sit-Ins, 1960
-previous: /video-who-inspired-marshall.html
+previous: /video-inspiration-other-youth.html
 next: /why-protest-chicago.html
 ---
 

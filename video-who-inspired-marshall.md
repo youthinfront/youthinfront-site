@@ -2,7 +2,7 @@
 layout: page
 title: Who has inspired you?
 previous: /video-who-inspired-ed.html
-next: /why-protest-greensboro.html
+next: /video-inspiration-other-youth.html
 ---
 
 Who has inspired you?
