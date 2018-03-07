@@ -7,7 +7,7 @@ cards:
         title: Create and Follow a Code of Conduct
         subtitle: Example from the Baltimore #gradesupgunsdown action
         href: /baltimore-gradesupgunsdown-code-of-conduct.html
-   - content:
+    - content:
         title: 21 Tips for Safe Protest
         subtitle: A Self Magazine article from the Women's March
         href: /self-magazine-protest-rights-safety.html
