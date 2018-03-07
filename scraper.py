@@ -144,8 +144,8 @@ class Scraper:
                 page_file = pages[i] + '.md'
                 page = Page(page_file)
                 page.process(False)
-                page.set_front_matter('previous', pages[i-1])
-                page.set_front_matter('next', pages[(i+1) % len(pages)])
+                page.set_front_matter('previous', '/' + pages[i-1] + '.html')
+                page.set_front_matter('next', '/' + pages[(i+1) % len(pages)] + '.html')
                 page.rewrite()
 
     def print_orphaned_pages(self):
