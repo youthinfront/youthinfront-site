@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What happens after the march?
-subtitle: Moving from March to Movement
+title: How can a march become a movement?
+subtitle: Supporting student activism--and your own--over the long haul
 cards:
     - content:
         title: Exploring activism as a long term fight
