@@ -23,14 +23,9 @@ show_teacher_student_toggle: true
               {% endif %}
               <a class="no-underline" href="{{card.content.href}}">
                 <div class="video-timeline-description video-timeline-shadowed">
-                  {% if card.content.is_video %}<a class="btn" data-popup-open={{card.content.title}} href="#"><i class="fas fa-play"></i></a>
-                  <div class="popup" data-popup={{card.content.title}}>
-                  <div class="popup-inner">
-                  <h2>Video Title (If Needed)</h2>
-                  <p>Place video here.</p>
-                  <a class="popup-close" data-popup-close={{card.content.title}} href="#">x</a>
-                  </div>
-                  </div>{% endif %}
+                  {% if card.content.is_video %}
+                  <i class="fas fa-play"></i>
+                  {% endif %}
                   <div class="video-timeline-description-inner">
                     <h1>{{card.content.title}}</h1>
                     {% if card.content.subtitle %}<p>{{card.content.subtitle}}</p>{% endif %}
