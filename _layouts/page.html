@@ -2,8 +2,9 @@
 layout: default
 ---
 
+<div class="banner background-gradient-1"><h1 class="banner-title container">{{ page.title }}</h1></div>
 <div class="container page-container">
-    <div class="col-sm">
+    <div class="col-sm article-container">
         {% unless page.pdf == null %}
         <div class="pdf-container">
             <embed class="pdf" src="{{ page.pdf }}" type="application/pdf" />
