@@ -8,9 +8,9 @@ cards:
         subtitle: Dr. King's Principles of Non-Violence
         href: /nonviolence-and-protest.html 
     - content: 
-        title: Chicago to Parkland
-        subtitle: The long history of youth activism and gun violence
-        href: /chicago-to-parkland.html
+        title: Baltimore's March 6 Multi-School Walkout
+        subtitle: Observations from Sun reporter Talia Richman
+        href: /baltimore-march-from-talia-richman.html
     - content: 
         title: Creative Nonviolent Resistence
         subtitle: Jamila Raqib's TED Talk on Secrets of Effective Nonviolence
