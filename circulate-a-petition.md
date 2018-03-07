@@ -5,14 +5,13 @@ layout: page
 Create a petition
 =================
 **A petition should include:**
-* A petition should include:
-* A simple title referring to what you want the petition to accomplish
-* A statement explaining the problem that the petition is addressing
+* A simple title referring to what you want the petition to accomplish.
+* A statement explaining the problem that the petition is addressing.
 * Your request. This should clearly state what you want the decision-maker to do when he or she receives the petition.
 * Your group’s name and contact information, so that your supporters will know how to reach you with questions.
-* A place for supporters to leave their contact information. city and state issues, make sure to include space for your supporters’ addresses (this information is used to confirm your supporters by officials!)
-* Numbered lines – this will make it easy for you to count how many signatures you have collected
-* Repeat the title, statement, request, and contact information on each new page
+* A place for supporters to leave their contact information. For city and state issues, make sure to include space for your supporters’ addresses. (this information is used to confirm your supporters by officials!)
+* Numbered lines – this will make it easy for you to count how many signatures you have collected.
+* Repeat the title, statement, request, and contact information on each new page.
 
 Circulate a Petition
 ---------------
