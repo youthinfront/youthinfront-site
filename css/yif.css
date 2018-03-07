@@ -464,9 +464,9 @@ footer {
 
 /* Begin Article Page */
 .banner {
-    height: 240px;
-    -webkit-clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
-    clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
+    height: 480px;
+    -webkit-clip-path: polygon(0 0, 3200px 0, 3200px 100%, 0 87%);
+    clip-path: polygon(0 0, 3200px 0, 3200px 100%, 0 87%);
     display: flex;
     flex-direction: column;
     justify-content: center;
