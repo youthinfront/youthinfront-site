@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Protest? Charles Maudlin
+title: Charles Maudlin
 ---
 
 Charles Maudlin

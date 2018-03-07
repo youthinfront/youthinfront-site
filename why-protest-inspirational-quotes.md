@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Protest? Inspirational Quotes
+title: Inspirational Quotes
 previous: /why-protest-singing-revolution.html
 next: /video-who-inspired-kelvin.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Protest? President Barack Obama Explains
+title: President Barack Obama
 previous: /why-protest-columbia.html
 next: /why-protest-ernesto-villareal.html
 ---
