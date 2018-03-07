@@ -1,5 +1,6 @@
 ---
 layout: page
+title: How to Organize?
 ---
 
 How to Organize?

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Questions for Discussing Civic Participation in Your Classroom
 ---
 
 Questions for Discussing Civic Participation in Your Classroom

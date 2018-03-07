@@ -1,5 +1,6 @@
 ---
 layout: page
+title: A twitter post about March For Our Lives organizers meeting with Chicago students
 ---
 
 A twitter post about March For Our Lives organizers meeting with Chicago students

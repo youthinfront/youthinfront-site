@@ -1,6 +1,6 @@
-
 ---
 layout: page
+title: Create a Code of Conduct for your Action
 ---
 
 Create a Code of Conduct for your Action

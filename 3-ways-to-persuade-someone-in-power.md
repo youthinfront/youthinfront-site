@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 3 Ways to Persuade Someone in Power
 ---
 
 3 Ways to Persuade Someone in Power

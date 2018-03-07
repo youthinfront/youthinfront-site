@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Walk Out and Keep Moving's 10 Point Walkout Guide
 ---
 
 Walk Out and Keep Moving's 10 Point Walkout Guide

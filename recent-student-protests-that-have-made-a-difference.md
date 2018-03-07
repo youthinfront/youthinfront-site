@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 5 Recent Student Protests That Made a Big Difference
 ---
 
 5 Recent Student Protests That Made a Big Difference

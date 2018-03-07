@@ -1,5 +1,6 @@
 ---
 layout: page
+title: More links to explore youth-led protests and civic activism
 ---
 
 More links to explore youth-led protests and civic activism

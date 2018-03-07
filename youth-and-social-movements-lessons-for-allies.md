@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Youth and Social Movements: Key Lessons for Allies
 ---
 
 Youth and Social Movements: Key Lessons for Allies

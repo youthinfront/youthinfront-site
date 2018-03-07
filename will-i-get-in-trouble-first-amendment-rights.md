@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Will I get in trouble?
 ---
 
 Will I get in trouble?

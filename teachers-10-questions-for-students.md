@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 10 Questions for Changemakers
 ---
 
 10 Questions for Changemakers 

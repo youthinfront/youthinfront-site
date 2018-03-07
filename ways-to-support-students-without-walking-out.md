@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Ways to Support Students Without Walking Out
 ---
 
 Ways to Support Students Without Walking Out

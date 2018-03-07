@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Be the change
 ---
 
 Be the change

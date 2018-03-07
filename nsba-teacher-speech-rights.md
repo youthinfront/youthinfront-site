@@ -1,5 +1,6 @@
 ---
 layout: page
+title: National School Boards Association on Teacher Speech Rights:
 ---
 
 National School Boards Association on Teacher Speech Rights:
