@@ -12,32 +12,36 @@ img.page-logo {
     padding: 0 1rem;
 }
 
-.sub-header {
-	background-color: #eeeeee;
-	color: #333333;
-	font-size: 12px;
-	padding: 10px;
-	text-align: left;
+.footer-link {
+    font-family: "Avenir Next", sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    margin: 0 10px;
 }
 
-.sub-title {
-	margin-right: 20px;
+.logo-pack {
+    align-items: center;
+    display: flex;
 }
 
-.sub-header-item {
-	display: inline;
-	padding-right:10px;
+.sponsor-pack {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    justify-content: space-evenly;
+    max-width: 50%
 }
 
-.sub-header-about ul {
-	display: inline-block;
-	list-style-type: none; 
-	margin-bottom: 0;
-	padding: 0;
+.header-tagline {
+    margin-left: 20px;
+    max-width: 300px;
+    font-weight: 500;
 }
 
-.sub-header-item img {
-	max-width: 155px;
+.subheader-tagline {
+    font-weight: 500;
+    padding: 1rem 1rem 0 1rem;
 }
 
 .footer-link {
@@ -45,6 +49,11 @@ img.page-logo {
     font-size: 18px;
     font-weight: 300;
     margin: 0 10px;
+}
+
+.about-logo {
+    max-height: 20px;
+    max-width: 100%;
 }
 
 .top-level-tabs {
