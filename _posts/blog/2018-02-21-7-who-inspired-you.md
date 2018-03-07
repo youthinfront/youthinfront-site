@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who has inspires you?
+title: Who has inspired you?
 subtitle: Activists who have inspired movements
 cards:
     - content:
