@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Walk Out and Keep Moving's 10 Point Walkout Guide
+previous: /video-how-do-i-start-arin.html
+next: /womens-march-enough-walkout-toolkit.html
 ---
 
 Walk Out and Keep Moving's 10 Point Walkout Guide

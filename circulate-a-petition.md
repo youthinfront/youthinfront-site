@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Create a petition
+previous: /how-to-write-an-oped.html
+next: /making-legislative-change.html
 ---
 
 Create a petition

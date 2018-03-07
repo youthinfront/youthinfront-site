@@ -1,6 +1,8 @@
 ---
 layout: page
 title: National School Board Association Guide on Student and Employee Speech
+previous: /student-first-amendment-rights.html
+next: /will-i-get-in-trouble-wash-post.html
 ---
 
 National School Board Association Guide on Student and Employee Speech

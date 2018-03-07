@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 10 Questions for Changemakers
+previous: /teachers-responding-and-supporting.html
+next: /youth-and-social-movements-lessons-for-allies.html
 ---
 
 10 Questions for Changemakers 

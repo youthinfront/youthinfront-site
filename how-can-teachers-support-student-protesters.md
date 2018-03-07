@@ -1,6 +1,8 @@
 ---
 layout: page
 title: How Teachers Can Safely Support Student Activists
+previous: /teachers-short-activities-to-empower-our-students.html
+next: /ways-to-support-students-without-walking-out.html
 ---
 
 How Teachers Can Safely Support Student Activists

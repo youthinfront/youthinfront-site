@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Why Protest?: Marilyn Hildreth
+previous: /why-protest-linda-lowery.html
+next: /why-protest-roske-martinez.html
 ---
 
 Why Protest?: Marilyn Hildreth

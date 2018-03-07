@@ -1,6 +1,8 @@
 ---
 layout: page
 title: How to respond to and support your students
+previous: /teach-the-past-and-present.html
+next: /teachers-10-questions-for-students.html
 ---
 
 How to respond to and support your students

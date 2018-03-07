@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Welcoming student voices, student leadership, and student feedback
+previous: /teachers-after-march-exploring-activism.html
+next: /teachers-after-march-be-the-change.html
 ---
 
 # Welcoming student voices, student leadership, and student feedback

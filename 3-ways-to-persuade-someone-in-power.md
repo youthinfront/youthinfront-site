@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 3 Ways to Persuade Someone in Power
+previous: /nassp-advice-for-principals-for-walkouts.html
+next: /how-schools-prevent-walkouts.html
 ---
 
 3 Ways to Persuade Someone in Power

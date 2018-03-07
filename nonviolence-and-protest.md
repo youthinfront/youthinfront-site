@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Martin Luther King Jr.'s Six Principles of Nonviolence
+previous: /recent-student-protests-that-have-made-a-difference.html
+next: /effective-nonviolent-resistence.html
 ---
 
 Martin Luther King Jr.'s Six Principles of Nonviolence
