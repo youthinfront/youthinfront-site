@@ -3,6 +3,12 @@ layout: post
 title: How do I get adults on my side?
 subtitle: Speaking to your principal and making adult allies
 cards:
+    - content: 
+        title: How do I get adults on my side?
+        subtitle: A video testimony
+        href: /video-get-adults-on-my-side-main.html
+        is_video: true
+        video_code: 96raDY1vyuM
     - content:
         title: Advice for Principals on Walkouts
         subtitle: From the National Association of Secondary School Principals

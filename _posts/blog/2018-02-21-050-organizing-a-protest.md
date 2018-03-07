@@ -3,6 +3,24 @@ layout: post
 title: How do I organize a protest?
 subtitle: Yeah, how do I?
 cards:
+    - content: 
+        title: How do I get started?
+        subtitle: A video testimony
+        href: /video-how-do-i-start-main.html
+        is_video: true
+        video_code: JwiyuAqxr8U
+    - content: 
+        title: How do I get started?
+        subtitle: A video testimony with Charlotte
+        href: /video-how-do-i-start-charlotte.html
+        is_video: true
+        video_code: iYeAMUnJoII
+    - content: 
+        title: How do I get started?
+        subtitle: A video testimony with Arin
+        href: /video-how-do-i-start-arin.html
+        is_video: true
+        video_code: vHdEr_kWHbc
     - content:
         title: 10 Point Walkout Guide
         subtitle: High schoolers break it down for you
