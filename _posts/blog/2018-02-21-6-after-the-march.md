@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can a march become a movement?
+title: How does a march become a movement?
 subtitle: What happens next
 cards:
     - content:
@@ -17,6 +17,19 @@ cards:
         title: High School Students' Field Guide for Activism
         subtitle: 10 Week Plan for Legislative Action
         href: /making-legislative-change.html
+    - content:
+        title: 198 Methods of Nonviolent Action
+        subtitle: You won't believe how number 62 speaks truth to power
+        href: /198-methods-of-nonviolent-action.html
+    - content:
+        title: Write an Op-Ed!
+        subtitle: Not ready to storm the barricades? Write an op-ed in your local newspaper.
+        href: /how-to-write-an-oped.html   
+    - content:
+        title: Create a Petition
+        subtitle: Find allies and create a shared voice
+        href: /circulate-a-petition.html  
+
 category: blog
 bg_img: /images/what-happens-after-the-march-bg.jpg
 students: true
