@@ -82,7 +82,7 @@ img.page-logo {
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
     font-weight: 300;
-    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
 }
 .top-level-tabs > div > a:hover {
     text-decoration: none;
