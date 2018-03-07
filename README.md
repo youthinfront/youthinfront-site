@@ -4,27 +4,25 @@ Master branch is visible [here](https://youthinfront.github.io/youthinfront-site
 
 ## Updating Previous-Next data
 
-First, to try to keep things consistent, the horizontal sections on the homepage are `Post`s, and the cards within them each point to a `Page`.
+We have a python script to do some cleanup work before deploying. The primary tasks of this script are:
 
-Navigation between Pages in one Post is hard due to some limitations of our tech stack. Currently the information about which Page belongs in each Post is captured in the Post's `.md` file. For example, in `2018-02-21-1-why-protest.md`
+1. Pull card order from the Posts and use that to add `previous` and `next` frontmatter to pages for navigation.
+2. Pull the first title from each page and ensure that it ends up in the frontmatter's `title` key.
 
-```---
-layout: post
-title: Why protest?
-subtitle: Will it make a difference?
-cards:
-    - content: 
-        title: Nonviolence and Protest
-        subtitle: Dr. King's Principles of Non-Violence
-        href: /nonviolence-and-protest.html 
-    - content: 
-        title: Chicago to Parkland
-        subtitle: The long history of youth activism and gun violence
-        href: /chicago-to-parkland.html
-...
----
-```
+To do this, you need but run one command:
 
-Each of those `card` listings points to a Page, and this list of `cards` in the `Post` `.md` file is the _only_ place where we capture the information about which Pages belong in a Post. We would need that info to have a Previous and Next button (or swipe or any other means of navigation), but when you're viewing a single Page, you only have access to the information in that Page's `.md` file, not the Post that pointed to it.
+`python scraper.py`
 
-To get that information on each Page we'd have to work outside the bounds of the framework a little bit.
+Then commit any changes and push to master
+
+If you want a little more granularity, you can accomplish the specific tasks above via
+
+`python scraper.py navigation`
+
+`python scraper.py titles`
+
+#### Scraper Motivation
+
+The information about which Page belongs in each Post is captured in the Post's `.md` file. Each of those `card` listings points to a Page, and this list of `cards` in the `Post` `.md` file is the _only_ place where we capture the information about which Pages belong in a Post. We would need that info to have a Previous and Next button (or swipe or any other means of navigation), but when you're viewing a single Page, you only have access to the information in that Page's `.md` file, not the Post that pointed to it.
+
+To get that information on each Page we'd have to work outside the bounds of the framework a little bit. This is where the python script comes in.
