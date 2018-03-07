@@ -563,6 +563,13 @@ footer {
     max-height:400px;
 }
 
+.previous-next {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 40px 0;
+}
+
 @media screen and (min-width: 480px) {
     .banner {
         height: 240px;
