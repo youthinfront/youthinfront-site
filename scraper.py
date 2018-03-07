@@ -60,6 +60,7 @@ class Page:
 
     def set_front_matter(self, key, value):
         self.front_matter[key] = value
+        value = value.replace(':', '')
         if key not in self.front_matter_keys_in_order:
             self.front_matter_keys_in_order.append(key)
 
