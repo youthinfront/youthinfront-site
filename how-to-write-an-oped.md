@@ -13,8 +13,8 @@ How to write an op-ed
 
 **SOLUTION:** Describe what you feel should be done about the issue
 
-**COUNTER-POINTS(S):** Predict possible arguments that opponents of your issue might raise and explain and provide reasoning for your disagreement
+**COUNTER-POINT(S):** Predict possible arguments that opponents of your issue might raise and explain and provide reasoning for your disagreement
 
 **CONCLUSION/CALL TO ACTION:** Reiterate how and why the reader should get involved
 
-(Source: http://generationcitizenma.weebly.com/uploads/4/8/8/4/4884795/v7.5_tactic_toolkits.pdf.)
+(Source: [http://generationcitizenma.weebly.com/uploads/4/8/8/4/4884795/v7.5_tactic_toolkits.pdf](http://generationcitizenma.weebly.com/uploads/4/8/8/4/4884795/v7.5_tactic_toolkits.pdf).)
