@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Framework for civic participation in your classroom
+Questions for Discussing Civic Participation in Your Classroom
 ===================================================
 
 #### Exploration of activism concepts
@@ -12,10 +12,10 @@ Framework for civic participation in your classroom
 - What impact are young people having now? 
 - What else do you think it will take to create lasting change and make schools safer from gun violence?
 
-#### How to understand why to act and not to act and how
-- Why does it matter to me? 
+#### Understanding the why and how of civic action
+- Why does a civic action matter to me? 
 - Where do we start? 
-- How can we make it easy and engaging?
+- How can we make civic action easy and engaging?
 - How do we get from voice to change?
 - How can we find allies?
 
@@ -23,17 +23,17 @@ Framework for civic participation in your classroom
 - Who can support us? 
 - Who can help our voices be heard?
 - Invite them contact: 
-  - Government (National, State, Local
+  - Government (National, State, Local)
   - Nonprofit Organizations/Charities
   - Industry/Commercial Organizations
   - Professional Media
-  - Influential Individuals (Authors, Lecturers, etc.)
+  - Influential individuals (authors, lecturers, etc.)
 
 #### Provide real life examples
 Lesson plans for civic participation:
 - [Generation Citizen’s Action Civics Curriculum](http://generationcitizenma.weebly.com/curriculum.html)
-- [Facing History and Ourselves Eyes on the Prize Curriculum](https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement)
+- [Facing History and Ourselves' Eyes on the Prize Curriculum](https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement)
 - [Danielle Allen’s Youth Participatory Politics Framework](https://yppactionframe.fas.harvard.edu/)
 
-**For more information, visit [this Facing History resource](https://www.facinghistory.org/resource-library/after-parkland-students-choose-participate)
+**For an example lesson, visit [this Facing History resource: After Parklands: Students Choosing to Participate](https://www.facinghistory.org/resource-library/after-parkland-students-choose-participate)
 
