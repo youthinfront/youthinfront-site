@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's the difference: Walkout, March, Protest?
+title: What's the difference Walkout, March, Protest?
 previous: /how-to-organize-hpa-walkout-guide.html
 next: /how-to-join-an-existing-movement.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From Chicago to Parkland: Coming Together Around Gun Violence
+title: From Chicago to Parkland Coming Together Around Gun Violence
 ---
 
 From Chicago to Parkland: Coming Together Around Gun Violence

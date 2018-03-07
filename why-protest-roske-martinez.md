@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Protest?: Xiuhtezcatl Roske-Martinez
+title: Why Protest? Xiuhtezcatl Roske-Martinez
 previous: /why-protest-marilyn.html
 next: /why-protest-singing-revolution.html
 ---

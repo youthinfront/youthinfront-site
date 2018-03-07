@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Protest?: Singing Revolution
+title: Why Protest? Singing Revolution
 previous: /why-protest-roske-martinez.html
 next: /why-protest-inspirational-quotes.html
 ---

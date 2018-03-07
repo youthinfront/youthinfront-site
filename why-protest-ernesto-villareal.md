@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Protest?: Ernesto Villareal
+title: Why Protest? Ernesto Villareal
 previous: /why-protest-barack-obama.html
 next: /why-protest-linda-lowery.html
 ---
