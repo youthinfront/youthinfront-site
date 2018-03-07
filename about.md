@@ -36,7 +36,7 @@ Please send questions, comments, and feedback to [youthinfront@mit.edu](mailto:y
 
 	<a href="http://www.northeastern.edu/impactlab/"><img src="http://www.northeastern.edu/impactlab/wp-content/uploads/2016/02/social_impact_lab.png" alt="Northeastern Social Impact Lab" width="200"/></a>
 
-	<a href="https://www.facinghistory.org/"><img class="invert" src="https://www.facinghistory.org/profiles/facing_history_distro/themes/custom/facingfuture/img/logo.png" alt="Facing History and Ourselves" width="200"/></a>
+	<a href="https://www.facinghistory.org/"><img src="/images/FHAO_RGB_3-_Tag.jpg"> alt="Facing History and Ourselves" width="200"/></a>
 
 	<a href="http://www.freshcognate.com/"><img src="/images/fresh-cognate.png" alt="Fresh Cognate" width="200"/></a>
 
