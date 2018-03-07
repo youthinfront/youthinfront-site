@@ -13,4 +13,4 @@ You may attend rallies on the weekend. You cannot be disciplined for exercising 
 
 If you attend a rally or walkout during school hours, your superior has the right to implement disciplinary measures.
 
-(Source:[https://www.aclu-wa.org/docs/free-speech-rights-public-school-teachers-washington-state](https://www.aclu-wa.org/docs/free-speech-rights-public-school-teachers-washington-state))
+(Source: [https://www.aclu-wa.org/docs/free-speech-rights-public-school-teachers-washington-state](https://www.aclu-wa.org/docs/free-speech-rights-public-school-teachers-washington-state))
