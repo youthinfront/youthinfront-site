@@ -4,16 +4,6 @@ title: Who has inspired you?
 subtitle: Activists who have inspired movements
 cards:
     - content:
-        title: First Video
-        subtitle: All about the first video
-        href: http://google.com
-        is_video: true
-    - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
-        is_video: true
-    - content:
         title: Greensboro Lunch Counter Sit-Ins
         subtitle: Read about the 1960s sit-ins here.
         href: /why-protest-greensboro.html
