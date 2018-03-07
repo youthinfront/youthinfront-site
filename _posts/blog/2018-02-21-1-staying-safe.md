@@ -12,11 +12,11 @@ cards:
         subtitle: A Self Magazine article from the Women's March
         href: /self-magazine-protest-rights-safety.html
     - content:
-        title: So it's your first protest?
+        title: So It's Your First Protest?
         subtitle: A guide to staying safe at protests and demonstrations
         href: /stay-safe-first-protest.html
     - content:
-        title: Want to livestream a protest?
+        title: Want to Livestream a Protest?
         subtitle: WITNESS's guide to livestreaming
         href: /safely-livestream-protests.html        
 category: blog
