@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Will I Get in Trouble?: Washington Post
+title: Will I Get in Trouble? Washington Post
 previous: /will-i-get-in-trouble-NSBA.html
 next: /video-will-i-get-in-trouble-main.html
 ---
