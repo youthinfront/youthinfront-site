@@ -141,8 +141,9 @@ class Scraper:
             pages = self.get_pages_in_post_cards(post)
             print pages
             for i in xrange(0, len(pages)):
-                page_file = pages[i]
-                page = Page(page_file).process(False)
+                page_file = pages[i] + '.md'
+                page = Page(page_file)
+                page.process(False)
                 page.set_front_matter('previous', pages[i-1])
                 page.set_front_matter('next', pages[(i+1) % len(pages)])
                 page.rewrite()
