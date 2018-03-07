@@ -68,7 +68,8 @@ img.page-logo {
 
 .top-level-tabs > div > a {
     color: #006BFF;
-    padding:20px;
+    padding:0 20px 10px;
+    display:inline-block;
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
     font-weight: 400;
@@ -473,7 +474,7 @@ footer {
 }
 
 .banner-title {
-    font-family: "Hiragino Kaku Gothic Std";
+    font-family: "Hiragino Kaku Gothic Std", sans-serif;
     font-size: 24px;
     line-height: 26px;
     color: white;
