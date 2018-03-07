@@ -9,7 +9,7 @@ cards:
         href: /nonviolence-and-protest.html 
     - content: 
         title: Baltimore's March 6 Multi-School Walkout
-        subtitle: Observations from Sun reporter Talia Richman
+        subtitle: From Sun reporter Talia Richman
         href: /baltimore-march-from-talia-richman.html
     - content: 
         title: Creative Nonviolent Resistence
