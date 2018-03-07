@@ -6,7 +6,8 @@ How to let students lead the conversation
 =========================================
 ## Four tips for classroom discussion
 
-Try these four tips for creating a safe and reflective space for a difficult topic from Facing History and Ourselves. **Teachers set the standards for discussion; then let students drive the agenda.**
+Try these four tips from Facing History and Ourselves for creating a safe and reflective space for a difficult topic.
+**Teachers set the standards for discussion; then let students drive the agenda.**
 
 1. Start with yourself. Take stock of your own feelings and ideas about this issue. Take ownership of the lens that you bring to the classroom community. Students may have experiences that are similar to or different from yours that inform their responses. 
 
@@ -18,3 +19,4 @@ Try these four tips for creating a safe and reflective space for a difficult top
 
 To learn more, see [Fostering Civil Discourse](http://info.facinghistory.org/civil_discourse):  a short resource from Facing 
 History and Ourselves.
+
