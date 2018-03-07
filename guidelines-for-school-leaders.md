@@ -21,4 +21,4 @@ Guidelines for School Leaders
 
 **5. Stay in touch with Learning Community Superintendent, DISTRICT NAME Communications and DISTRICT NAME PD on any plans that may emerge.**
 
-(Source: http://www.aasa.org/policy-blogs.aspx?id=42161&blogid=84002)
+(Source: [http://www.aasa.org/policy-blogs.aspx?id=42161&blogid=84002](http://www.aasa.org/policy-blogs.aspx?id=42161&blogid=84002))
