@@ -27,10 +27,6 @@ cards:
         title: How Do I Talk to Administrators?
         subtitle: Plan your conversation
         href: /how-to-talk-to-administrators.html
-    - content:
-        title: Strategies for Meeting with Decision Makers
-        subtitle: Prepare and execute an effective meeting
-        href: /students-how-to-meet-decision-maker.html
 category: blog
 bg_img: /images/how-do-i-organize-a-protest-bg.jpg
 students: true

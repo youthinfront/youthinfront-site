@@ -4,18 +4,8 @@ title: How does a march become a movement?
 subtitle: What happens next
 cards:
     - content:
-        title: First Video
-        subtitle: All about the first video
-        href: http://google.com
-        is_video: true
-    - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
-        is_video: true
-    - content:
-        title: High School Students' Field Guide for Activism
-        subtitle: 10 Week Plan for Legislative Action
+        title: 10 Week Plan for Legislative Action
+        subtitle: A field guide by and for high school students
         href: /making-legislative-change.html
     - content:
         title: 198 Methods of Nonviolent Action

@@ -12,39 +12,47 @@ img.page-logo {
     padding: 0 1rem;
 }
 
-.sub-header {
-	background-color: #eeeeee;
-	color: #333333;
-	font-size: 12px;
-	padding: 10px;
-	text-align: left;
-}
-
-.sub-title {
-	margin-right: 20px;
-}
-
-.sub-header-item {
-	display: inline;
-	padding-right:10px;
-}
-
-.sub-header-about ul {
-	display: inline-block;
-	list-style-type: none; 
-	margin-bottom: 0;
-	padding: 0;
-}
-
-.sub-header-item img {
-	max-width: 155px;
-}
-
 .footer-link {
     font-family: "Avenir Next", sans-serif;
     font-size: 24px;
     font-weight: 300;
     margin: 0 10px;
+}
+
+.logo-pack {
+    align-items: center;
+    display: flex;
+}
+
+.sponsor-pack {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    justify-content: space-evenly;
+    max-width: 50%
+}
+
+.header-tagline {
+    margin-left: 30px;
+    font-weight: 400;
+}
+
+.subheader-tagline {
+    font-weight: 400;
+    padding: 1rem 1rem 0 1rem;
+}
+
+.footer-link {
+    font-family: "Avenir Next", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 0 10px;
+}
+
+.about-logo {
+    max-height: 20px;
+    max-width: 100%;
 }
 
 .top-level-tabs {
@@ -74,6 +82,7 @@ img.page-logo {
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
     font-weight: 300;
+    -webkit-font-smoothing: subpixel-antialiased;
 }
 .top-level-tabs > div > a:hover {
     text-decoration: none;
@@ -128,7 +137,7 @@ img.page-logo {
 }
 
 .card-top {
-    height: 108px;
+    height: 90px;
 }
 
 .card-bottom {
@@ -145,9 +154,9 @@ img.page-logo {
 
 .section-title {
     font-family: "Hiragino Kaku Gothic Std", sans-serif;
-    font-size: 36px;
+    font-size: 24px;
     font-weight: bold;
-    line-height: 36px;
+    line-height: 26px;
     margin-bottom: .5rem;
 }
 
@@ -160,7 +169,7 @@ img.page-logo {
 .section-description {
     margin-left: auto;
     max-height: 105px;
-    width: 80%;
+    width: 100%;
 }
 
 .duration-label {
@@ -178,7 +187,7 @@ img.page-logo {
 }
 
 .video-timeline-shadowed {
-    box-shadow: 0 0 4px 0;
+    box-shadow: 0 0 1px 0;
 }
 
 .video-timeline-connector {
@@ -190,7 +199,7 @@ img.page-logo {
 }
 
 .video-timeline-description {
-    align-items: center;
+    align-items: flex-start;
     background-color: white;
     border-radius: 3px;
     /* TODO: make me the brand color */
@@ -199,7 +208,7 @@ img.page-logo {
     flex-direction: row;
     height: 75px;
     margin: 0 20px;
-    padding: 8px 10px;
+    padding: 10px;
     position: relative;
     width: 275px;
     z-index: 1;
@@ -223,7 +232,7 @@ img.page-logo {
 
 .video-timeline-description > i {
     font-size: 24px;
-    margin: 0 15px;
+    margin: 20px 15px 0 10px;
 }
 
 .side-bleed {
@@ -236,7 +245,7 @@ img.page-logo {
 
 .gradient-bleed {
     width: 100%;
-    height: 220px;
+    height: 200px;
     position: absolute;
 }
 
@@ -290,6 +299,38 @@ img.page-logo {
 .color-6 h1, 
 .color-6 i {
     color: #8E1DC2;
+}
+
+.color-7,
+.color-7 p, 
+.color-7 a,
+.color-7 h1, 
+.color-7 i {
+    color: #006CFF;
+}
+
+.color-8,
+.color-8 p, 
+.color-8 a,
+.color-8 h1, 
+.color-8 i {
+    color: #0093FF;
+}
+
+.color-9,
+.color-9 p, 
+.color-9 a,
+.color-9 h1, 
+.color-9 i {
+    color: #00ACDA;
+}
+
+.color-10,
+.color-10 p, 
+.color-10 a,
+.color-10 h1, 
+.color-10 i {
+    color: #00BD89;
 }
 
 .background-gradient-1 {
@@ -346,13 +387,177 @@ img.page-logo {
     );
 }
 
+.background-gradient-7 {
+    background: linear-gradient(
+        to right, 
+        rgba(0,108,255,0.533) 0%, 
+        rgba(0,108,255,1) 65%,
+        rgba(0,108,255,1) 100%
+    );
+}
+
+.background-gradient-8 {
+    background: linear-gradient(
+        to right, 
+        rgba(0,147,255,0.533) 0%, 
+        rgba(0,147,255,1) 65%,
+        rgba(0,147,255,1) 100%
+    );
+}
+
+.background-gradient-9 {
+    background: linear-gradient(
+        to right, 
+        rgba(0,172,218,0.533) 0%, 
+        rgba(0,172,218,1) 65%,
+        rgba(0,172,218,1) 100%
+    );
+}
+
+.background-gradient-10 {
+    background: linear-gradient(
+        to right, 
+        rgba(0,189,137,0.533) 0%, 
+        rgba(0,189,137,1) 65%,
+        rgba(0,189,137,1) 100%
+    );
+}
+
 .pdf {
     width: 100%;
     height: 300px;
 }
 
 blockquote {
+    background: url("/images/big-quotes.png") no-repeat;
     padding: 0 1em;
     color: #6a737d;
     border-left: 0.25em solid #dfe2e5;
 }
+blockquote p {
+    text-indent: 25px;
+}
+
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+@media screen and (min-width: 480px) {
+    .section-title {
+        font-size: 36px;
+        line-height: 36px;
+    }
+
+    .card-top {
+        height: 120px;
+    }
+
+    .gradient-bleed {
+        height: 260px;
+    }
+
+    .side-bleed {
+        height: 260px;
+    }
+
+    .section-video-preview {
+        height: 105px;
+    }
+
+    .video-timeline-description {
+        height: 100px;
+    }
+
+}
+
+/* Begin Article Page */
+.banner {
+    height: 200px;
+    -webkit-clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
+    clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner-title {
+    font-family: "Hiragino Kaku Gothic Std";
+    font-size: 36px;
+    line-height: 40px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.article-container h1 {
+    font-family: "Avenir Next", sans-serif;
+    color: #12C72D;
+    font-size: 20pt;
+    line-height: 27pt;
+    font-weight: 500;
+}
+
+.article-container h1 {
+    font-family: "Avenir Next", sans-serif;
+    color: #12C72D;
+    font-size: 22pt;
+    line-height: 27pt;
+    font-weight: 500;
+}
+
+.article-container h2 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 20pt;
+    line-height: 25pt;
+    font-weight: 475;
+}
+
+.article-container h3 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 18pt;
+    line-height: 23pt;
+    font-weight: 450;
+}
+
+.article-container h4 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 17pt;
+    line-height: 22pt;
+    font-weight: 400;
+}
+
+.article-container h5 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 16pt;
+    line-height: 21pt;
+    font-weight: 350;
+}
+
+.article-container h6 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 15pt;
+    line-height: 20pt;
+    font-weight: 300;
+}
+
+.article-container p {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 14pt;
+    line-height: 19pt;
+    font-weight: normal;
+}
+
+.article-container li {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 14pt;
+    line-height: 19pt;
+    font-weight: normal;
+}
+/* End Article Page */

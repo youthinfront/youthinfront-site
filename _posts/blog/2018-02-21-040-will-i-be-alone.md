@@ -14,7 +14,7 @@ cards:
     - content: 
         title: Seven Historical Examples of Student Activism
         subtitle: From Tiananmen Square to Greensboro's lunch counters
-        href: /seven-examples-historical-youth-activism.htm       
+        href: /seven-examples-historical-youth-activism.html
         
         
 category: blog
