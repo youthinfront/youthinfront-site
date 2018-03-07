@@ -7,6 +7,6 @@ next: /video-how-do-i-start-arin.html
 
 How do I get started?
 ================
-### A video testimoney with Charlotte
+### A video testimony with Charlotte
 
 [video](https://youtu.be/iYeAMUnJoII)
