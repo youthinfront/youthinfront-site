@@ -5,7 +5,7 @@ previous: /why-protest-linda-lowery.html
 next: /why-protest-roske-martinez.html
 ---
 
-Why Protest?: Marilyn Hildreth
+Marilyn Hildreth
 =================
 
 >"...I was 8 years old at that time…and I suggested, made a motion that we would go down to Katz Drugstore and just sit, just sit and sit until they served us.”

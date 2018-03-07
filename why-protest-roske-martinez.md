@@ -5,7 +5,7 @@ previous: /why-protest-marilyn.html
 next: /why-protest-singing-revolution.html
 ---
 
-Why Protest?: Xiuhtezcatl Roske-Martinez
+Xiuhtezcatl Roske-Martinez
 =================
 
 >“The proof is right in front of us. This is happening now, this is happening here, and this is real.” 

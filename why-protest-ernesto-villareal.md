@@ -5,7 +5,7 @@ previous: /why-protest-barack-obama.html
 next: /why-protest-linda-lowery.html
 ---
 
-Why Protest?: Ernesto Villareal
+Ernesto Villareal
 =================
 
 Star high school football player Ernesto Villareal in Marsing, Idaho, led his fellow Latinx players in a boycott of football practice in order to stop racist taunts at the school football games. 

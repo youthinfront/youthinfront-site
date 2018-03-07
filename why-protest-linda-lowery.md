@@ -5,7 +5,7 @@ previous: /why-protest-ernesto-villareal.html
 next: /why-protest-marilyn.html
 ---
 
-Why Protest?: Linda Blackmon Lowery
+Linda Blackmon Lowery
 =================
 
 >“I often tell young people that if you see something you think is wrong and it bothers you, then with steady, loving confrontation, you can get others to see the wrong in whatever it is that you see. Someone will hear you and join you. There are other people who feel the way you’re feeling but they may not be able to express it the way you do. If I could follow a vow from 7 years old to 15 years old, I believe you can follow yours if you’re determined to do it.” 
