@@ -26,17 +26,18 @@ class Page:
         self.filename = filename
         self.path = path
 
-    def load(self):
-        print("going")
-        self.raw_lines = []
-        handle = open(os.path.join(self.path, self.filename), 'r')
-        for line in handle.readlines():
-            self.raw_lines.append(line)
-        print self.raw_lines
+    def process(self):
+        self.load()
         self.process_lines()
         self.add_title_front_matter()
         print self.front_matter
         self.rewrite()
+
+    def load(self):
+        self.raw_lines = []
+        handle = open(os.path.join(self.path, self.filename), 'r')
+        for line in handle.readlines():
+            self.raw_lines.append(line)
 
     def process_lines(self):
         self.front_matter = {}
@@ -112,13 +113,17 @@ class Post:
     def parse(self):
         pass
 
-
-
 class Scraper:
     def __init__(self, path=os.getcwd()):
         self.path = path
 
-    def run(self):
+    def process_pages(self):
+        pages = self.get_pages()
+        for page in pages:
+            print page
+            #Page(page).process()
+
+    def print_orphaned_pages(self):
         print self.get_orphaned_pages()
 
     def get_files(self, path=None):
@@ -192,5 +197,8 @@ class Scraper:
 
 if __name__ == '__main__':
     #Scraper().run()
-    Page('pdf-template.md').load()
+    #Page('pdf-template.md').load()
     #'teachers-after-march-student-feedback.md'
+    Scraper().process_pages()
+
+
