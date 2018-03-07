@@ -2,7 +2,7 @@
 layout: page
 title: How to meet with a decision-maker
 previous: /how-to-talk-to-a-decision-maker.html
-next: /video-get-adults-on-my-side-main.html
+next: /how-teachers-can-help-you.html
 ---
 
 How to meet with a decision-maker

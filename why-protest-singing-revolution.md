@@ -2,7 +2,7 @@
 layout: page
 title: Singing Revolution
 previous: /why-protest-roske-martinez.html
-next: /why-protest-inspirational-quotes.html
+next: /why-protest-charles.html
 ---
 
 Singing Revolution

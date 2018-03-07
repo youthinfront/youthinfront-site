@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Will I Get in Trouble? Houston Public Media
+previous: /will-i-get-in-trouble-wash-post.html
+next: /video-will-i-get-in-trouble-main.html
 ---
 
 Will I Get in Trouble?: Houston Public Media

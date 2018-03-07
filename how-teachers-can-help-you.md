@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Help Your Teachers Help You
+previous: /students-how-to-meet-decision-maker.html
+next: /video-get-adults-on-my-side-main.html
 ---
 
 Help Your Teachers Help You

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Charles Maudlin
+previous: /why-protest-singing-revolution.html
+next: /why-protest-inspirational-quotes.html
 ---
 
 Charles Maudlin
