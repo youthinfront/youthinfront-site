@@ -1,5 +1,8 @@
 ---
 layout: page
+title: 10 Week Plan for Legislative Action by High School Students
+previous: /video-history-cynthia.html
+next: /198-methods-of-nonviolent-action.html
 ---
 
 10 Week Plan for Legislative Action by High School Students

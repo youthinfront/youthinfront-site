@@ -1,5 +1,8 @@
 ---
 layout: page
+title: How to write an op-ed
+previous: /198-methods-of-nonviolent-action.html
+next: /circulate-a-petition.html
 ---
 
 How to write an op-ed

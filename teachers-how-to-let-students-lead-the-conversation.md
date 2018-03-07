@@ -1,5 +1,8 @@
 ---
 layout: page
+title: How to let students lead the conversation
+previous: /teachers-framework-for-civic-participation.html
+next: /teachers-short-activities-to-empower-our-students.html
 ---
 
 How to let students lead the conversation

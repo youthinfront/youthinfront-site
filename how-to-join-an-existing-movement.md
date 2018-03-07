@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Join an Existing Movement
+previous: /difference-between-march-walkout.html
+next: /how-to-talk-to-administrators.html
 ---
 
 Join an Existing Movement

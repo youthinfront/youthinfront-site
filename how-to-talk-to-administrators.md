@@ -1,5 +1,8 @@
 ---
 layout: page
+title: How To Talk To Administrators
+previous: /how-to-join-an-existing-movement.html
+next: /video-how-do-i-start-main.html
 ---
 
 How To Talk To Administrators

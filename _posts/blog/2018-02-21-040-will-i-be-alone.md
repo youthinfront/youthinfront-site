@@ -4,6 +4,12 @@ title: Will I be alone?
 subtitle: No, youth will do this together.
 cards:
     - content: 
+        title: Will I be alone?
+        subtitle: A video testimony
+        href: /video-will-i-be-alone-main.html
+        is_video: true
+        video_code: 1w7B4Q1AD1g
+    - content: 
         title: Upcoming Marches and Walkouts
         subtitle: Around the country, young people are organizing against gun violence
         href: /marches-and-walkouts-against-gun-violence-2018.html

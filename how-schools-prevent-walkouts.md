@@ -1,5 +1,8 @@
 ---
 layout: page
+title: How Schools Prevent Walkouts
+previous: /3-ways-to-persuade-someone-in-power.html
+next: /why-youth-voice-should-be-taken-seriously.html
 ---
 
 How Schools Prevent Walkouts

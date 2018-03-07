@@ -1,5 +1,8 @@
 ---
 layout: page
+title: NSBA on Teacher Speech Outside of School
+previous: /nsba-teacher-speech-rights.html
+next: /free-speech-rights-public-school-teachers.html
 ---
 
 NSBA on Teacher Speech Outside of School

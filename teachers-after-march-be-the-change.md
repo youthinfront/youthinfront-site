@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Be the change
+previous: /teachers-after-march-student-feedback.html
+next: /teachers-after-march-exploring-activism.html
 ---
 
 Be the change

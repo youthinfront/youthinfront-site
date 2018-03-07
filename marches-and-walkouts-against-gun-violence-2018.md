@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Upcoming Marches and Walkouts Against Gun Violence
+previous: /video-will-i-be-alone-main.html
+next: /emma-gonzales-twitter.html
 ---
 
 Upcoming Marches and Walkouts Against Gun Violence

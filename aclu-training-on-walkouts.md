@@ -1,5 +1,8 @@
 ---
 layout: page
+title: ACLU Know Your Rights Training on Walkouts
+previous: /aclu-onepager-on-walkouts.html
+next: /will-i-get-in-trouble-first-amendment-rights.html
 ---
 
 ACLU Know Your Rights Training on Walkouts

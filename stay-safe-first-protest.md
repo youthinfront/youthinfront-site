@@ -1,5 +1,8 @@
 ---
 layout: page
+title: So it's your first protest?
+previous: /self-magazine-protest-rights-safety.html
+next: /safely-livestream-protests.html
 ---
 
 So it's your first protest?

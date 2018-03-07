@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Guidelines for School Leaders
+previous: /ways-to-support-students-without-walking-out.html
+next: /teach-the-past-and-present.html
 ---
 
 Guidelines for School Leaders

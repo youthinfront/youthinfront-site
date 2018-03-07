@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Questions for Discussing Civic Participation in Your Classroom
+previous: /youth-and-social-movements-lessons-for-allies.html
+next: /teachers-how-to-let-students-lead-the-conversation.html
 ---
 
 Questions for Discussing Civic Participation in Your Classroom

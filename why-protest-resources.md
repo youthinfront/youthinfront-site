@@ -1,5 +1,8 @@
 ---
 layout: page
+title: More links to explore youth-led protests and civic activism
+previous: /effective-nonviolent-resistence.html
+next: /video-why-protest-main.html
 ---
 
 More links to explore youth-led protests and civic activism

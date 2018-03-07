@@ -1,5 +1,8 @@
 ---
 layout: page
+title: A twitter post about March For Our Lives organizers meeting with Chicago students
+previous: /marches-and-walkouts-against-gun-violence-2018.html
+next: /seven-examples-historical-youth-activism.html
 ---
 
 A twitter post about March For Our Lives organizers meeting with Chicago students

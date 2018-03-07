@@ -1,5 +1,6 @@
 ---
 layout: page
+title: What Are My Rights? What Are My Risks?
 ---
 
 What Are My Rights? What Are My Risks?

@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Exploring activism as a long term fight
+previous: /teachers-after-march-be-the-change.html
+next: /teachers-after-march-student-feedback.html
 ---
 
 Exploring activism as a long term fight

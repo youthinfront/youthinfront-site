@@ -1,5 +1,8 @@
 ---
 layout: page
+title: 21 Things To Know About Your Right To Protest And How To Do It Safely
+previous: /baltimore-gradesupgunsdown-code-of-conduct.html
+next: /stay-safe-first-protest.html
 ---
 
 21 Things To Know About Your Right To Protest And How To Do It Safely

@@ -1,5 +1,8 @@
 ---
 layout: page
+title: 198 Methods of Nonviolent Action
+previous: /making-legislative-change.html
+next: /how-to-write-an-oped.html
 ---
 
 198 Methods of Nonviolent Action

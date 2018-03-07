@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Why Protest?: Columbia University Sit-Ins, 1985
+previous: /why-protest-chicago.html
+next: /why-protest-barack-obama.html
 ---
 
 Why Protest?: Columbia University Sit-Ins, 1985

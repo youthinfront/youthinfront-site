@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Baltimore Sun Reporter Talia Richman Documents a March 6 Multi-School Walkout
+previous: /video-why-protest-main.html
+next: /recent-student-protests-that-have-made-a-difference.html
 ---
 
 Baltimore Sun Reporter Talia Richman Documents a March 6 Multi-School Walkout

@@ -3,6 +3,18 @@ layout: post
 title: How does a march become a movement?
 subtitle: What happens next
 cards:
+    - content: 
+        title: What happens after the march?
+        subtitle: A video testimony
+        href: /video-what-happens-after-march-main.html
+        is_video: true
+        video_code: wBJLG8RAuso
+    - content: 
+        title: History of Protest
+        subtitle: A video testimony with Cynthia Levinson
+        href: /video-history-cynthia.html
+        is_video: true
+        video_code: NtHQQ0fsuPc
     - content:
         title: 10 Week Plan for Legislative Action
         subtitle: A field guide by and for high school students
