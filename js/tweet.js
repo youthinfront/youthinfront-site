@@ -38,7 +38,7 @@
         var height = width*16/9
 
         var url = "https://www.youtube.com/embed/" + id + "?rel=0";
-        element.innerHTML = '<iframe width="' + width + '" height="' + height + '"' + src="' + url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
+        element.innerHTML = '<iframe width="' + width + '" height="' + height + '"' + 'src="' + url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
     }
 
     function extractYoutubeVideoId(link) {
