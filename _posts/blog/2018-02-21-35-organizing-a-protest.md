@@ -8,28 +8,28 @@ cards:
         subtitle: High schoolers break it down for you
         href: /10-point-walkout-guide.html
     - content:
-        title: "Walkout Organizing Toolkit"
+        title: Walkout Organizing Toolkit
         subtitle: The Women's March Youth Empower organizing kit
         href: /womens-march-enough-walkout-toolkit.html
     - content:
-        title: "How to organize a walkout"
+        title: How to Organize a Walkout
         subtitle: A guide from the Harry Potter Alliance
         href: /how-to-organize-hpa-walkout-guide.html
     - content:
-        title: "What is the difference: Walkout, March, Protest?"
+        title: What is the Difference: Walkout, March, Protest?
         subtitle: The basics.
         href: /difference-between-march-walkout.html
     - content:
-        title: How do I join an existing movement?
+        title: How do I Join an Existing Movement?
         subtitle: "#teamwork"
         href: /how-to-join-an-existing-movement.html  
     - content:
-        title: How do I talk to administrators?
-        subtitle: Don't be nervous!
+        title: How Do I Talk to Administrators?
+        subtitle: Plan your conversation
         href: /how-to-talk-to-administrators.html
     - content:
-        title: Strategies for meeting with decision makers
-        subtitle: How to prepare and execute an effective meeting
+        title: Strategies for Meeting with Decision Makers
+        subtitle: Prepare and execute an effective meeting
         href: /students-how-to-meet-decision-maker.html
 category: blog
 bg_img: /images/how-do-i-organize-a-protest-bg.jpg
