@@ -236,7 +236,7 @@ img.page-logo {
 
 .side-bleed {
     background-repeat: no-repeat;
-    background-size: 75%;
+    background-size: cover;
     height: 220px;
     transform: translateY(200%);
     -webkit-transform: translateY(200%);
@@ -335,7 +335,7 @@ img.page-logo {
 .background-gradient-1 {
     background: linear-gradient(
         to right, 
-        rgba(18,199,45,0.533) 0%, 
+        rgba(18,199,45,0.8) 0%, 
        	rgba(18,199,45,1) 65%,
         rgba(18,199,45,1) 100%
     );
@@ -344,7 +344,7 @@ img.page-logo {
 .background-gradient-2 {
     background: linear-gradient(
         to right, 
-        rgba(0,189,137,0.533) 0%, 
+        rgba(0,189,137,0.8) 0%, 
         rgba(0,189,137,1) 65%,
         rgba(0,189,137,1) 100%
     );
@@ -353,7 +353,7 @@ img.page-logo {
 .background-gradient-3 {
     background: linear-gradient(
         to right, 
-        rgba(0,172,218,0.533) 0%, 
+        rgba(0,172,218,0.8) 0%, 
         rgba(0,172,218,1) 65%,
         rgba(0,172,218,1) 100%
     );
@@ -362,7 +362,7 @@ img.page-logo {
 .background-gradient-4 {
     background: linear-gradient(
         to right, 
-        rgba(0,147,255,0.533) 0%, 
+        rgba(0,147,255,0.8) 0%, 
         rgba(0,147,255,1) 65%,
         rgba(0,147,255,1) 100%
     );
@@ -371,7 +371,7 @@ img.page-logo {
 .background-gradient-5 {
     background: linear-gradient(
         to right, 
-        rgba(0,108,255,0.533) 0%, 
+        rgba(0,108,255,0.8) 0%, 
         rgba(0,108,255,1) 65%,
         rgba(0,108,255,1) 100%
     );
@@ -380,7 +380,7 @@ img.page-logo {
 .background-gradient-6 {
     background: linear-gradient(
         to right, 
-        rgba(142,29,194,0.533) 0%, 
+        rgba(142,29,194,0.8) 0%, 
         rgba(142,29,194,1) 65%,
         rgba(142,29,194,1) 100%
     );
@@ -389,7 +389,7 @@ img.page-logo {
 .background-gradient-7 {
     background: linear-gradient(
         to right, 
-        rgba(0,108,255,0.533) 0%, 
+        rgba(0,108,255,0.8) 0%, 
         rgba(0,108,255,1) 65%,
         rgba(0,108,255,1) 100%
     );
@@ -398,7 +398,7 @@ img.page-logo {
 .background-gradient-8 {
     background: linear-gradient(
         to right, 
-        rgba(0,147,255,0.533) 0%, 
+        rgba(0,147,255,0.8) 0%, 
         rgba(0,147,255,1) 65%,
         rgba(0,147,255,1) 100%
     );
@@ -407,7 +407,7 @@ img.page-logo {
 .background-gradient-9 {
     background: linear-gradient(
         to right, 
-        rgba(0,172,218,0.533) 0%, 
+        rgba(0,172,218,0.8) 0%, 
         rgba(0,172,218,1) 65%,
         rgba(0,172,218,1) 100%
     );
@@ -416,7 +416,7 @@ img.page-logo {
 .background-gradient-10 {
     background: linear-gradient(
         to right, 
-        rgba(0,189,137,0.533) 0%, 
+        rgba(0,189,137,0.8) 0%, 
         rgba(0,189,137,1) 65%,
         rgba(0,189,137,1) 100%
     );
@@ -472,18 +472,19 @@ footer {
 
 /* Begin Article Page */
 .banner {
-    height: 200px;
+    height: 240px;
     -webkit-clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
     clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 40px;
 }
 
 .banner-title {
     font-family: "Hiragino Kaku Gothic Std";
-    font-size: 36px;
-    line-height: 40px;
+    font-size: 24px;
+    line-height: 26px;
     color: white;
     margin-bottom: 15px;
 }
@@ -502,6 +503,7 @@ footer {
     font-size: 22pt;
     line-height: 27pt;
     font-weight: 500;
+    display: none;
 }
 
 .article-container h2 {
@@ -558,6 +560,22 @@ footer {
     font-size: 14pt;
     line-height: 19pt;
     font-weight: normal;
+}
+
+.article-container img {
+    max-width:100%;
+    max-height:400px;
+}
+
+@media screen and (min-width: 480px) {
+    .banner {
+        height: 240px;
+    }
+
+    .banner-title {
+        font-size: 36px;
+        line-height: 40px;
+    }
 }
 /* End Article Page */
 
