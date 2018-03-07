@@ -30,10 +30,6 @@ cards:
         subtitle: Read about the former president here.
         href: /why-protest-barack-obama.html
     - content:
-        title: Charles Maudlin
-        subtitle: Read about the civil rights leader here.
-        href: /why-protest-charles.html
-    - content:
         title: Ernesto Villareal
         subtitle: Read about Ernesto Villareal here.
         href: /why-protest-ernesto-villareal.html
