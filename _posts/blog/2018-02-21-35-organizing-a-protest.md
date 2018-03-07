@@ -16,7 +16,7 @@ cards:
         subtitle: A guide from the Harry Potter Alliance
         href: /how-to-organize-hpa-walkout-guide.html
     - content:
-        title: What is the Difference: Walkout, March, Protest?
+        title: What is the Difference&#58; Walkout, March, Protest?
         subtitle: The basics.
         href: /difference-between-march-walkout.html
     - content:
