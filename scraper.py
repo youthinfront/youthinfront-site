@@ -54,6 +54,7 @@ class Page:
     def add_title_front_matter(self):
         tag = 'title'
         if tag in self.front_matter:
+            self.front_matter[tag] = self.front_matter[tag].replace(':','')
             return
         else:
             title = self.extract_first_title()

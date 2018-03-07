@@ -1,6 +1,6 @@
 ---
 layout: page
-title: National Association for Secondary School Principals: Advice for Principals When Students Are Planning a Walkout
+title: National Association for Secondary School Principals Advice for Principals When Students Are Planning a Walkout
 previous: /video-get-adults-on-my-side-main.html
 next: /3-ways-to-persuade-someone-in-power.html
 ---
