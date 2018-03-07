@@ -26,7 +26,7 @@ show_teacher_student_toggle: true
                   {% if card.content.is_video %}<a class="btn" data-popup-open={{card.content.video_code}} href="#"><i class="fas fa-play"></i></a>
                   <div class="popup" data-popup={{card.content.video_code}}>
                   <div class="popup-inner">
-                  <iframe width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+                  <iframe id="{{card.content.video_code}}" width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
                   <a class="popup-close" data-popup-close={{card.content.video_code}} href="#">x</a>
                   </div>
                   </div>{% endif %}
