@@ -7,7 +7,7 @@ next: /difference-between-march-walkout.html
 
 How to organize
 ===============
-Step-by-step how to walkout guide from [The Harry Potter Alliance](https://www.thehpalliance.org/ "link to The Harry Potter Alliance website")
+Step-by-step [how to walkout guide](https://www.thehpalliance.org/bit.ly/WandsUpWalkOut) from [The Harry Potter Alliance](https://www.thehpalliance.org/ "link to The Harry Potter Alliance website")
 
 ## Step 1: Discuss
 
