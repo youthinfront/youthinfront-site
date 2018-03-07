@@ -139,7 +139,7 @@ img.page-logo {
 }
 
 .card-bottom::-webkit-scrollbar {
-	width: 0
+    width: 0
 }
 
 .section-title {
@@ -328,7 +328,7 @@ img.page-logo {
     background: linear-gradient(
         to right, 
         rgba(18,199,45,0.8) 0%, 
-       	rgba(18,199,45,1) 65%,
+        rgba(18,199,45,1) 65%,
         rgba(18,199,45,1) 100%
     );
 }
@@ -562,10 +562,14 @@ footer {
 .article-container a {
     color: #00ACDA;
 }
+.article-container a:hover {
+    text-decoration: none;
+}
 
 .previous-next {
     display: flex;
     flex-direction: row;
+    font-size: 18.6px;
     justify-content: space-between;
     margin: 40px 0;
 }
