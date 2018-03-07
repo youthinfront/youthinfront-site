@@ -209,6 +209,8 @@ if __name__ == '__main__':
         Scraper().process_pages()
     elif command == 'navigation':
         Scraper().process_navigation()
+    elif command == 'orphans':
+        Scraper().print_orphaned_pages()
     else:
         Scraper().process_pages()
         Scraper().process_navigation()
