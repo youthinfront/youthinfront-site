@@ -12,32 +12,35 @@ img.page-logo {
     padding: 0 1rem;
 }
 
-.sub-header {
-	background-color: #eeeeee;
-	color: #333333;
-	font-size: 12px;
-	padding: 10px;
-	text-align: left;
+.footer-link {
+    font-family: "Avenir Next", sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    margin: 0 10px;
 }
 
-.sub-title {
-	margin-right: 20px;
+.logo-pack {
+    align-items: center;
+    display: flex;
 }
 
-.sub-header-item {
-	display: inline;
-	padding-right:10px;
+.sponsor-pack {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    justify-content: space-evenly;
+    max-width: 50%
 }
 
-.sub-header-about ul {
-	display: inline-block;
-	list-style-type: none; 
-	margin-bottom: 0;
-	padding: 0;
+.header-tagline {
+    margin-left: 30px;
+    font-weight: 400;
 }
 
-.sub-header-item img {
-	max-width: 155px;
+.subheader-tagline {
+    font-weight: 400;
+    padding: 1rem;
 }
 
 .footer-link {
@@ -47,20 +50,25 @@ img.page-logo {
     margin: 0 10px;
 }
 
+.about-logo {
+    max-height: 20px;
+    max-width: 100%;
+}
+
 .top-level-tabs {
     display: flex;
     position: relative;
 }
 
 .top-level-tabs > div {
-    padding: 20px 0;
+    padding: 0 0 20px 0;
     position: relative;
     text-align: center;
     width: 100px;
 }
 
 .top-level-tabs > div.active-audience::after {
-    background-color: #333333;
+    background-color: #12C72D;
     bottom: 0px;
     content: "";
     height: 4px;
@@ -70,10 +78,10 @@ img.page-logo {
 }
 
 .top-level-tabs > div > a {
-    color: #333333;
+    color: #12C72D;
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 400;
 }
 .top-level-tabs > div > a:hover {
     text-decoration: none;
@@ -90,11 +98,8 @@ img.page-logo {
 
 .card-body {
     color: white;
-    position: absolute;
     text-align: right;
     width: 100%;    
-    transform: translateX(200%);
-    -webkit-transform: translateX(200%);
 }
 
 .slide-in-1 {
@@ -103,23 +108,23 @@ img.page-logo {
 }
 
 .slide-in-2 {
-    animation: slide-in 1.0s forwards;
-    -webkit-animation: slide-in 1.0s forwards;
+    animation: slide-in 0.75s forwards;
+    -webkit-animation: slide-in 0.6s forwards;
 }
 
 .slide-in-3 {
-    animation: slide-in 1.5s forwards;
-    -webkit-animation: slide-in 1.5s forwards;
+    animation: slide-in 1s forwards;
+    -webkit-animation: slide-in 1s forwards;
 }
 
 .slide-in-4 {
-    animation: slide-in 2.0s forwards;
-    -webkit-animation: slide-in 2.0s forwards;
+    animation: slide-in 1.25s forwards;
+    -webkit-animation: slide-in 1.25s forwards;
 }
 
 .slide-in-5 {
-    animation: slide-in 2.5s forwards;
-    -webkit-animation: slide-in 2.5s forwards;
+    animation: slide-in 1.5s forwards;
+    -webkit-animation: slide-in 1.5s forwards;
 }
 
 @keyframes slide-in {
@@ -131,7 +136,7 @@ img.page-logo {
 }
 
 .card-top {
-    height: 108px;
+    height: 90px;
 }
 
 .card-bottom {
@@ -163,7 +168,7 @@ img.page-logo {
 .section-description {
     margin-left: auto;
     max-height: 105px;
-    width: 80%;
+    width: 100%;
 }
 
 .duration-label {
@@ -193,7 +198,7 @@ img.page-logo {
 }
 
 .video-timeline-description {
-    align-items: center;
+    align-items: flex-start;
     background-color: white;
     border-radius: 3px;
     /* TODO: make me the brand color */
@@ -202,7 +207,7 @@ img.page-logo {
     flex-direction: row;
     height: 75px;
     margin: 0 20px;
-    padding: 8px 10px;
+    padding: 10px;
     position: relative;
     width: 275px;
     z-index: 1;
@@ -226,19 +231,20 @@ img.page-logo {
 
 .video-timeline-description > i {
     font-size: 24px;
-    margin: 0 15px;
+    margin: 20px 15px 0 10px;
 }
 
 .side-bleed {
     background-repeat: no-repeat;
     background-size: cover;
-    width: 75%;
-    height: 220px;
+    height: 200px;
+    transform: translateY(200%);
+    -webkit-transform: translateY(200%);
 }
 
 .gradient-bleed {
     width: 100%;
-    height: 220px;
+    height: 200px;
     position: absolute;
 }
 
@@ -329,7 +335,7 @@ img.page-logo {
 .background-gradient-1 {
     background: linear-gradient(
         to right, 
-        rgba(18,199,45,0.533) 0%, 
+        rgba(18,199,45,0.8) 0%, 
        	rgba(18,199,45,1) 65%,
         rgba(18,199,45,1) 100%
     );
@@ -338,7 +344,7 @@ img.page-logo {
 .background-gradient-2 {
     background: linear-gradient(
         to right, 
-        rgba(0,189,137,0.533) 0%, 
+        rgba(0,189,137,0.8) 0%, 
         rgba(0,189,137,1) 65%,
         rgba(0,189,137,1) 100%
     );
@@ -347,7 +353,7 @@ img.page-logo {
 .background-gradient-3 {
     background: linear-gradient(
         to right, 
-        rgba(0,172,218,0.533) 0%, 
+        rgba(0,172,218,0.8) 0%, 
         rgba(0,172,218,1) 65%,
         rgba(0,172,218,1) 100%
     );
@@ -356,7 +362,7 @@ img.page-logo {
 .background-gradient-4 {
     background: linear-gradient(
         to right, 
-        rgba(0,147,255,0.533) 0%, 
+        rgba(0,147,255,0.8) 0%, 
         rgba(0,147,255,1) 65%,
         rgba(0,147,255,1) 100%
     );
@@ -365,7 +371,7 @@ img.page-logo {
 .background-gradient-5 {
     background: linear-gradient(
         to right, 
-        rgba(0,108,255,0.533) 0%, 
+        rgba(0,108,255,0.8) 0%, 
         rgba(0,108,255,1) 65%,
         rgba(0,108,255,1) 100%
     );
@@ -374,7 +380,7 @@ img.page-logo {
 .background-gradient-6 {
     background: linear-gradient(
         to right, 
-        rgba(142,29,194,0.533) 0%, 
+        rgba(142,29,194,0.8) 0%, 
         rgba(142,29,194,1) 65%,
         rgba(142,29,194,1) 100%
     );
@@ -383,7 +389,7 @@ img.page-logo {
 .background-gradient-7 {
     background: linear-gradient(
         to right, 
-        rgba(0,108,255,0.533) 0%, 
+        rgba(0,108,255,0.8) 0%, 
         rgba(0,108,255,1) 65%,
         rgba(0,108,255,1) 100%
     );
@@ -392,7 +398,7 @@ img.page-logo {
 .background-gradient-8 {
     background: linear-gradient(
         to right, 
-        rgba(0,147,255,0.533) 0%, 
+        rgba(0,147,255,0.8) 0%, 
         rgba(0,147,255,1) 65%,
         rgba(0,147,255,1) 100%
     );
@@ -401,7 +407,7 @@ img.page-logo {
 .background-gradient-9 {
     background: linear-gradient(
         to right, 
-        rgba(0,172,218,0.533) 0%, 
+        rgba(0,172,218,0.8) 0%, 
         rgba(0,172,218,1) 65%,
         rgba(0,172,218,1) 100%
     );
@@ -410,7 +416,7 @@ img.page-logo {
 .background-gradient-10 {
     background: linear-gradient(
         to right, 
-        rgba(0,189,137,0.533) 0%, 
+        rgba(0,189,137,0.8) 0%, 
         rgba(0,189,137,1) 65%,
         rgba(0,189,137,1) 100%
     );
@@ -443,14 +449,222 @@ footer {
     }
 
     .card-top {
-        height: 140px;
+        height: 120px;
     }
 
     .gradient-bleed {
         height: 260px;
     }
-    
+
     .side-bleed {
         height: 260px;
     }
+
+    .section-video-preview {
+        height: 105px;
+    }
+
+    .video-timeline-description {
+        height: 100px;
+    }
+
+}
+
+/* Begin Article Page */
+.banner {
+    height: 240px;
+    -webkit-clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
+    clip-path: polygon(0 0, 1600px 0, 1600px 100%, 0 87%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.banner-title {
+    font-family: "Hiragino Kaku Gothic Std";
+    font-size: 24px;
+    line-height: 26px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.article-container h1 {
+    font-family: "Avenir Next", sans-serif;
+    color: #12C72D;
+    font-size: 20pt;
+    line-height: 27pt;
+    font-weight: 500;
+}
+
+.article-container h1 {
+    font-family: "Avenir Next", sans-serif;
+    color: #12C72D;
+    font-size: 22pt;
+    line-height: 27pt;
+    font-weight: 500;
+    display: none;
+}
+
+.article-container h2 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 20pt;
+    line-height: 25pt;
+    font-weight: 475;
+}
+
+.article-container h3 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 18pt;
+    line-height: 23pt;
+    font-weight: 450;
+}
+
+.article-container h4 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 17pt;
+    line-height: 22pt;
+    font-weight: 400;
+}
+
+.article-container h5 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 16pt;
+    line-height: 21pt;
+    font-weight: 350;
+}
+
+.article-container h6 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 15pt;
+    line-height: 20pt;
+    font-weight: 300;
+}
+
+.article-container p {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 14pt;
+    line-height: 19pt;
+    font-weight: normal;
+}
+
+.article-container li {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67,66,66,1) 100%;
+    font-size: 14pt;
+    line-height: 19pt;
+    font-weight: normal;
+}
+
+.article-container img {
+    max-width:100%;
+    max-height:400px;
+}
+
+@media screen and (min-width: 480px) {
+    .banner {
+        height: 240px;
+    }
+
+    .banner-title {
+        font-size: 36px;
+        line-height: 40px;
+    }
+}
+/* End Article Page */
+
+.sponsor-roll {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.sponsor-roll img {
+    margin: 20px;
+}
+
+.sponsor-roll img.invert {
+    filter: invert(100%);
+}
+
+/* modal panel + button */
+
+#modal-panel {
+    max-width: 350px;
+    margin: 50px auto 0 auto;
+    background: #ddd;
+    text-align: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transition: opacity 0.2s;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.overlay .cancel {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: default;
+}
+
+.overlay:target {
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup {
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #666;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
+
+/* pop-up close button 'x' */
+
+.popup .close {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 20px;
+    right: 20px;
+    opacity: 0.8;
+    transition: all 200ms;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #666;
+}
+
+.popup .close:hover {
+    opacity: 1;
+}
+
+.popup .content {
+    max-height: 400px;
+    overflow: auto;
+    text-align: center;
+}
+
+.embedded-video {
+    width: 560px;
+    max-width: 100%;
+    height: 315px;
+    max-height: auto;
 }

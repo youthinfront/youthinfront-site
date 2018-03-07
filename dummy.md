@@ -1,5 +1,6 @@
 ---
 layout: page
+title: I am a page title
 ---
 
 I am a page title

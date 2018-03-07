@@ -1,5 +1,6 @@
 ---
 layout: page
+title: How to safely livestream actions
 ---
 
 How to safely livestream actions

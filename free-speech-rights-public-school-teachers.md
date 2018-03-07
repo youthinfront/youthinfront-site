@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Public School Teachers' Free Speech Rights
 ---
 
 Public School Teachers' Free Speech Rights

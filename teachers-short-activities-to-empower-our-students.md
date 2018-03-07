@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Short Activities to Empower Students
 ---
 
 Short Activities to Empower Students

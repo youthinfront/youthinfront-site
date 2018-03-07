@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Columbia University Sit-Ins, 1985
 ---
 
 Why Protest?: Columbia University Sit-Ins, 1985

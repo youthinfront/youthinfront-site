@@ -1,5 +1,6 @@
 ---
 layout: page
+title: National Association for Secondary School Principals: Advice for Principals When Students Are Planning a Walkout
 ---
 
 National Association for Secondary School Principals: Advice for Principals When Students Are Planning a Walkout

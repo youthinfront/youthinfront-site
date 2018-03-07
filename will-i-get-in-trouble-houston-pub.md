@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Will I Get in Trouble?: Houston Public Media
 ---
 
 Will I Get in Trouble?: Houston Public Media

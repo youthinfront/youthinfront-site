@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Greensboro, NC Lunch Counter Sit-Ins, 1960
 ---
 
 Why Protest?: Greensboro, NC Lunch Counter Sit-Ins, 1960

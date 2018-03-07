@@ -1,5 +1,6 @@
 ---
 layout: page
+title: How to respond to and support your students
 ---
 
 How to respond to and support your students

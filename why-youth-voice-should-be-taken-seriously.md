@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Youth Voice Should Be Taken Seriously
 ---
 
 Why Youth Voice Should Be Taken Seriously

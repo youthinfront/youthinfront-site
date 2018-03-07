@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Upcoming Marches and Walkouts Against Gun Violence
 ---
 
 Upcoming Marches and Walkouts Against Gun Violence

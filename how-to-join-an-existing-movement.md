@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Join an Existing Movement
 ---
 
 Join an Existing Movement

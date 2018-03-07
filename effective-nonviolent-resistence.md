@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Secrets to Effective Nonviolent Resistance
 ---
 
 Secrets to Effective Nonviolent Resistance
