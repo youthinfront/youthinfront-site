@@ -39,6 +39,10 @@ cards:
         title: Suspensions and Student Speech
         subtitle: Read the Washington Post piece on the legality of threatening suspensions here.
         href: /will-i-get-in-trouble-wash-post.html
+    - content:
+        title: Houston Public Media guide
+        subtitle: Notes about suspension and first amendment rights
+        href: /will-i-get-in-trouble-houston-pub.html
 category: blog
 bg_img: /images/will-i-get-in-trouble-bg.jpg
 students: true

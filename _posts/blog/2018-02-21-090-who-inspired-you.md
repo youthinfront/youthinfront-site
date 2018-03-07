@@ -70,6 +70,10 @@ cards:
         subtitle: Read about the Singing Revolution here.
         href: /why-protest-singing-revolution.html
     - content:
+        title: Charles Maudlin
+        subtitle: Read about the the civil rights leader here.
+        href: /why-protest-charles.html
+    - content:
         title: Inspirational Quotes
         subtitle: Read some inspirational quotes here.
         href: /why-protest-inspirational-quotes.html
