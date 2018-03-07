@@ -294,6 +294,38 @@ img.page-logo {
     color: #8E1DC2;
 }
 
+.color-7,
+.color-7 p, 
+.color-7 a,
+.color-7 h1, 
+.color-7 i {
+    color: #006CFF;
+}
+
+.color-8,
+.color-8 p, 
+.color-8 a,
+.color-8 h1, 
+.color-8 i {
+    color: #0093FF;
+}
+
+.color-9,
+.color-9 p, 
+.color-9 a,
+.color-9 h1, 
+.color-9 i {
+    color: #00ACDA;
+}
+
+.color-10,
+.color-10 p, 
+.color-10 a,
+.color-10 h1, 
+.color-10 i {
+    color: #00BD89;
+}
+
 .background-gradient-1 {
     background: linear-gradient(
         to right, 
