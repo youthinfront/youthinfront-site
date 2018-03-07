@@ -10,7 +10,7 @@ next: /nonviolence-and-protest.html
 
 Cosmo's Hannah Smothers pointed out in a [recent article](https://www.cosmopolitan.com/politics/a18660180/teen-student-led-protests-america/):
 
->if you're surprised to see teenagers form a cohesive movement with an ambitious goal they're actively working toward, you haven't been paying close enough attention. 
+>If you're surprised to see teenagers form a cohesive movement with an ambitious goal they're actively working toward, you haven't been paying close enough attention. 
 
 She highlights 5 student-led protests that have created real change in this decade alone:
 
