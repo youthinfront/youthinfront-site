@@ -4,8 +4,8 @@ layout: page
 
 10 Week Plan for Legislative Action by High School Students
 =================
-High School Students' Field Guide for Activism
----------------
+## High School Students' Field Guide for Activism
+
 
 Massachusetts high school students put together a "field guide" to help each other coordinate their actions to make legislative change (or change the law). They explain:
 
