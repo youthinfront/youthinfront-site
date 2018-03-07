@@ -1,4 +1,5 @@
 import os
+import sys
 
 class Page:
     def __init__(self, filename, path=os.getcwd()):
@@ -113,7 +114,7 @@ class Scraper:
             print page
             Page(page).process()
 
-    def process_posts(self):
+    def process_navigation(self):
         posts = self.get_post_files()
         for post in posts:
             print post
@@ -199,9 +200,14 @@ class Scraper:
         
         return orphaned
 
-if __name__ == '__main__':
-    #Scraper().run()
-    #Scraper().process_pages()
-    Scraper().process_posts()
+if __name__ == '__main__':    
+    command = None
+    if len(sys.argv) >= 2:
+        command = sys.argv[1]
 
-
+    if command == 'titles':
+        Scraper().process_pages()
+    elif command == 'navigation':
+        Scraper().process_navigation()
+    else:
+        Scraper().process_navigation()
