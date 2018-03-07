@@ -236,7 +236,7 @@ img.page-logo {
 
 .side-bleed {
     background-repeat: no-repeat;
-    background-size: 75%;
+    background-size: cover;
     height: 220px;
     transform: translateY(200%);
     -webkit-transform: translateY(200%);
