@@ -1,5 +1,6 @@
 ---
 layout: page
+title: So it's your first protest?
 ---
 
 So it's your first protest?

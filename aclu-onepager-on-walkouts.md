@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Advice on Student Walkouts from the American Civil Liberties Union
 ---
 
 Advice on Student Walkouts from the American Civil Liberties Union

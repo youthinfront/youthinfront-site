@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 198 Methods of Nonviolent Action
 ---
 
 198 Methods of Nonviolent Action

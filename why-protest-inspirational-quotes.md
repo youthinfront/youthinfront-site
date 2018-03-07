@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Inspirational Quotes
 ---
 
 Why Protest?: Inspirational Quotes

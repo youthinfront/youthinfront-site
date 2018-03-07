@@ -1,5 +1,6 @@
 ---
 layout: page
+title: What's the difference: Walkout, March, Protest?
 ---
 
 What's the difference: Walkout, March, Protest?

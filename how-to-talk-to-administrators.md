@@ -1,5 +1,6 @@
 ---
 layout: page
+title: How To Talk To Administrators
 ---
 
 How To Talk To Administrators

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Welcoming student voices, student leadership, and student feedback
 ---
 
 # Welcoming student voices, student leadership, and student feedback

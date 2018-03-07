@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Guidelines for School Leaders
 ---
 
 Guidelines for School Leaders

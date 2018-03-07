@@ -1,5 +1,6 @@
 ---
 layout: page
+title: How Schools Prevent Walkouts
 ---
 
 How Schools Prevent Walkouts

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Ernesto Villareal
 ---
 
 Why Protest?: Ernesto Villareal

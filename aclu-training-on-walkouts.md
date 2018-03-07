@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ACLU Know Your Rights Training on Walkouts
 ---
 
 ACLU Know Your Rights Training on Walkouts

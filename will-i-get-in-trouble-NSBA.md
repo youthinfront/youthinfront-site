@@ -1,5 +1,6 @@
 ---
 layout: page
+title: National School Board Association Guide on Student and Employee Speech
 ---
 
 National School Board Association Guide on Student and Employee Speech

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest? President Barack Obama Explains
 ---
 
 Why Protest? President Barack Obama Explains

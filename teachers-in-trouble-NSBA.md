@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Can I get in trouble for supporting students?
 ---
 
 Can I get in trouble for supporting students?

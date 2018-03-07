@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Chicago Public Schools Boycott, 1963
 ---
 
 Why Protest?: Chicago Public Schools Boycott, 1963

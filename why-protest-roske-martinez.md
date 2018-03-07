@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Xiuhtezcatl Roske-Martinez
 ---
 
 Why Protest?: Xiuhtezcatl Roske-Martinez

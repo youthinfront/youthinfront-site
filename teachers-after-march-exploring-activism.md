@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Exploring activism as a long term fight
 ---
 
 Exploring activism as a long term fight

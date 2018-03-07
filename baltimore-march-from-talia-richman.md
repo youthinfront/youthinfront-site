@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Baltimore Sun Reporter Talia Richman Documents a March 6 Multi-School Walkout
 ---
 
 Baltimore Sun Reporter Talia Richman Documents a March 6 Multi-School Walkout

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: How to write an op-ed
 ---
 
 How to write an op-ed

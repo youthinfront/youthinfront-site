@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Seven Historical Examples of Student Activism
 ---
 
 Seven Historical Examples of Student Activism

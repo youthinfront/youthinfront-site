@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Help Your Teachers Help You
 ---
 
 Help Your Teachers Help You

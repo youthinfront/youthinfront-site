@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Linda Blackmon Lowery
 ---
 
 Why Protest?: Linda Blackmon Lowery

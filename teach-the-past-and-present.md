@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Teaching the past and present to explore civic engagement
 ---
 
 Teaching the past and present to explore civic engagement

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Will I Get in Trouble?: Washington Post
 ---
 
 Will I Get in Trouble?: Washington Post
