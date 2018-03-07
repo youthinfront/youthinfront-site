@@ -6,7 +6,7 @@ Be the change
 =============
 ### Find a community problem and solve it
 
-Service-learning projects — where students identify a local problem and propose real solutions — can deepen a young person’s sense of civic engagement after this spring’s marches and protests are over.
+Service-learning projects — where students identify a local problem and propose real solutions — can deepen a young person’s sense of civic engagement.
 
 Service learning allows students to apply their academic, social, and personal skills to garner real results. Ancillary benefits — building collaboration skills, problem-solving skills, and conflict-resolution skills — carry over into other subjects and assignments. 
 
