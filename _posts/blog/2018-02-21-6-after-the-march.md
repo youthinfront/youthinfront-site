@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How does a march become a movement?
+title: How can a march become a movement?
 subtitle: What happens next
 cards:
     - content:
