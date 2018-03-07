@@ -10,6 +10,10 @@ cards:
         is_video: true
         video_code: 96raDY1vyuM
     - content:
+        title: Advice for Principals on Walkouts
+        subtitle: From the National Association of Secondary School Principals
+        href: /nassp-advice-for-principals-for-walkouts.html        
+    - content:
         title: 3 Ways to Persuade Someone in Power
         subtitle: A guide for communicating with decision-makers
         href: /3-ways-to-persuade-someone-in-power.html
