@@ -90,11 +90,8 @@ img.page-logo {
 
 .card-body {
     color: white;
-    position: absolute;
     text-align: right;
     width: 100%;    
-    transform: translateX(200%);
-    -webkit-transform: translateX(200%);
 }
 
 .slide-in-1 {
@@ -103,23 +100,23 @@ img.page-logo {
 }
 
 .slide-in-2 {
-    animation: slide-in 1.0s forwards;
-    -webkit-animation: slide-in 1.0s forwards;
+    animation: slide-in 0.75s forwards;
+    -webkit-animation: slide-in 0.6s forwards;
 }
 
 .slide-in-3 {
-    animation: slide-in 1.5s forwards;
-    -webkit-animation: slide-in 1.5s forwards;
+    animation: slide-in 1s forwards;
+    -webkit-animation: slide-in 1s forwards;
 }
 
 .slide-in-4 {
-    animation: slide-in 2.0s forwards;
-    -webkit-animation: slide-in 2.0s forwards;
+    animation: slide-in 1.25s forwards;
+    -webkit-animation: slide-in 1.25s forwards;
 }
 
 .slide-in-5 {
-    animation: slide-in 2.5s forwards;
-    -webkit-animation: slide-in 2.5s forwards;
+    animation: slide-in 1.5s forwards;
+    -webkit-animation: slide-in 1.5s forwards;
 }
 
 @keyframes slide-in {
@@ -231,9 +228,10 @@ img.page-logo {
 
 .side-bleed {
     background-repeat: no-repeat;
-    background-size: cover;
-    width: 75%;
+    background-size: 75%;
     height: 220px;
+    transform: translateY(200%);
+    -webkit-transform: translateY(200%);
 }
 
 .gradient-bleed {
