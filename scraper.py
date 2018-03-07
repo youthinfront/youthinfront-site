@@ -210,4 +210,5 @@ if __name__ == '__main__':
     elif command == 'navigation':
         Scraper().process_navigation()
     else:
+        Scraper().process_pages()
         Scraper().process_navigation()
