@@ -3,6 +3,12 @@ layout: post
 title: Will I get in trouble?
 subtitle: Know the law, know your rights.
 cards:
+    - content: 
+        title: Will I get in trouble?
+        subtitle: A video testimony
+        href: /video-will-i-get-in-trouble-main.html
+        is_video: true
+        video_code: f66DNrIlUSc
     - content:
         title: ACLU One-Pager on Student Walkouts
         subtitle: A 1st Amendment guide to walkouts 
