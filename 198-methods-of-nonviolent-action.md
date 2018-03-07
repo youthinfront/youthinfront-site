@@ -9,6 +9,7 @@ layout: page
 * (14) Mock awards
 * (38) Marches
 * (51) Walk-outs
+* (62) Student strike
 * (76) National consumers’ boycott
 * (117) General strike
 * (141) Civil disobedience of “illegitimate” laws
