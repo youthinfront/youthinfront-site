@@ -230,8 +230,9 @@ img.page-logo {
 }
 
 .video-timeline-description > i {
+    align-self: center;
     font-size: 24px;
-    margin: 20px 15px 0 10px;
+    margin: 0 15px 0 10px;
 }
 
 .side-bleed {
