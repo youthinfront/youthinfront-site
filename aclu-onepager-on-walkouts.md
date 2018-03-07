@@ -26,6 +26,6 @@ Advice on Student Walkouts from the American Civil Liberties Union
 
 
 From the ACLU twitter account:
-[ACLU Twitter Account](https://twitter.com/aclu/status/967015084789850113?lang=en):
+[ACLU Twitter Account](https://twitter.com/aclu/status/967015084789850113?lang=en)
 
 For more details, visit this ACLU explainer: [Your First Amendment Guide to Student Walkouts](https://www.aclu-ms.org/en/your-first-amendment-guide-student-walkouts).
