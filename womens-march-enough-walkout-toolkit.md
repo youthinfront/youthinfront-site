@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Women's March Youth Empower #ENOUGH: National School Walkout Toolkit for March 14
 ---
 
 Women's March Youth Empower #ENOUGH: National School Walkout Toolkit for March 14

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Marilyn Hildreth
 ---
 
 Why Protest?: Marilyn Hildreth

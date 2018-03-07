@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 10 Week Plan for Legislative Action by High School Students
 ---
 
 10 Week Plan for Legislative Action by High School Students

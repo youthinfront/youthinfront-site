@@ -24,19 +24,30 @@
 
     <header class="sticky-top">
       <div class="navbar yif-navbar">
-        <a href="/"><img class="page-logo" src="/images/logo-black-wide.png"/></a>
-        {% if layout.show_teacher_student_toggle %}
-          <div class="top-level-tabs">
-            <div class="{% if page.audience == 'students' %}active-audience{% endif %}"><a href="/">Youth</a></div>
-            <div class="{% if page.audience == 'teachers' %}active-audience{% endif %}"><a href="/teachers.html">Adults</a></div>
+        <div class="logo-pack">
+          <a href="/"><img class="page-logo" src="/images/logo-black-wide.png"/></a>
+          <div class="header-tagline d-none d-lg-block">
+            Advice on Leading Change from Experienced Youth Activists and Allies
           </div>
-        {% endif %}
+        </div>
+        <div class="sponsor-pack">
+          <a href="https://tsl.mit.edu/"><img class="about-logo" alt="MIT Logo" src="/images/mit-teaching-systems-lab-logo.png"/></a>
+          <a href="https://www.gse.harvard.edu/uk"><img class="about-logo" alt="Harvard Logo" src="/images/UK_HGSE_oneline.png"/></a>
+        </div>
       </div>
     </header>
 
+
     <div class="sub-header">
-      <span class="sub-title">Advice on Leading Change from Experienced Youth Activists and Allies</span>
-        <span class="sub-header-about"><ul><li class="sub-header-item"><img class="about-logo" alt="MIT Logo" src="/images/mit-teaching-systems-lab-logo.png"/></li><li class="sub-header-item"><img class="about-logo" alt="Harvard Logo" src="/images/UK_HGSE_oneline.png"/></li></ul></span>
+      <div class="subheader-tagline d-block d-lg-none">
+        Advice on Leading Change from Experienced Youth Activists and Allies
+      </div>
+      {% if layout.show_teacher_student_toggle %}
+        <div class="top-level-tabs">
+          <div class="{% if page.audience == 'students' %}active-audience{% endif %}"><a href="/">Youth</a></div>
+          <div class="{% if page.audience == 'teachers' %}active-audience{% endif %}"><a href="/teachers.html">Adults</a></div>
+        </div>
+      {% endif %}
     </div>
 
 

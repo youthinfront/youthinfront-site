@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 21 Things To Know About Your Right To Protest And How To Do It Safely
 ---
 
 21 Things To Know About Your Right To Protest And How To Do It Safely

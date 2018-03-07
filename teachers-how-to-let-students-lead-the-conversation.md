@@ -1,5 +1,6 @@
 ---
 layout: page
+title: How to let students lead the conversation
 ---
 
 How to let students lead the conversation

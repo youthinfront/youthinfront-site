@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Create a petition
 ---
 
 Create a petition

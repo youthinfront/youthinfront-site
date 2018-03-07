@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Martin Luther King Jr.'s Six Principles of Nonviolence
 ---
 
 Martin Luther King Jr.'s Six Principles of Nonviolence

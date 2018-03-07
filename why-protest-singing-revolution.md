@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Protest?: Singing Revolution
 ---
 
 Why Protest?: Singing Revolution

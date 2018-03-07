@@ -1,5 +1,6 @@
 ---
 layout: page
+title: How Teachers Can Safely Support Student Activists
 ---
 
 How Teachers Can Safely Support Student Activists
