@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Protest? Linda Blackmon Lowery
+title: Linda Blackmon Lowery
 previous: /why-protest-ernesto-villareal.html
 next: /why-protest-marilyn.html
 ---
