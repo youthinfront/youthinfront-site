@@ -56,7 +56,6 @@ img.page-logo {
 }
 
 .top-level-tabs > div {
-    padding: 0 0 20px 0;
     position: relative;
     text-align: center;
     width: 100px;
@@ -69,11 +68,12 @@ img.page-logo {
     height: 4px;
     left: 0px;
     position: absolute;
-    width: 100px;
+    width: 100%;
 }
 
 .top-level-tabs > div > a {
     color: #006BFF;
+    padding:20px;
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
     font-weight: 400;
