@@ -58,10 +58,11 @@ class Page:
                 else:
                     has_hit_closer = True
                     continue
-            key,value = line.split(':', 1)
-            value = value.strip()
-            self.front_matter[key] = value
-            self.front_matter_keys_in_order.append(key)
+            if has_hit_opener:
+                key,value = line.split(':', 1)
+                value = value.strip()
+                self.front_matter[key] = value
+                self.front_matter_keys_in_order.append(key)
 
         self.content_lines = []
         for i in xrange(first_content_line, len(self.raw_lines)):
