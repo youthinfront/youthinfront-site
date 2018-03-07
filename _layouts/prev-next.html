@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{{content}}
+<div class="container">
+	<div class="previous-next">
+	    {% unless page.previous == null %}
+	    <div class="previous-container">
+	        <a href="{{ page.previous }}" class="no-underline previous"><i class="fas fa-angle-left"></i> Previous</a>
+	    </div>
+	    {% endunless %}
+	    {% unless page.next == null %}
+	    <div class="previous-container">
+	        <a href="{{ page.next }}" class="no-underline next">Next <i class="fas fa-angle-right"></i></a>
+	    </div>
+	    {% endunless %}
+	</div>
+</div>
