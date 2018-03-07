@@ -3,16 +3,30 @@ layout: post
 title: Who has inspired you?
 subtitle: Activists who have inspired movements
 cards:
-    - content:
-        title: First Video
-        subtitle: All about the first video
-        href: http://google.com
+    - content: 
+        title: Who has inspired you?
+        subtitle: A video testimony with Kelvin
+        href: /video-who-inspired-kelvin.html
         is_video: true
-    - content:
-        title: Second Video
-        subtitle: All about the second video
-        href: http://aclu.org
+        video_code: 3H9-UdUW3Is
+    - content: 
+        title: Who has inspired you?
+        subtitle: A video testimony with Laura
+        href: /video-who-inspired-laura.html
         is_video: true
+        video_code: mYwn-WYATmI
+    - content: 
+        title: Who has inspired you?
+        subtitle: A video testimony with Ed
+        href: /video-who-inspired-ed.html
+        is_video: true
+        video_code: QJMOKMmRBi8
+    - content: 
+        title: Who has inspired you?
+        subtitle: A video testimony with Marshall
+        href: /video-who-inspired-marshall.html
+        is_video: true
+        video_code: L8hu-ociNy0
     - content:
         title: Greensboro Lunch Counter Sit-Ins
         subtitle: Read about the 1960s sit-ins here.
