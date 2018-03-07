@@ -42,7 +42,7 @@ img.page-logo {
 
 .footer-link {
     font-family: "Avenir Next", sans-serif;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 300;
     margin: 0 10px;
 }
@@ -60,7 +60,7 @@ img.page-logo {
 }
 
 .top-level-tabs > div.active-audience::after {
-    background-color: #12C72D;
+    background-color: #333333;
     bottom: 0px;
     content: "";
     height: 4px;
@@ -70,7 +70,7 @@ img.page-logo {
 }
 
 .top-level-tabs > div > a {
-    color: #12C72D;
+    color: #333333;
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -146,11 +146,21 @@ img.page-logo {
 	width: 0
 }
 
+@media screen and (min-width: 480px) {
+    .section-title {
+        font-family: "Hiragino Kaku Gothic Std", sans-serif;
+        font-size: 36px;
+        font-weight: bold;
+        line-height: 36px;
+        margin-bottom: .5rem;
+    }
+}
+
 .section-title {
     font-family: "Hiragino Kaku Gothic Std", sans-serif;
-    font-size: 36px;
+    font-size: 24px;
     font-weight: bold;
-    line-height: 36px;
+    line-height: 26px;
     margin-bottom: .5rem;
 }
 
@@ -181,7 +191,7 @@ img.page-logo {
 }
 
 .video-timeline-shadowed {
-    box-shadow: 0 0 4px 0;
+    box-shadow: 0 0 1px 0;
 }
 
 .video-timeline-connector {
@@ -397,4 +407,9 @@ blockquote {
 }
 blockquote p {
     text-indent: 25px;
+}
+
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
