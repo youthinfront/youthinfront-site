@@ -17,6 +17,12 @@ Baltimore Sun Reporter Talia Richman Documents a March 6 Multi-School Walkout
 
 <img src="https://pbs.twimg.com/media/DXnf22TXcAAAOg0.jpg:orig" height="400">
 
+[tweet](https://twitter.com/THEAlleyeceeing/status/971092522637451264)
+
+<img src="https://pbs.twimg.com/media/DXoDdBZVAAA5eTq.jpg:orig" height="400">
+
+<img src="https://pbs.twimg.com/media/DXoDfPSUQAAfdWt.jpg:orig" height="400">
+
 [tweet](https://twitter.com/TaliRichman/status/971053724348092416)
 
 <img src="https://pbs.twimg.com/media/DXngJ0IWAAAkUiv.jpg:orig" height="400">
