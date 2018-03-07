@@ -23,12 +23,11 @@ show_teacher_student_toggle: true
               {% endif %}
               <a class="no-underline" href="{{card.content.href}}">
                 <div class="video-timeline-description video-timeline-shadowed">
-                  {% if card.content.is_video %}<a class="btn" data-popup-open="{{card.content.title}}:{{card.content.subtitle}}" href="#"><i class="fas fa-play"></i></a>
-                  <div class="popup" data-popup="{{card.content.title}}:{{card.content.subtitle}}">
+                  {% if card.content.is_video %}<a class="btn" data-popup-open={{card.content.video_code}} href="#"><i class="fas fa-play"></i></a>
+                  <div class="popup" data-popup={{card.content.video_code}}>
                   <div class="popup-inner">
-                  <h2>Video Title (If Needed)</h2>
-                  <p>Place video here.</p>
-                  <a class="popup-close" data-popup-close="{{card.content.title}}:{{card.content.subtitle}}" href="#">x</a>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ card.content.video_code }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  <a class="popup-close" data-popup-close={{card.content.video_code}} href="#">x</a>
                   </div>
                   </div>{% endif %}
                   <div class="video-timeline-description-inner">

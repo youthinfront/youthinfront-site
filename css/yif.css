@@ -579,9 +579,10 @@ footer {
 /* Inner */
 
 .popup-inner {
-    max-width: 700px;
+    max-width: 560px;
+    max-height: 315px;
     width: 90%;
-    padding: 40px;
+    padding: 0px;
     position: absolute;
     top: 50%;
     left: 50%;
