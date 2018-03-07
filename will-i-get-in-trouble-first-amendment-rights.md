@@ -18,7 +18,7 @@ Since *Tinker v. Des Moines*, there have been other cases that determine when sc
 - [*Bethel School District v. Fraser*](https://www.oyez.org/cases/1985/84-1667)
   - Students do not have the right to lewd or offensive speech on school grounds.
 - [*Hazelwood School District v. Kuhlmeier*](https://www.oyez.org/cases/1987/86-836)
-  - Schools can regulate any speech that may be interpreted as “school sponsored”, such as school newspapers.
+  - Schools can regulate any speech that may be interpreted as “school-sponsored,” such as school newspapers.
 - [*Morse v. Frederick*](https://www.oyez.org/cases/2006/06-278)
   - Schools can regulate speech advocating illegal drug use.
   
