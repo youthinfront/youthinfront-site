@@ -1,12 +1,8 @@
 title: Youth in Front
-email: youthinfront@youthinfront.com
-phone: >
-  +1.234.567.8910
+email: youthinfront@mit.edu
 description: Youth In Front
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://youthinfront.com" # maybe?
-twitter_username: youthinfront
-github_username:  youthinfront
+url: "http://youthinfront.org" # maybe?
 
 # Build settings
 markdown: kramdown
