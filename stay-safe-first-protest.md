@@ -13,7 +13,7 @@ Brought to you by [My Civic Workout](https://www.mycivicworkout.com/)
 ### Before you go
 - Dress like you’re going to an outdoor sports game or concert.
 
-- Wear sturdy, closed toe shoes and bring enough layers.
+- Wear sturdy, closed-toe shoes and bring enough layers.
 
 - Charge your phone.
 
