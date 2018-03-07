@@ -5,7 +5,7 @@ layout: page
 Teaching the past and present to explore civic engagement
 =========================================================
 
-Without endorsing a particular point of view or policy, teachers can focus on this moment of student activism as a case study in social change and civic participation writ large. The role of young people in pivotal moments like the US civil rights movement offers another entry point for thinking about the power and potential of youth voice. 
+Without endorsing a particular point of view or policy, teachers can focus on this moment of student activism as a case study in social change and civic participation writ large. The role of young people in pivotal moments like the U.S. Civil Rights Movement offers another entry point for thinking about the power and potential of youth voice. 
 
 ### Ask questions like: 
 - How do we determine the most effective way to make a difference in our neighborhoods, our nations, and the world? 
@@ -23,4 +23,4 @@ Without endorsing a particular point of view or policy, teachers can focus on th
 
 [Reflection and Action for Civic Participation](https://www.facinghistory.org/resource-library/reflection-and-action-civic-participation)
 
-[Four lessons about nonviolence as a tool for social change, with a focus on the US Civil Rights Movement](https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement)
+[Four lessons about nonviolence as a tool for social change, with a focus on the U.S. Civil Rights Movement](https://www.facinghistory.org/resource-library/eyes-prize-americas-civil-rights-movement)
