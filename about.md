@@ -19,15 +19,24 @@ The majority of project resources were generously provided by volunteers; we als
 
 Please send questions, comments, and feedback to [youthinfront@mit.edu](mailto:youthinfront@mit.edu). Apologies if we cannot respond to all queries. 
 
-<a href="https://www.tolerance.org/"><img src="http://tolerance.org/themes/custom/ts_ttol/img/tt-logo-large.svg" alt="Teaching Tolerance" width="200"/></a>
-<a href="https://www.teachingchannel.org/"><img src="https://www.teachingchannel.org/assets/logos/tch-logo-tagline-084984cdaa605197491a95ef72858f65.svg" alt="Teaching Channel" width="200"/></a>
+<div class="sponsor-roll">
 
-<a href="https://generationcitizen.org/" ><img src="https://generationcitizen.org/wp-content/uploads/2016/03/Untitled-1.png" alt="Generation Citizen" width="200"/></a>
+	<a href="https://tsl.mit.edu/"><img src="/images/mit-teaching-systems-lab-logo.png" alt="Teaching Systems Lab" width="200"/></a>
 
-<a href="https://www.facebook.com/events/1607397545975790/"><img src="/images/march-for-out-lives-boston.jpg" alt="March for Our Lives, Boston" width="200"/></a>
+	<a href="https://www.gse.harvard.edu/uk"><img src="/images/UK_HGSE_stacked_web.png" alt="Usable Knowledge" width="200"/></a>
 
-<a href="http://www.northeastern.edu/impactlab/"><img src="http://www.northeastern.edu/impactlab/wp-content/uploads/2016/02/social_impact_lab.png" alt="Northeastern Social Impact Lab" width="200"/></a>
+	<a href="https://www.tolerance.org/"><img src="http://tolerance.org/themes/custom/ts_ttol/img/tt-logo-large.svg" alt="Teaching Tolerance" width="200"/></a>
+	
+	<a href="https://www.teachingchannel.org/"><img src="https://www.teachingchannel.org/assets/logos/tch-logo-tagline-084984cdaa605197491a95ef72858f65.svg" alt="Teaching Channel" width="200"/></a>
 
-<a href="https://www.facinghistory.org/"><img src="https://www.facinghistory.org/profiles/facing_history_distro/themes/custom/facingfuture/img/logo.png" alt="Facing History and Ourselves" width="200"/></a>
+	<a href="https://generationcitizen.org/" ><img class="invert" src="https://generationcitizen.org/wp-content/uploads/2016/03/Untitled-1.png" alt="Generation Citizen" width="200"/></a>
 
-<a href="http://freshcognate.com/"><img src="/images/fresh-cognate.png" alt="Fresh Cognate" width="200"/></a>
+	<a href="https://www.facebook.com/events/1607397545975790/"><img src="/images/march-for-out-lives-boston.jpg" alt="March for Our Lives, Boston" width="200"/></a>
+
+	<a href="http://www.northeastern.edu/impactlab/"><img src="http://www.northeastern.edu/impactlab/wp-content/uploads/2016/02/social_impact_lab.png" alt="Northeastern Social Impact Lab" width="200"/></a>
+
+	<a href="https://www.facinghistory.org/"><img class="invert" src="https://www.facinghistory.org/profiles/facing_history_distro/themes/custom/facingfuture/img/logo.png" alt="Facing History and Ourselves" width="200"/></a>
+
+	<a href="http://freshcognate.com/"><img src="/images/fresh-cognate.png" alt="Fresh Cognate" width="200"/></a>
+
+</div>

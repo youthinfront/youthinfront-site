@@ -560,3 +560,20 @@ footer {
     font-weight: normal;
 }
 /* End Article Page */
+
+.sponsor-roll {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.sponsor-roll img {
+    margin: 20px;
+}
+
+.sponsor-roll img.invert {
+    filter: invert(100%);
+}
+
