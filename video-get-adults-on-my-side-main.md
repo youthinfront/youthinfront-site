@@ -2,8 +2,7 @@
 layout: page
 ---
 
-Who has inspired you?
+How do I get adults on my side?
 ================
-### A testimony with Marshall
 
-[video](https://youtu.be/L8hu-ociNy0)
+[video](https://youtu.be/96raDY1vyuM)
