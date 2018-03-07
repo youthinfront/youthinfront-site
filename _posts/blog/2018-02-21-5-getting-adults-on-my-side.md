@@ -25,7 +25,7 @@ cards:
         href: /how-to-talk-to-a-decision-maker.html    
     - content:
         title: Guidelines on Meeting with Decision Makers
-        subtitle: Tips on what to do before, during, and after your meeting
+        subtitle: Before, during, and after your meeting
         href: /students-how-to-meet-decision-maker.html          
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
