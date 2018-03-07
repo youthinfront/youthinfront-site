@@ -18,9 +18,11 @@ cards:
     - content:
         title: Want to Livestream a Protest?
         subtitle: WITNESS's guide to livestreaming
-        href: /safely-livestream-protests.html        
+        href: /safely-livestream-protests.html       
+        
 category: blog
 bg_img: /images/how-do-i-stay-safe-bg6.jpg
+background-position: center
 students: true
 teachers: false
 ---
