@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Nine Ways to Help Students Discuss Guns and Violence
+previous: 
+next: 
 ---
 
 Nine Ways to Help Students Discuss Guns and Violence
