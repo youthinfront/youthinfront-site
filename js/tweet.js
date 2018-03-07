@@ -42,6 +42,7 @@
         //element.innerHTML = '<iframe width="560 height="290" ' + 'src="' + url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
         element.innerHTML = '<iframe width="560" height="315" src="' + url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
     }
+    }
 
     function extractYoutubeVideoId(link) {
         var id = null;
