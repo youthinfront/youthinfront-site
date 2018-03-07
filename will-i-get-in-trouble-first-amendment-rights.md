@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Will I get in trouble?
+title: Student First Amendment Rights
 previous: /aclu-training-on-walkouts.html
 next: /student-first-amendment-rights.html
 ---
