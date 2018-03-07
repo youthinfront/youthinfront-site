@@ -15,10 +15,6 @@ cards:
         title: ACLU guide on teachers' free speech rights
         subtitle: Some tips from the ACLU
         href: /free-speech-rights-public-school-teachers.html         
-    - content:
-        title: Advice for Principals on Walkouts
-        subtitle: From the National Association of Secondary School Principals
-        href: /nassp-advice-for-principals-for-walkouts.html        
         
 category: blog
 bg_img: /images/can-teachers-be-allies-bg.jpg
