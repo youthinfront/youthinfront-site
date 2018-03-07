@@ -202,7 +202,7 @@ img.page-logo {
 }
 
 .video-timeline-description {
-    align-items: center;
+    align-items: flex-start;
     background-color: white;
     border-radius: 3px;
     /* TODO: make me the brand color */
@@ -211,7 +211,7 @@ img.page-logo {
     flex-direction: row;
     height: 75px;
     margin: 0 20px;
-    padding: 8px 10px;
+    padding: 10px;
     position: relative;
     width: 275px;
     z-index: 1;
@@ -235,7 +235,7 @@ img.page-logo {
 
 .video-timeline-description > i {
     font-size: 24px;
-    margin: 0 15px;
+    margin: 20px 15px 0 10px;
 }
 
 .side-bleed {
@@ -452,14 +452,23 @@ footer {
     }
 
     .card-top {
-        height: 140px;
+        height: 120px;
     }
 
     .gradient-bleed {
         height: 260px;
     }
-    
+
     .side-bleed {
         height: 260px;
     }
+
+    .section-video-preview {
+        height: 105px;
+    }
+
+    .video-timeline-description {
+        height: 100px;
+    }
+
 }
