@@ -26,7 +26,7 @@ class Page:
         self.filename = filename
         self.path = path
 
-    def process(self):
+    def process(self, write=True):
         self.load()
         self.process_lines()
         self.add_title_front_matter()
@@ -42,6 +42,7 @@ class Page:
     def process_lines(self):
         self.front_matter = {}
         self.front_matter_keys_in_order = []
+        self.front_matter_lines = []
 
         first_content_line = 0
         has_hit_opener = False
@@ -58,11 +59,13 @@ class Page:
                 else:
                     has_hit_closer = True
                     continue
-            if has_hit_opener:
+            if has_hit_opener and (line.strip() != ''):
+                print line
                 key,value = line.split(':', 1)
                 value = value.strip()
                 self.front_matter[key] = value
                 self.front_matter_keys_in_order.append(key)
+                self.front_matter_lines.append(line)
 
         self.content_lines = []
         for i in xrange(first_content_line, len(self.raw_lines)):
@@ -106,13 +109,20 @@ class Page:
             handle.write(line)
         handle.close()
 
-class Post:
-    def __init__(self, filename, path=os.getcwd()):
+class Post(Page):
+    def __init__(self, filename, path=os.path.join(os.path.join(os.getcwd(), '_posts'), 'blog')):
         self.filename = filename
         self.path = path
 
-    def parse(self):
+    def process(self):
+        self.load()
+        self.process_lines()
+        print self.front_matter_lines
+        #self.rewrite()
+
+    def get_linked_content(self):
         pass
+        
 
 class Scraper:
     def __init__(self, path=os.getcwd()):
@@ -123,6 +133,19 @@ class Scraper:
         for page in pages:
             print page
             Page(page).process()
+
+    def process_posts(self):
+        posts = self.get_post_files()
+        for post in posts:
+            print post
+            pages = self.get_pages_in_post_cards(post)
+            print pages
+            for i in xrange(0, len(pages)):
+                page_file = pages[i]
+                page = Page(page_file).process(False)
+                page.set_front_matter('previous', pages[i-1])
+                page.set_front_matter('next', pages[(i+1) % len(pages)])
+                page.rewrite()
 
     def print_orphaned_pages(self):
         print self.get_orphaned_pages()
@@ -200,6 +223,7 @@ if __name__ == '__main__':
     #Scraper().run()
     #Page('pdf-template.md').load()
     #'teachers-after-march-student-feedback.md'
-    Scraper().process_pages()
+    #Scraper().process_pages()
+    Scraper().process_posts()
 
 
