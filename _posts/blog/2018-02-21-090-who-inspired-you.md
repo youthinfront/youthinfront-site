@@ -27,6 +27,12 @@ cards:
         href: /video-who-inspired-marshall.html
         is_video: true
         video_code: L8hu-ociNy0
+    - content: 
+        title: Inspiration from other youth activists
+        subtitle: A video testimony
+        href: /video-inspiration-other-youth.html
+        is_video: true
+        video_code: SIl5KCRdQbg
     - content:
         title: Greensboro Lunch Counter Sit-Ins
         subtitle: Read about the 1960s sit-ins here.
