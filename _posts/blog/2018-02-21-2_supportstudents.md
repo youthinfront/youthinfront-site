@@ -12,7 +12,7 @@ cards:
         subtitle: Freer, but courts have defined limits
         href: /nsba-teacher-speech-outside-school.html    
     - content:
-        title: ACLU guide on teacher's free speech rights
+        title: ACLU guide on teachers' free speech rights
         subtitle: Some tips from the ACLU
         href: /free-speech-rights-public-school-teachers.html         
         
