@@ -194,7 +194,7 @@ img.page-logo {
 }
 
 .video-timeline-description {
-    align-items: flex-start;
+    align-items: center;
     background-color: white;
     border-radius: 3px;
     /* TODO: make me the brand color */
@@ -223,6 +223,7 @@ img.page-logo {
     font-size: 12px;
     font-weight: 300;
     margin-top: .5rem;
+    margin-bottom: 0;
 }
 
 .video-timeline-description > i {
