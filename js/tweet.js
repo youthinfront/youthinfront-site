@@ -36,7 +36,7 @@
         var url = "https://api.twitter.com/1/statuses/oembed.json?url="+link;
 
         var url = "https://www.youtube.com/embed/" + id + "?rel=0";
-        element.innerHTML = '<iframe width="560" height="315" src="' + url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
+        element.innerHTML = '<iframe width="100%" src="' + url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
     }
 
     function extractYoutubeVideoId(link) {
