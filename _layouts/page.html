@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="banner background-gradient-1"><h1 class="banner-title container">{{ page.title }}</h1></div>
 <div class="container page-container">
     <div class="col-sm article-container">
@@ -15,6 +14,17 @@ layout: default
         {% endunless %}
 
         {{ content }}
+
+        {% unless page.previous == null %}
+        <div class="previous-container">
+            <a href="{{ page.previous }}" class="previous">Previous</a>
+        </div>
+        {% endunless %}
+        {% unless page.next == null %}
+        <div class="previous-container">
+            <a href="{{ page.next }}" class="next">Next</a>
+        </div>
+        {% endunless %}
     </div>
 </div>
 

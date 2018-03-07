@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Why Youth Voice Should Be Taken Seriously
+previous: /how-schools-prevent-walkouts.html
+next: /how-to-talk-to-a-decision-maker.html
 ---
 
 Why Youth Voice Should Be Taken Seriously

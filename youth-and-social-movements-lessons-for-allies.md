@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Youth and Social Movements: Key Lessons for Allies
+previous: /teachers-10-questions-for-students.html
+next: /teachers-framework-for-civic-participation.html
 ---
 
 Youth and Social Movements: Key Lessons for Allies

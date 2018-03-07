@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Seven Historical Examples of Student Activism
+previous: /emma-gonzales-twitter.html
+next: /video-will-i-be-alone-main.html
 ---
 
 Seven Historical Examples of Student Activism

@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: video
+title: Why protest?
+previous: /why-protest-resources.html
+next: /baltimore-march-from-talia-richman.html
 ---
 
 Why protest?

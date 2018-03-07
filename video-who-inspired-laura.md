@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Who has inspired you?
+previous: /video-who-inspired-kelvin.html
+next: /video-who-inspired-ed.html
 ---
 
 Who has inspired you?

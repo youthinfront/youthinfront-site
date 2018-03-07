@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 5 Recent Student Protests That Made a Big Difference
+previous: /baltimore-march-from-talia-richman.html
+next: /nonviolence-and-protest.html
 ---
 
 5 Recent Student Protests That Made a Big Difference

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: How to organize
+previous: /womens-march-enough-walkout-toolkit.html
+next: /difference-between-march-walkout.html
 ---
 
 How to organize

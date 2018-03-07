@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Create a Code of Conduct for your Action
+previous: /safely-livestream-protests.html
+next: /self-magazine-protest-rights-safety.html
 ---
 
 Create a Code of Conduct for your Action

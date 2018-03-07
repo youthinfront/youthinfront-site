@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Why Protest?: Chicago Public Schools Boycott, 1963
+previous: /why-protest-greensboro.html
+next: /why-protest-columbia.html
 ---
 
 Why Protest?: Chicago Public Schools Boycott, 1963

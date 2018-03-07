@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Teaching the past and present to explore civic engagement
+previous: /guidelines-for-school-leaders.html
+next: /teachers-responding-and-supporting.html
 ---
 
 Teaching the past and present to explore civic engagement

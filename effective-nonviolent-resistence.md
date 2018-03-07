@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Secrets to Effective Nonviolent Resistance
+previous: /nonviolence-and-protest.html
+next: /why-protest-resources.html
 ---
 
 Secrets to Effective Nonviolent Resistance

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ways to Support Students Without Walking Out
+previous: /how-can-teachers-support-student-protesters.html
+next: /guidelines-for-school-leaders.html
 ---
 
 Ways to Support Students Without Walking Out

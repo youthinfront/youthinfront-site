@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Short Activities to Empower Students
+previous: /teachers-how-to-let-students-lead-the-conversation.html
+next: /how-can-teachers-support-student-protesters.html
 ---
 
 Short Activities to Empower Students
