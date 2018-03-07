@@ -40,10 +40,6 @@ cards:
         subtitle: A Usable Knowledge guide from HGSE
         href: /teachers-responding-and-supporting.html        
     - content:
-        title: Additional Ways of Supporting and Responding to Student Protest
-        subtitle: More from Usable Knowledge
-        href: /teachers-other-ways-to-respond-and-support.html        
-    - content:
         title: 10 Questions for Students
         subtitle: Ways of guiding effective conversation about activism
         href: /teachers-10-questions-for-students.html               
