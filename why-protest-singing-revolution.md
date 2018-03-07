@@ -5,7 +5,7 @@ previous: /why-protest-roske-martinez.html
 next: /why-protest-inspirational-quotes.html
 ---
 
-Why Protest?: Singing Revolution
+Singing Revolution
 =================
 
 >"The young people, without any political party, and without any politicians, just came together. Not tens of thousands, but hundreds of thousands… to gather and to sing and to give this nation a new spirit.” 
