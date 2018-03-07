@@ -35,7 +35,7 @@
 
         var url = "https://api.twitter.com/1/statuses/oembed.json?url="+link;
         var width = window.innerWidth
-        var height = width*9/16
+        var height = width*5625
 
         var url = "https://www.youtube.com/embed/" + id + "?rel=0";
         element.innerHTML = '<iframe width="' + width + '" height="' + height + '"' + 'src="' + url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
