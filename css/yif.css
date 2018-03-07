@@ -34,13 +34,12 @@ img.page-logo {
 }
 
 .header-tagline {
-    margin-left: 20px;
-    max-width: 300px;
-    font-weight: 500;
+    margin-left: 30px;
+    font-weight: 400;
 }
 
 .subheader-tagline {
-    font-weight: 500;
+    font-weight: 400;
     padding: 1rem 1rem 0 1rem;
 }
 
@@ -69,7 +68,7 @@ img.page-logo {
 }
 
 .top-level-tabs > div.active-audience::after {
-    background-color: #333333;
+    background-color: #12C72D;
     bottom: 0px;
     content: "";
     height: 4px;
@@ -79,7 +78,7 @@ img.page-logo {
 }
 
 .top-level-tabs > div > a {
-    color: #333333;
+    color: #12C72D;
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
     font-weight: 300;
