@@ -11,4 +11,4 @@ Short Activities to Empower Students
 - Have students engage in these [Do Something student tasks](https://www.tolerance.org/classroom-resources/student-tasks/do-something)
 - Analyze students' [multifaceted activism from Twitter and the #NeverAgain movement](https://www.newyorker.com/news/news-desk/how-the-survivors-of-parkland-began-the-never-again-movement)
 <br>
-- [Additional Resource from tolerance.org](https://www.tolerance.org/magazine/walkouts-marches-and-the-desire-to-do-something-what-you-need-to-know-about-stoneman)
+- [Additional Resource from Teaching Tolerance: Walkouts, Marches, and the Desire to Do Something](https://www.tolerance.org/magazine/walkouts-marches-and-the-desire-to-do-something-what-you-need-to-know-about-stoneman)
