@@ -21,6 +21,12 @@ cards:
         href: /video-how-do-i-start-arin.html
         is_video: true
         video_code: vHdEr_kWHbc
+    - content: 
+        title: What do you wish you knew before becoming an activist?
+        subtitle: A video testimony with Arin
+        href: /video-wish-you-knew-arin.html
+        is_video: true
+        video_code: NO15JPClp_0
     - content:
         title: 10 Point Walkout Guide
         subtitle: High schoolers break it down for you

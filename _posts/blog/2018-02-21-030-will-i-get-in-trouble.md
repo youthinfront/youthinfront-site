@@ -8,6 +8,12 @@ cards:
         subtitle: A video testimony
         href: /video-will-i-get-in-trouble-main.html
         is_video: true
+        video_code: LIAoc-Jigts
+    - content: 
+        title: Will I get in trouble?
+        subtitle: A video testimony with Julian
+        href: /video-will-i-get-in-trouble-julian.html
+        is_video: true
         video_code: f66DNrIlUSc
     - content:
         title: ACLU One-Pager on Student Walkouts
