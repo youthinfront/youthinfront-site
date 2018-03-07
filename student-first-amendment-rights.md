@@ -5,7 +5,7 @@ layout: default
 Students Have First Amendment Rights
 =================
 
-Although you don't necessarily have the right to disrupt school with a protest or a walkout, students do have some First Amendment (free speech) rights.  According to the ACLU, these include:
+Although you don't necessarily have the right to disrupt school with a protest or a walkout, students do have some first amendment (free speech) rights.  According to the ACLU, these include:
 * Wearing buttons, badges and other insignia (including armbands or message T-shirts)
 * Posting notices on school bulletin boards
 * Distributing petitions
