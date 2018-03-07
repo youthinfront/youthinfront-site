@@ -563,6 +563,10 @@ footer {
     max-height:400px;
 }
 
+.article-container a {
+    color: #00ACDA;
+}
+
 .previous-next {
     display: flex;
     flex-direction: row;
