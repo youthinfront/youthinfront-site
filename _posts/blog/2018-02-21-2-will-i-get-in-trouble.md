@@ -5,18 +5,18 @@ subtitle: Know the law, know your rights.
 cards:
     - content:
         title: ACLU One-Pager on Student Walkouts
-        subtitle: Your First Amendment Guide to Student Walkouts 
+        subtitle: A 1st Amendment guide to walkouts 
         href: /aclu-onepager-on-walkouts.html
     - content:
         title: ACLU Know Your Rights Training
         subtitle: A 35-minute recorded webinar on student free speech rights and limits
         href: /aclu-training-on-walkouts.html
     - content:
-        title: Student first amendment rights
+        title: Student First Amendment Rights
         subtitle: An introduction to your rights to free speech as a student
         href: /will-i-get-in-trouble-first-amendment-rights.html
     - content:
-        title: Examples of first amendment practices
+        title: Examples of First Amendment Practices
         subtitle: ACLU suggested protected actions
         href: /student-first-amendment-rights.html    
     - content:
@@ -24,7 +24,7 @@ cards:
         subtitle: A legal guide by the NSBA
         href: /will-i-get-in-trouble-NSBA.html
     - content:
-        title: Washington Post
+        title: Suspensions and Student Speech
         subtitle: Read the Washington Post piece on the legality of threatening suspensions here.
         href: /will-i-get-in-trouble-wash-post.html
 category: blog
