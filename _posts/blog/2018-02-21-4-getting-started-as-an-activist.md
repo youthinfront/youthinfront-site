@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How do I start as an activist?
-subtitle: Advice from youth activists
+title: How do I start as an activist?- Depreciated
+subtitle: Can a dev senisiby archive this topic or delete it safey
 cards:
 
       
