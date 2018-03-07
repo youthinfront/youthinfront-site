@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Students Have First Amendment Rights
 previous: /will-i-get-in-trouble-first-amendment-rights.html
 next: /will-i-get-in-trouble-NSBA.html
