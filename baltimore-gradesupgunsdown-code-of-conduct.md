@@ -10,7 +10,6 @@ Create a Code of Conduct for your Action
 
 On March 6, students at schools across Baltimore marched to city hall. This was their code of conduct:
 
-**Code of Conduct**
 * Only walk on the sidewalks
 * If police tell you to do something, do not resist; be respectful
 * Organizers are not responsible for anything you do
