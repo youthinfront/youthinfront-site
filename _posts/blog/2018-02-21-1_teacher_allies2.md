@@ -8,15 +8,15 @@ cards:
         subtitle: Key lessons for allies
         href: /youth-and-social-movements-lessons-for-allies.html
     - content:
-        title: Civic participation in the classroom
+        title: Civic Participation in the Classroom
         subtitle: Framework for conversations about protest
         href: /teachers-framework-for-civic-participation.html   
     - content:
-        title: How to let students lead the discussion
+        title: How to Let Students Lead the Discussion
         subtitle: Four tips for classroom discussion
         href: /teachers-how-to-let-students-lead-the-conversation.html
     - content:
-        title: Short activities to empower students
+        title: Short Activities to Empower Students
         subtitle: Engage with current events
         href: /teachers-short-activities-to-empower-our-students.html
     - content:
@@ -28,23 +28,23 @@ cards:
         subtitle: Engaging inside the classroom
         href: /ways-to-support-students-without-walking-out.html
     - content:
-        title: Guidelines for supporting students
+        title: Guidelines for Supporting Students
         subtitle: 5 steps from AASA
         href: /guidelines-for-school-leaders.html 
     - content:
-        title: Teaching the past and present
+        title: Teaching the Past and Present
         subtitle: Another way to explore civic engagement
         href: /teach-the-past-and-present.html             
     - content:
-        title: Responding to and supporting students
-        subtitle: A guide from the Harvard Graduate School of Education
+        title: Responding to and Supporting students
+        subtitle: A Usable Knowledge guide from HGSE
         href: /teachers-responding-and-supporting.html        
     - content:
-        title: Additional ways of supporting and responding to student protest
-        subtitle: A guide from the Harvard Graduate School of Education
+        title: Additional Ways of Supporting and Responding to Student Protest
+        subtitle: More from Usable Knowledge
         href: /teachers-other-ways-to-respond-and-support.html        
     - content:
-        title: 10 Questions for students
+        title: 10 Questions for Students
         subtitle: Ways of guiding effective conversation about activism
         href: /teachers-10-questions-for-students.html               
 category: blog
