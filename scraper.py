@@ -121,7 +121,7 @@ class Scraper:
         pages = self.get_pages()
         for page in pages:
             print page
-            #Page(page).process()
+            Page(page).process()
 
     def print_orphaned_pages(self):
         print self.get_orphaned_pages()
