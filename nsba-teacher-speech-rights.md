@@ -1,6 +1,5 @@
 ---
 layout: page
-pdf: https://cdn-files.nsba.org/s3fs-public/reports/First_Amendment_Guide-2018.pdf
 ---
 
 National School Boards Association on Teacher Speech Rights:
@@ -11,4 +10,4 @@ National School Boards Association on Teacher Speech Rights:
 * Is the employee speaking about a matter of public concern or a matter of personal interest? (Note: Not all employee speech about his/her employment is unprotected “employee speech.”) If she is speaking on a matter of personal interest, there is more authority to regulate the speech.
 * Does the employee’s speech interfere with the district’s orderly operations? (i.e., Does the speech impair workplace discipline? Affect harmony among co workers? Result in loss of confidence/loyalty?) If so, there is more authority to regulate the speech." (p. 12.)
 
-[National School Board Association's Coercion, Conscience, and the First Amendment](https://www.nsba.org/coercion-conscience-and-first-amendment)
+[See the National School Board Association's 2018 First Amendment Guide for more info.](https://www.nsba.org/coercion-conscience-and-first-amendment)
