@@ -21,21 +21,25 @@ show_teacher_student_toggle: true
               {% if forloop.index != 1 %}
                 <div class="video-timeline-connector"></div>
               {% endif %}
-              <a class="no-underline" href="{{card.content.href}}">
+              <a class="no-underline" {% if card.content.is_video %}data-popup-open="{{card.content.video_code}}" href="#"{% else %} href="{{card.content.href}}"{% endif %}>
                 <div class="video-timeline-description video-timeline-shadowed">
-                  {% if card.content.is_video %}<a class="btn" data-popup-open={{card.content.video_code}} href="#"><i class="fas fa-play"></i></a>
-                  <div class="popup" data-popup={{card.content.video_code}}>
-                  <div class="popup-inner">
-                  <iframe id="{{card.content.video_code}}" width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-                  <a class="popup-close" data-popup-close={{card.content.video_code}} href="#">x</a>
-                  </div>
-                  </div>{% endif %}
+                  {% if card.content.is_video %}
+                    <i class="fas fa-play"></i>
+                  {% endif %}
                   <div class="video-timeline-description-inner">
                     <h1>{{card.content.title}}</h1>
                     {% if card.content.subtitle %}<p>{{card.content.subtitle}}</p>{% endif %}
                   </div>
                 </div>
               </a>
+              {% if card.content.is_video %}
+                <div class="popup" data-popup="{{card.content.video_code}}">
+                  <div class="popup-inner">
+                    <iframe id="{{card.content.video_code}}" width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+                    <a class="popup-close" data-popup-close="{{card.content.video_code}}" href="#"><i class="fas fa-times"></i></a>
+                  </div>
+                </div>
+              {% endif %}
             {% endfor %}
           </div>
           <div class="video-preview"></div>
