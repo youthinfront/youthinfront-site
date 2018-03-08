@@ -21,7 +21,7 @@ show_teacher_student_toggle: true
               {% if forloop.index != 1 %}
                 <div class="video-timeline-connector"></div>
               {% endif %}
-              <a class="no-underline" {% if card.content.is_video %}data-popup-open="{{card.content.video_code}}" href="#"{% else %} href="{{card.content.href}}"{% endif %}>
+              <a class="no-underline" {% if card.content.is_video %}data-popup-open="{{card.content.video_code}}" data-popup-name="{{post.title}} - {{card.content.title}} ({{forloop.index}})" href="#"{% else %} href="{{card.content.href}}"{% endif %}>
                 <div class="video-timeline-description video-timeline-shadowed">
                   {% if card.content.is_video %}
                     <i class="fas fa-play"></i>
