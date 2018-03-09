@@ -4,7 +4,7 @@ title: Will I be alone?
 subtitle: No, youth will do this together.
 cards:
     - content: 
-        title: Will I be alone?
+        title: Will I Be Alone?
         subtitle: Amber
         href: /video-will-i-be-alone-main.html
         is_video: true
