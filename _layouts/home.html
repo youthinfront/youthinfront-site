@@ -35,7 +35,7 @@ show_teacher_student_toggle: true
               {% if card.content.is_video %}
                 <div class="popup" data-popup="{{card.content.video_code}}">
                   <div class="popup-inner">
-                    <iframe id="{{card.content.video_code}}" width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+                    <iframe id="{{card.content.video_code}}" class="embedded-video" width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
                     <a class="popup-close" data-popup-close="{{card.content.video_code}}" href="#"><i class="fas fa-times"></i></a>
                   </div>
                 </div>
