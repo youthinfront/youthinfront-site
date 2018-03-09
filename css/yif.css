@@ -7,6 +7,17 @@ img.page-logo {
     margin: 10px 0;
 }
 
+.card-bottom:after {
+    content: '';
+    width: calc(100% - 15px);
+    position: absolute;
+    z-index: 10;
+    transition: 250ms;
+    background:radial-gradient(farthest-side at 50% 0, rgba(0,0,0,.2), rgba(0,0,0,0));
+    right: 0;
+    height: 20;
+}
+
 .yif-navbar {
     background: white;
     padding: 0 1rem;
@@ -172,6 +183,10 @@ img.page-logo {
     text-align: left;
 }
 
+.fa-youtube {
+    font-family: Font Awesome\ 5 Brands !important;
+}
+
 .section-video-preview {
     align-items: center;
     display: flex;
@@ -222,14 +237,14 @@ img.page-logo {
 .video-timeline-description-inner>p {
     font-size: 12px;
     font-weight: 300;
-    margin-top: .5rem;
+    margin-top: .25rem;
     margin-bottom: 0;
 }
 
 .video-timeline-description > i {
     align-self: center;
-    font-size: 24px;
-    margin: 0 15px 0 10px;
+    font-size: 30px;
+    margin: 0 30px 0 10px;
 }
 
 .side-bleed {

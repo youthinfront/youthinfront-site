@@ -24,7 +24,7 @@ show_teacher_student_toggle: true
               <a class="no-underline" {% if card.content.is_video %}data-popup-open="{{card.content.video_code}}" data-popup-name="{{post.title}} - {{card.content.title}} ({{forloop.index}})" href="#"{% else %} href="{{card.content.href}}"{% endif %}>
                 <div class="video-timeline-description video-timeline-shadowed">
                   {% if card.content.is_video %}
-                    <i class="fas fa-play"></i>
+                    <i class="fas fa-youtube"></i>
                   {% endif %}
                   <div class="video-timeline-description-inner">
                     <h1>{{card.content.title}}</h1>
