@@ -5,31 +5,31 @@ subtitle: Activists who have inspired movements
 cards:
     - content: 
         title: Who has inspired you?
-        subtitle: A video testimony with Kelvin
+        subtitle: Kelvin
         href: /video-who-inspired-kelvin.html
         is_video: true
         video_code: 3H9-UdUW3Is
     - content: 
         title: Who has inspired you?
-        subtitle: A video testimony with Laura
+        subtitle: Laura
         href: /video-who-inspired-laura.html
         is_video: true
         video_code: mYwn-WYATmI
     - content: 
         title: Who has inspired you?
-        subtitle: A video testimony with Ed
+        subtitle: Ed
         href: /video-who-inspired-ed.html
         is_video: true
         video_code: QJMOKMmRBi8
     - content: 
         title: Who has inspired you?
-        subtitle: A video testimony with Marshall
+        subtitle: Marshall
         href: /video-who-inspired-marshall.html
         is_video: true
         video_code: L8hu-ociNy0
     - content: 
         title: Inspiration from other youth activists
-        subtitle: A video testimony
+        subtitle: Griffin
         href: /video-inspiration-other-youth.html
         is_video: true
         video_code: SIl5KCRdQbg
