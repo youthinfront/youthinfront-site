@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Youth and Social Movements: Key Lessons for Allies
-previous: /teachers-10-questions-for-students.html
+title: Youth and Social Movements Key Lessons for Allies
+previous: /Nine-Ways-to-Help-Students-Discuss-Guns-and-Violence.html
 next: /teachers-framework-for-civic-participation.html
 ---
 

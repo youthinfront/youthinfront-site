@@ -42,7 +42,11 @@ cards:
     - content:
         title: 10 Questions for Students
         subtitle: Ways of guiding effective conversation about activism
-        href: /teachers-10-questions-for-students.html               
+        href: /teachers-10-questions-for-students.html   
+    - content:
+        title: Nine Ways to Help Students Discuss Guns and Violence
+        subtitle: Make space, expect the unexpected, listen, connect to curriculum        
+        href: /Nine-Ways-to-Help-Students-Discuss-Guns-and-Violence.html
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: false

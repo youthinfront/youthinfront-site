@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How do I get adults on my side?
-previous: /students-how-to-meet-decision-maker.html
+previous: /how-teachers-can-help-you.html
 next: /nassp-advice-for-principals-for-walkouts.html
 ---
 

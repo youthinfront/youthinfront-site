@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Why Protest? President Barack Obama Explains
+title: President Barack Obama
 previous: /why-protest-columbia.html
 next: /why-protest-ernesto-villareal.html
 ---
 
-Why Protest? President Barack Obama Explains
+President Barack Obama
 =================
 
 Before he became a professor, senator, or president, Barack Obama was a community organizer. The insights and strategies he gained as an organizer stuck with him, and he continues to try to share them with others. In a speech to graduates at Howard University, he explained:

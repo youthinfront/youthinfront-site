@@ -12,7 +12,7 @@ cards:
     - content:
         title: Advice for Principals on Walkouts
         subtitle: From the National Association of Secondary School Principals
-        href: /nassp-advice-for-principals-for-walkouts.html
+        href: /nassp-advice-for-principals-for-walkouts.html        
     - content:
         title: 3 Ways to Persuade Someone in Power
         subtitle: A guide for communicating with decision-makers
@@ -32,7 +32,11 @@ cards:
     - content:
         title: Guidelines on Meeting with Decision Makers
         subtitle: Before, during, and after your meeting
-        href: /students-how-to-meet-decision-maker.html          
+        href: /students-how-to-meet-decision-maker.html
+    - content:
+        title: How teachers can help you
+        subtitle: Make these suggestions to your teachers
+        href: /how-teachers-can-help-you.html
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: true

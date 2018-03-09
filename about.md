@@ -32,7 +32,7 @@ Please send questions, comments, and feedback to [youthinfront@mit.edu](mailto:y
 
 	<a href="http://www.northeastern.edu/impactlab/"><img src="http://www.northeastern.edu/impactlab/wp-content/uploads/2016/02/social_impact_lab.png" alt="Northeastern Social Impact Lab" height="30"/></a>
 
-	<a href="https://www.facinghistory.org/"><img class="invert" src="https://www.facinghistory.org/profiles/facing_history_distro/themes/custom/facingfuture/img/logo.png" alt="Facing History and Ourselves" height="50"/></a>
+	<a href="https://www.facinghistory.org/"><img src="/images/FHAO_RGB_3-_Tag.jpg" alt="Facing History and Ourselves" height="50"/></a>
 
 	<a href="https://www.justiceinschools.org/"><img src="/images/justice-in-schools-logo.jpg" alt="Justice in Schools" height="75"/></a>
 

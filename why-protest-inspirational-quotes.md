@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Why Protest?: Inspirational Quotes
-previous: /why-protest-singing-revolution.html
+title: Inspirational Quotes
+previous: /why-protest-charles.html
 next: /video-who-inspired-kelvin.html
 ---
 
-Why Protest?: Inspirational Quotes
+Inspirational Quotes
 =================
 
 >“History, despite its wrenching pain, cannot be unlived, but if faced with courage, need not be lived again.” 

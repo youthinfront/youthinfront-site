@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Will I get in trouble?
+title: Student First Amendment Rights
 previous: /aclu-training-on-walkouts.html
 next: /student-first-amendment-rights.html
 ---
 
-Will I get in trouble?
+Student First Amendment Rights
 ======================
-## Student first amendment rights
 
 ### Do I have the right to free speech in school?
 Yes! The Supreme Court case [*Tinker v. Des Moines Independent Community School District* (1969)](https://www.oyez.org/cases/1968/21) confirmed the rights to free speech for students in schools. However, schools can regulate speech that infringes on others’ rights or disrupts school operations.

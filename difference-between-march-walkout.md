@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's the difference: Walkout, March, Protest?
+title: What's the difference Walkout, March, Protest?
 previous: /how-to-organize-hpa-walkout-guide.html
 next: /how-to-join-an-existing-movement.html
 ---
@@ -17,11 +17,11 @@ Walkout
 
 **Should I participate in a walkout?** 
 
-Check your schedule: is your school in session on one of these days? Some schools will have Spring Break in March, or April Vacation on April 20
+Check your schedule: is your school in session on one of these days? Some schools will have Spring Break in March, or April Vacation on April 20.
 
 **Silence**
 
-The walkout is typically done in silence as a show of respect for victims and to emphasize that our absence is not a threat or distraction from school
+The walkout is typically done in silence as a show of respect for victims and to emphasize that our absence is not a threat or distraction from school.
 
 **Speech**
 
