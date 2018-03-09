@@ -4,19 +4,19 @@ title: How do I organize a protest?
 subtitle: Yeah, how do I?
 cards:
     - content: 
-        title: How do I get started?
+        title: How Do I Get Started?
         subtitle: A video testimony
         href: /video-how-do-i-start-main.html
         is_video: true
         video_code: JwiyuAqxr8U
     - content: 
-        title: How do I get started?
+        title: How Do I Get Started?
         subtitle: Charlotte
         href: /video-how-do-i-start-charlotte.html
         is_video: true
         video_code: iYeAMUnJoII
     - content: 
-        title: How do I get started?
+        title: How Do I Get Started?
         subtitle: Arin
         href: /video-how-do-i-start-arin.html
         is_video: true
