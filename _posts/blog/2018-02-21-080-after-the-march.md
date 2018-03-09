@@ -5,7 +5,7 @@ subtitle: What happens next
 cards:
     - content: 
         title: What happens after the march?
-        subtitle: Mariel
+        subtitle: A video testimony
         href: /video-what-happens-after-march-main.html
         is_video: true
         video_code: wBJLG8RAuso
