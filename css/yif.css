@@ -47,16 +47,16 @@ img.page-logo {
 .top-level-tabs {
     display: flex;
     position: relative;
-    margin-top:10px;
+    margin-top: 10px;
 }
 
-.top-level-tabs > div {
+.top-level-tabs>div {
     position: relative;
     text-align: center;
     width: 100px;
 }
 
-.top-level-tabs > div.active-audience::after {
+.top-level-tabs>div.active-audience::after {
     background-color: #006BFF;
     bottom: 0px;
     content: "";
@@ -66,10 +66,10 @@ img.page-logo {
     width: 100%;
 }
 
-.top-level-tabs > div > a {
+.top-level-tabs>div>a {
     color: #006BFF;
-    padding:0 20px 10px;
-    display:inline-block;
+    padding: 0 20px 10px;
+    display: inline-block;
     font-family: "Avenir Next", sans-serif;
     font-size: 20px;
     font-weight: 400;
@@ -92,43 +92,6 @@ img.page-logo {
     color: white;
     text-align: right;
     width: 100%;
-}
-
-.slide-in-1 {
-    animation: slide-in .5s forwards;
-    -webkit-animation: slide-in .5s forwards;
-}
-
-.slide-in-2 {
-    animation: slide-in 0.75s forwards;
-    -webkit-animation: slide-in 0.6s forwards;
-}
-
-.slide-in-3 {
-    animation: slide-in 1s forwards;
-    -webkit-animation: slide-in 1s forwards;
-}
-
-.slide-in-4 {
-    animation: slide-in 1.25s forwards;
-    -webkit-animation: slide-in 1.25s forwards;
-}
-
-.slide-in-5 {
-    animation: slide-in 1.5s forwards;
-    -webkit-animation: slide-in 1.5s forwards;
-}
-
-@keyframes slide-in {
-    100% {
-        transform: translateX(0%);
-    }
-}
-
-@-webkit-keyframes slide-in {
-    100% {
-        -webkit-transform: translateX(0%);
-    }
 }
 
 .card-top {
@@ -226,7 +189,7 @@ img.page-logo {
     margin-bottom: 0;
 }
 
-.video-timeline-description > i {
+.video-timeline-description>i {
     align-self: center;
     font-size: 24px;
     margin: 0 15px 0 10px;
@@ -238,6 +201,26 @@ img.page-logo {
     height: 200px;
     transform: translateY(200%);
     -webkit-transform: translateY(200%);
+}
+
+.slide-up-fade-in {
+    animation: slide-up-fade-in ease 1s;
+    animation-iteration-count: 1;
+    transform-origin: 50% 50%;
+    animation-fill-mode: forwards;
+    opacity: 0;
+    opacity: 1\9;
+}
+
+@keyframes slide-up-fade-in {
+    0% {
+        opacity: 0;
+        transform: translate(0px, 40px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0px, 0px);
+    }
 }
 
 .gradient-bleed {
@@ -331,12 +314,7 @@ img.page-logo {
 }
 
 .background-gradient-1 {
-    background: linear-gradient(
-        to right, 
-        rgba(18,199,45,0.8) 0%, 
-        rgba(18,199,45,1) 65%,
-        rgba(18,199,45,1) 100%
-    );
+    background: linear-gradient( to right, rgba(18, 199, 45, 0.8) 0%, rgba(18, 199, 45, 1) 65%, rgba(18, 199, 45, 1) 100%);
 }
 
 .background-gradient-2 {
@@ -446,15 +424,6 @@ footer {
     font-weight: 500;
 }
 
-.article-container h1 {
-    font-family: "Avenir Next", sans-serif;
-    color: #12C72D;
-    font-size: 22pt;
-    line-height: 27pt;
-    font-weight: 500;
-    display: none;
-}
-
 .article-container h2 {
     font-family: "Avenir Next", sans-serif;
     color: rgba(67, 66, 66, 1) 100%;
@@ -519,6 +488,7 @@ footer {
 .article-container a {
     color: #00ACDA;
 }
+
 .article-container a:hover {
     text-decoration: none;
 }
