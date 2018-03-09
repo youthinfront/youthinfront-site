@@ -4,7 +4,7 @@ title: How does a march become a movement?
 subtitle: What happens next
 cards:
     - content: 
-        title: What happens after the march?
+        title: What Happens After the March?
         subtitle: A video testimony
         href: /video-what-happens-after-march-main.html
         is_video: true
