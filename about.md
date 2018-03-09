@@ -34,7 +34,7 @@ Please send questions, comments, and feedback to [youthinfront@mit.edu](mailto:y
 
 	<a href="https://www.facinghistory.org/"><img src="/images/FHAO_RGB_3-_Tag.jpg" alt="Facing History and Ourselves" height="50"/></a>
 
-	<a href="https://www.justiceinschools.org/"><img src="/images/justice-in-schools-logo.jpg" alt="Justice in Schools" height="75"/></a>
+	<a href="https://www.justiceinschools.org/"><img src="/images/justice-in-schools-logo.jpg" alt="Justice in Schools" height="60"/></a>
 
 	<a href="https://www.gse.harvard.edu/uk"><img src="/images/UK_HGSE_stacked_web.png" alt="Usable Knowledge" height="100"/></a>
 
