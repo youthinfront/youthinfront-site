@@ -5,7 +5,7 @@ subtitle: Know the law, know your rights.
 cards:
     - content: 
         title: Will I get in trouble?
-        subtitle: Julian
+        subtitle: Noah & Charlotte
         href: /video-will-i-get-in-trouble-main.html
         is_video: true
         video_code: LIAoc-Jigts
