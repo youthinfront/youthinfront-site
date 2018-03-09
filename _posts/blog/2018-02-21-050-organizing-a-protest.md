@@ -11,19 +11,19 @@ cards:
         video_code: JwiyuAqxr8U
     - content: 
         title: How do I get started?
-        subtitle: A video testimony with Charlotte
+        subtitle: Charlotte
         href: /video-how-do-i-start-charlotte.html
         is_video: true
         video_code: iYeAMUnJoII
     - content: 
         title: How do I get started?
-        subtitle: A video testimony with Arin
+        subtitle: Arin
         href: /video-how-do-i-start-arin.html
         is_video: true
         video_code: vHdEr_kWHbc
     - content: 
-        title: What do you wish you knew before becoming an activist?
-        subtitle: A video testimony with Arin
+        title: Before Starting in Activism
+        subtitle: Arin
         href: /video-wish-you-knew-arin.html
         is_video: true
         video_code: NO15JPClp_0
