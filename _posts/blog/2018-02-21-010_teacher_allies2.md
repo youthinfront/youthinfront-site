@@ -51,6 +51,10 @@ cards:
         title: How to Respond to Student Activism about Gun Violence
         subtitle: Listen, empower, and affirm students' rights        
         href: /how-teachers-can-respond-to-student-activism-about-gun-violence.html
+     - content:
+        title: How to Nurture Student Leadership
+        subtitle: Build opportunities for research, governance, and internships 
+        href: /how-to-nurture-student-leadership.html
 category: blog
 bg_img: /images/how-do-i-get-adults-on-my-side-bg.jpg
 students: false
