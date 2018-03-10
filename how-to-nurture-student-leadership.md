@@ -1,6 +1,8 @@
 ---
 layout: page
 title: How to Nurture Student Leadership
+previous: /how-teachers-can-respond-to-student-activism-about-gun-violence.html
+next: /youth-and-social-movements-lessons-for-allies.html
 ---
 
 How to Nurture Student Leadership

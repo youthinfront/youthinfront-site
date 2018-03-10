@@ -1,6 +1,8 @@
 ---
 layout: page
 title: How to Respond to Student Activism about Gun Violence
+previous: /Nine-Ways-to-Help-Students-Discuss-Guns-and-Violence.html
+next: /how-to-nurture-student-leadership.html
 ---
 
 How to Respond to Student Activism about Gun Violence
