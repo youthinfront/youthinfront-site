@@ -54,7 +54,7 @@ cards:
         subtitle: Read about Ernesto Villareal here.
         href: /why-protest-ernesto-villareal.html
     - content:
-        title: Linda Blackmon Lowery 
+        title: Lynda Blackmon Lowery 
         subtitle: Read about the civil rights leader here.
         href: /why-protest-linda-lowery.html
     - content:
