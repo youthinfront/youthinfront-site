@@ -254,11 +254,11 @@ img.page-logo {
 }
 
 .video-timeline-description > i {
-    align-self: center;
     font-size: 30px;
     margin: 0 30px 0 10px;
     position: absolute;
-    left: 20%;
+    left: 15%;
+    opacity: 0.8;
     overflow:hidden;
     color: #ffffff !important;
 }
@@ -446,6 +446,9 @@ footer {
     }
     .video-timeline-description {
         height: 99px;
+    }
+    .video-timeline-description > i {
+        left: 20%;
     }
 }
 
