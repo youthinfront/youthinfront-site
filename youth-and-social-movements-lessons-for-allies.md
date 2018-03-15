@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Youth and Social Movements Key Lessons for Allies
-previous: /Nine-Ways-to-Help-Students-Discuss-Guns-and-Violence.html
+previous: /how-to-nurture-student-leadership.html
 next: /teachers-framework-for-civic-participation.html
 ---
 

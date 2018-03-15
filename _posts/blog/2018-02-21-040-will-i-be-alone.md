@@ -4,8 +4,8 @@ title: Will I be alone?
 subtitle: No, youth will do this together.
 cards:
     - content: 
-        title: Will I be alone?
-        subtitle: A video testimony
+        title: Will I Be Alone?
+        subtitle: Amber & Charlotte
         href: /video-will-i-be-alone-main.html
         is_video: true
         video_code: 1w7B4Q1AD1g

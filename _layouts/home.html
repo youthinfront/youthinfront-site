@@ -22,14 +22,20 @@ show_teacher_student_toggle: true
                 <div class="video-timeline-connector"></div>
               {% endif %}
               <a class="no-underline" {% if card.content.is_video %}data-popup-open="{{card.content.video_code}}" data-popup-name="{{post.title}} - {{card.content.title}} ({{forloop.index}})" href="#"{% else %} href="{{card.content.href}}"{% endif %}>
+                {% if card.content.is_video %}
+                <div class="video-timeline-description video-timeline-shadowed"><img src="/images/{{card.content.video_code}}.png" class="video-timeline-thumbnail" />
+                  <i class="fas fa-play"></i>
+                {%else %}
                 <div class="video-timeline-description video-timeline-shadowed">
-                  {% if card.content.is_video %}
-                    <i class="fas fa-play"></i>
-                  {% endif %}
-                  <div class="video-timeline-description-inner">
-                    <h1>{{card.content.title}}</h1>
-                    {% if card.content.subtitle %}<p>{{card.content.subtitle}}</p>{% endif %}
-                  </div>
+                {% endif %}
+                  <span class="wrapper-video-timeline-description">
+                    {% if card.content.is_video %}
+                    {% endif %}
+                    <div class="video-timeline-description-inner">
+                      <h1>{{card.content.title}}</h1>
+                      {% if card.content.subtitle %}<p>{{card.content.subtitle}}</p>{% endif %}
+                    </div>
+                  </span>
                 </div>
               </a>
               {% if card.content.is_video %}

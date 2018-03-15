@@ -15,7 +15,6 @@ cards:
         title: ACLU guide on teachers' free speech rights
         subtitle: Some tips from the ACLU
         href: /free-speech-rights-public-school-teachers.html         
-        
 category: blog
 bg_img: /images/can-teachers-be-allies-bg.jpg
 students: false
