@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Can teachers get in trouble?
-previous: /video-who-inspired-laura.html
-next: /video-who-inspired-marshall.html
+previous: /free-speech-rights-public-school-teachers.html
+next: /nsba-teacher-speech-rights.html
 ---
 
 Can teachers get in trouble?

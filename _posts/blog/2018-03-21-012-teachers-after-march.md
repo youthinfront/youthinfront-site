@@ -6,7 +6,7 @@ cards:
     - content: 
         title: Can a march make a difference?
         subtitle: Jarvis
-        href: /video-can-march-make-difference-jarvis.md.html
+        href: /video-can-march-make-difference-jarvis.html
         is_video: true
         video_code: xBmt6JBMOxk
     - content:

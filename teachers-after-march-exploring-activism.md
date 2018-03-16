@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exploring activism as a long term fight
-previous: /teachers-after-march-be-the-change.html
+previous: /video-can-march-make-difference-jarvis.html
 next: /teachers-after-march-student-feedback.html
 ---
 

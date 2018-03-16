@@ -1,8 +1,8 @@
 ---
 layout: page
 title: How can teachers be allies?
-previous: /video-who-inspired-laura.html
-next: /video-who-inspired-marshall.html
+previous: /how-to-nurture-student-leadership.html
+next: /video-how-can-teachers-be-allies-rebecca.html
 ---
 
 How can teachers be allies?

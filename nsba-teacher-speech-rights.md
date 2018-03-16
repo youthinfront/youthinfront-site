@@ -1,7 +1,7 @@
 ---
 layout: page
 title: National School Boards Association on Teacher Speech Rights
-previous: /free-speech-rights-public-school-teachers.html
+previous: /video-can-teachers-get-in-trouble-meira.html
 next: /nsba-teacher-speech-outside-school.html
 ---
 

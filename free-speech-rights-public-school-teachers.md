@@ -2,7 +2,7 @@
 layout: page
 title: Public School Teachers' Free Speech Rights
 previous: /nsba-teacher-speech-outside-school.html
-next: /nsba-teacher-speech-rights.html
+next: /video-can-teachers-get-in-trouble-meira.html
 ---
 
 Public School Teachers' Free Speech Rights

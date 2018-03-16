@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Can a march make a difference?
-previous: /video-who-inspired-laura.html
-next: /video-who-inspired-marshall.html
+previous: /teachers-after-march-be-the-change.html
+next: /teachers-after-march-exploring-activism.html
 ---
 
 Can a march make a difference?
