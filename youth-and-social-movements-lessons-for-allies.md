@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Youth and Social Movements Key Lessons for Allies
-previous: /how-to-nurture-student-leadership.html
+previous: /video-how-to-talk-students-laura.html
 next: /teachers-framework-for-civic-participation.html
 ---
 

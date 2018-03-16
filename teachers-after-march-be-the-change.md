@@ -2,7 +2,7 @@
 layout: page
 title: Be the change
 previous: /teachers-after-march-student-feedback.html
-next: /teachers-after-march-exploring-activism.html
+next: /video-can-march-make-difference-jarvis.html
 ---
 
 Be the change
