@@ -8,4 +8,4 @@ next: /baltimore-gradesupgunsdown-code-of-conduct.html
 How do I stay safe during a walkout?
 ================
 
-[video](https://youtu.be/40gaD01W5XE)
+[video](https://youtu.be/MNHW_m03voA)
