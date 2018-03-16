@@ -3,6 +3,24 @@ layout: post
 title: How can teachers be allies?
 subtitle: Trusting young people as civic actors
 cards:
+    - content: 
+        title: How can teachers be allies?
+        subtitle: Aaliyah
+        href: /video-how-can-teachers-be-allies-aaliyah.html
+        is_video: true
+        video_code: bT7_fmwz2hE
+    - content: 
+        title: How can teachers be allies?
+        subtitle: Rebecca
+        href: /video-how-can-teachers-be-allies-rebecca.html
+        is_video: true
+        video_code: ajN_Ns2qxP4
+    - content: 
+        title: How do I talk with students about protest?
+        subtitle: Laura
+        href: /video-how-to-talk-students-laura.html
+        is_video: true
+        video_code: N7kMPKpHos0
     - content:
         title: Youth and Social Movements
         subtitle: Key lessons for allies

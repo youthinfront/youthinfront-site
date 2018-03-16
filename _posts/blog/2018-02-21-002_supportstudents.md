@@ -3,6 +3,12 @@ layout: post
 title: Can I get in trouble for supporting students?
 subtitle: Safely supporting student civic action
 cards:
+    - content: 
+        title: Can teachers get in trouble for supporting students?
+        subtitle: Meira
+        href: /video-can-teachers-get-in-trouble-meira.html
+        is_video: true
+        video_code: QiWww9FBrIM
     - content:
         title: NSBA on Teacher Speech in School
         subtitle: Employee speech has rights and limits

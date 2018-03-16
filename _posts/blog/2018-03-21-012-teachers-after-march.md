@@ -3,6 +3,12 @@ layout: post
 title: How can a march become a movement?
 subtitle: Supporting student activism--and your own--over the long haul
 cards:
+    - content: 
+        title: Can a march make a difference?
+        subtitle: Jarvis
+        href: /video-can-march-make-difference-jarvis.md.html
+        is_video: true
+        video_code: xBmt6JBMOxk
     - content:
         title: Exploring activism as a long term fight
         subtitle: Activities for the classroom 
