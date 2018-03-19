@@ -56,7 +56,7 @@ cards:
     - content:
         title: Lynda Blackmon Lowery 
         subtitle: Read about the civil rights leader here.
-        href: /why-protest-linda-lowery.html
+        href: /why-protest-lynda-lowery.html
     - content:
         title: Marilyn Hildreth
         subtitle: Read about her work here.
