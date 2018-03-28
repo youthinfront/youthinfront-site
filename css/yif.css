@@ -101,7 +101,7 @@ img.page-logo {
 
 .card-body {
     color: white;
-    text-align: right;
+    text-align: left;
     width: 100%;
 }
 
@@ -363,7 +363,7 @@ img.page-logo {
 
 .background-gradient-1 {
     background: linear-gradient(
-        to right, 
+        to left, 
         rgba(18,199,45,0.8) 0%, 
         rgba(18,199,45,1) 65%,
         rgba(18,199,45,1) 100%
@@ -371,39 +371,39 @@ img.page-logo {
 }
 
 .background-gradient-2 {
-    background: linear-gradient( to right, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
+    background: linear-gradient( to left, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
 }
 
 .background-gradient-3 {
-    background: linear-gradient( to right, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
+    background: linear-gradient( to left, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
 }
 
 .background-gradient-4 {
-    background: linear-gradient( to right, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
+    background: linear-gradient( to left, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
 }
 
 .background-gradient-5 {
-    background: linear-gradient( to right, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
+    background: linear-gradient( to left, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
 }
 
 .background-gradient-6 {
-    background: linear-gradient( to right, rgba(142, 29, 194, 0.8) 0%, rgba(142, 29, 194, 1) 65%, rgba(142, 29, 194, 1) 100%);
+    background: linear-gradient( to left, rgba(142, 29, 194, 0.8) 0%, rgba(142, 29, 194, 1) 65%, rgba(142, 29, 194, 1) 100%);
 }
 
 .background-gradient-7 {
-    background: linear-gradient( to right, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
+    background: linear-gradient( to left, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
 }
 
 .background-gradient-8 {
-    background: linear-gradient( to right, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
+    background: linear-gradient( to left, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
 }
 
 .background-gradient-9 {
-    background: linear-gradient( to right, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
+    background: linear-gradient( to left, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
 }
 
 .background-gradient-10 {
-    background: linear-gradient( to right, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
+    background: linear-gradient( to left, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
 }
 
 .pdf {
