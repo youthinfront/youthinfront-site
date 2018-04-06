@@ -1,0 +1,57 @@
+---
+layout: r-default
+show_teacher_student_toggle: true 
+---
+
+<main role="main">
+  {% assign displayed_posts = 0 %}
+  {% for post in site.posts reversed %}
+    {% if post[page.audience] %}
+    {% assign displayed_posts = displayed_posts | plus: 1 %}
+    <div class="side-bleed slide-in-{% if displayed_posts <= 5 %}{{displayed_posts}}{% else %}5{% endif %}" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
+      <div class="gradient-bleed background-gradient-{{displayed_posts | plus: -1 | modulo: 10 | plus: 1}}"></div>
+      <div class="card-body slide-in-{% if displayed_posts <= 5 %}{{displayed_posts}}{% else %}5{% endif %}">
+        <div class="card-top">
+          <p class="card-text section-title">{{post.title}}</p>
+          <p class="card-text section-description section-text">{{post.subtitle}}</p>
+        </div>
+        <div class="card-bottom dragscroll color-{{displayed_posts | plus: -1 | modulo: 10 | plus: 1}}">
+          <div class="card-text section-video-preview">
+            {% for card in post.cards %}
+              {% if forloop.index != 1 %}
+                <div class="video-timeline-connector"></div>
+              {% endif %}
+              <a class="no-underline" {% if card.content.is_video %}data-popup-open="{{card.content.video_code}}" data-popup-name="{{post.title}} - {{card.content.title}} ({{forloop.index}})" href="#"{% else %} href="{{card.content.href}}"{% endif %}>
+                {% if card.content.is_video %}
+                <div class="video-timeline-description video-timeline-shadowed"><img src="/images/{{card.content.video_code}}.png" class="video-timeline-thumbnail" />
+                  <i class="fas fa-play"></i>
+                {%else %}
+                <div class="video-timeline-description video-timeline-shadowed">
+                {% endif %}
+                  <span class="wrapper-video-timeline-description">
+                    {% if card.content.is_video %}
+                    {% endif %}
+                    <div class="video-timeline-description-inner">
+                      <h1>{{card.content.title}}</h1>
+                      {% if card.content.subtitle %}<p>{{card.content.subtitle}}</p>{% endif %}
+                    </div>
+                  </span>
+                </div>
+              </a>
+              {% if card.content.is_video %}
+                <div class="popup" data-popup="{{card.content.video_code}}">
+                  <div class="popup-inner">
+                    <iframe id="{{card.content.video_code}}" class="embedded-video" width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+                    <a class="popup-close" data-popup-close="{{card.content.video_code}}" href="#"><i class="fas fa-times"></i></a>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+          <div class="video-preview"></div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</main>
