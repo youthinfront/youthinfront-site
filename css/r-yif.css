@@ -1,0 +1,725 @@
+body {
+    overflow-x: hidden;
+}
+
+img.page-logo {
+    height: 50px;
+    margin: 10px 0;
+}
+
+.card-bottom:after {
+    content: '';
+    width: calc(100% - 15px);
+    position: absolute;
+    z-index: 10;
+    transition: 250ms;
+    background:radial-gradient(farthest-side at 50% 0, rgba(0,0,0,.2), rgba(0,0,0,0));
+    right: 0;
+    height: 20;
+}
+
+.yif-navbar {
+    background: white;
+    padding: 0 1rem;
+}
+
+.footer-link {
+    font-family: "Avenir Next", sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 70px;
+    margin: 0 10px;
+}
+
+.logo-pack {
+    align-items: center;
+    display: flex;
+}
+
+.sponsor-pack {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    justify-content: space-evenly;
+    max-width: 50%
+}
+
+.header-tagline {
+    margin-left: 30px;
+    font-weight: 400;
+}
+
+.about-logo {
+    max-height: 20px;
+    max-width: 100%;
+}
+
+.top-level-tabs {
+    display: flex;
+    position: relative;
+    margin-top:10px;
+}
+
+.top-level-tabs > div {
+    position: relative;
+    text-align: center;
+    width: 100px;
+}
+
+.top-level-tabs > div.active-audience::after {
+    background-color: #006BFF;
+    bottom: 0px;
+    content: "";
+    height: 4px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+}
+
+.top-level-tabs > div > a {
+    color: #006BFF;
+    padding:0 20px 10px;
+    display:inline-block;
+    font-family: "Avenir Next", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.top-level-tabs>div>a:hover {
+    text-decoration: none;
+}
+
+.page-container h1 {
+    margin: 40px 0;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body {
+    color: white;
+    text-align: right;
+    width: 100%;
+}
+
+.slide-in-1 {
+    animation: slide-in .5s forwards;
+    -webkit-animation: slide-in .5s forwards;
+}
+
+.slide-in-2 {
+    animation: slide-in 0.75s forwards;
+    -webkit-animation: slide-in 0.6s forwards;
+}
+
+.slide-in-3 {
+    animation: slide-in 1s forwards;
+    -webkit-animation: slide-in 1s forwards;
+}
+
+.slide-in-4 {
+    animation: slide-in 1.25s forwards;
+    -webkit-animation: slide-in 1.25s forwards;
+}
+
+.slide-in-5 {
+    animation: slide-in 1.5s forwards;
+    -webkit-animation: slide-in 1.5s forwards;
+}
+
+@keyframes slide-in {
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+@-webkit-keyframes slide-in {
+    100% {
+        -webkit-transform: translateX(0%);
+    }
+}
+
+.card-top {
+    height: 90px;
+}
+
+.card-bottom {
+    margin: 0 -20px;
+    overflow-x: scroll;
+    width: calc(100% + 40px);
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+}
+
+.card-bottom::-webkit-scrollbar {
+    width: 0
+}
+
+.section-title {
+    font-family: "Hiragino Kaku Gothic Std", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 26px;
+    margin-bottom: .5rem;
+}
+
+.section-text {
+    font-family: "Avenir Next", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.section-description {
+    margin-left: auto;
+    max-height: 105px;
+    width: 100%;
+}
+
+.duration-label {
+    font-size: 10px;
+    text-align: left;
+}
+
+.fa-youtube {
+    font-family: Font Awesome\ 5 Brands !important;
+}
+
+.section-video-preview {
+    align-items: center;
+    display: flex;
+    height: 85px;
+    text-align: left;
+    width: fit-content;
+    width: -moz-fit-content;
+}
+
+.video-timeline-shadowed {
+    box-shadow: 0 0 1px 0;
+}
+
+.video-timeline-connector {
+    background-color: white;
+    height: 5px;
+    margin: 0 -20px;
+    width: 40px;
+    z-index: 0;
+}
+
+.video-timeline-thumbnail {
+    -webkit-clip-path: polygon(0 0, 100% 0, 77% 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0, 77% 100%, 0% 100%);
+    height: 100%;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+.wrapper-video-timeline-description {
+    padding: 10px;
+}
+
+.video-timeline-description {
+    align-items: center;
+    background-color: white;
+    border-radius: 3px;
+    /* TODO: make me the brand color */
+    color: black;
+    display: flex;
+    flex-direction: row;
+    height: 75px;
+    margin: 0 10px;
+    position: relative;
+    width: 275px;
+    z-index: 1;
+}
+
+.video-timeline-description-inner {
+    max-height: 100%;
+    overflow: hidden;
+    color: white;
+}
+
+.video-timeline-description-inner>h1 {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.video-timeline-description-inner>p {
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: .25rem;
+    margin-bottom: 0;
+}
+
+.video-timeline-description > i {
+    font-size: 30px;
+    margin: 0 30px 0 10px;
+    position: absolute;
+    left: 15%;
+    opacity: 0.8;
+    overflow:hidden;
+    color: #ffffff !important;
+}
+
+.side-bleed {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    transform: translateY(200%);
+    -webkit-transform: translateY(200%);
+}
+
+.gradient-bleed {
+    width: 100%;
+    height: 200px;
+    position: absolute;
+}
+
+.no-underline:hover {
+    text-decoration: none;
+}
+
+.color-1,
+.color-1 p,
+.color-1 a,
+.color-1 h1,
+.color-1 i {
+    color: #12C72D;
+}
+
+.color-2,
+.color-2 p,
+.color-2 a,
+.color-2 h1,
+.color-2 i {
+    color: #00BD89;
+}
+
+.color-3,
+.color-3 p,
+.color-3 a,
+.color-3 h1,
+.color-3 i {
+    color: #00ACDA;
+}
+
+.color-4,
+.color-4 p,
+.color-4 a,
+.color-4 h1,
+.color-4 i {
+    color: #0093FF;
+}
+
+.color-5,
+.color-5 p,
+.color-5 a,
+.color-5 h1,
+.color-5 i {
+    color: #006CFF;
+}
+
+.color-6,
+.color-6 p,
+.color-6 a,
+.color-6 h1,
+.color-6 i {
+    color: #8E1DC2;
+}
+
+.color-7,
+.color-7 p,
+.color-7 a,
+.color-7 h1,
+.color-7 i {
+    color: #006CFF;
+}
+
+.color-8,
+.color-8 p,
+.color-8 a,
+.color-8 h1,
+.color-8 i {
+    color: #0093FF;
+}
+
+.color-9,
+.color-9 p,
+.color-9 a,
+.color-9 h1,
+.color-9 i {
+    color: #00ACDA;
+}
+
+.color-10,
+.color-10 p,
+.color-10 a,
+.color-10 h1,
+.color-10 i {
+    color: #00BD89;
+}
+
+.background-gradient-1 {
+    background: linear-gradient(
+        to right, 
+        rgba(18,199,45,0.8) 0%, 
+        rgba(18,199,45,1) 65%,
+        rgba(18,199,45,1) 100%
+    );
+}
+
+.background-gradient-2 {
+    background: linear-gradient( to right, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
+}
+
+.background-gradient-3 {
+    background: linear-gradient( to right, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
+}
+
+.background-gradient-4 {
+    background: linear-gradient( to right, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
+}
+
+.background-gradient-5 {
+    background: linear-gradient( to right, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
+}
+
+.background-gradient-6 {
+    background: linear-gradient( to right, rgba(142, 29, 194, 0.8) 0%, rgba(142, 29, 194, 1) 65%, rgba(142, 29, 194, 1) 100%);
+}
+
+.background-gradient-7 {
+    background: linear-gradient( to right, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
+}
+
+.background-gradient-8 {
+    background: linear-gradient( to right, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
+}
+
+.background-gradient-9 {
+    background: linear-gradient( to right, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
+}
+
+.background-gradient-10 {
+    background: linear-gradient( to right, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
+}
+
+.pdf {
+    width: 100%;
+    height: 300px;
+}
+
+blockquote {
+    background: url("/images/big-quotes.png") no-repeat;
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: 0.25em solid #dfe2e5;
+}
+
+blockquote p {
+    text-indent: 25px;
+}
+
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+@media screen and (min-width: 480px) {
+    .section-title {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    
+    .card-top {
+        height: 120px;
+    }
+    
+    .gradient-bleed {
+        height: 260px;
+    }
+    
+    .side-bleed {
+        height: 260px;
+    }
+    
+    .section-video-preview {
+        height: 105px;
+    }
+    
+    .video-timeline-description {
+        height: 99px;
+    }
+    
+    .video-timeline-description > i {
+        left: 20%;
+    }
+    
+    .card-body {
+        text-align: left;
+    } 
+   
+    .background-gradient-1 {
+    background: linear-gradient(
+        to left, 
+        rgba(18,199,45,0.8) 0%, 
+        rgba(18,199,45,1) 65%,
+        rgba(18,199,45,1) 100%
+    );
+    }
+
+    .background-gradient-2 {
+        background: linear-gradient( to left, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
+    }
+
+    .background-gradient-3 {
+        background: linear-gradient( to left, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
+    }
+
+    .background-gradient-4 {
+        background: linear-gradient( to left, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
+    }
+
+    .background-gradient-5 {
+        background: linear-gradient( to left, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
+    }
+
+    .background-gradient-6 {
+        background: linear-gradient( to left, rgba(142, 29, 194, 0.8) 0%, rgba(142, 29, 194, 1) 65%, rgba(142, 29, 194, 1) 100%);
+    }
+
+    .background-gradient-7 {
+        background: linear-gradient( to left, rgba(0, 108, 255, 0.8) 0%, rgba(0, 108, 255, 1) 65%, rgba(0, 108, 255, 1) 100%);
+    }
+
+    .background-gradient-8 {
+        background: linear-gradient( to left, rgba(0, 147, 255, 0.8) 0%, rgba(0, 147, 255, 1) 65%, rgba(0, 147, 255, 1) 100%);
+    }
+
+    .background-gradient-9 {
+        background: linear-gradient( to left, rgba(0, 172, 218, 0.8) 0%, rgba(0, 172, 218, 1) 65%, rgba(0, 172, 218, 1) 100%);
+    }
+
+    .background-gradient-10 {
+        background: linear-gradient( to left, rgba(0, 189, 137, 0.8) 0%, rgba(0, 189, 137, 1) 65%, rgba(0, 189, 137, 1) 100%);
+    }
+    
+}
+
+/* Begin Article Page */
+
+.banner {
+    height: 240px;
+    -webkit-clip-path: polygon(0 0, 100vw 0, 100vw 100%, 0 87%);
+    clip-path: polygon(0 0, 100vw 0, 100vw 100%, 0 87%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.banner-title {
+    font-family: "Hiragino Kaku Gothic Std", sans-serif;
+    font-size: 24px;
+    line-height: 26px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.article-container h1 {
+    font-family: "Avenir Next", sans-serif;
+    color: #12C72D;
+    font-size: 20pt;
+    line-height: 27pt;
+    font-weight: 500;
+}
+
+.article-container h1 {
+    font-family: "Avenir Next", sans-serif;
+    color: #12C72D;
+    font-size: 22pt;
+    line-height: 27pt;
+    font-weight: 500;
+    display: none;
+}
+
+.article-container h2 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67, 66, 66, 1) 100%;
+    font-size: 20pt;
+    line-height: 25pt;
+    font-weight: 475;
+}
+
+.article-container h3 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67, 66, 66, 1) 100%;
+    font-size: 18pt;
+    line-height: 23pt;
+    font-weight: 450;
+}
+
+.article-container h4 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67, 66, 66, 1) 100%;
+    font-size: 17pt;
+    line-height: 22pt;
+    font-weight: 400;
+}
+
+.article-container h5 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67, 66, 66, 1) 100%;
+    font-size: 16pt;
+    line-height: 21pt;
+    font-weight: 350;
+}
+
+.article-container h6 {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67, 66, 66, 1) 100%;
+    font-size: 15pt;
+    line-height: 20pt;
+    font-weight: 300;
+}
+
+.article-container p {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67, 66, 66, 1) 100%;
+    font-size: 14pt;
+    line-height: 19pt;
+    font-weight: normal;
+}
+
+.article-container li {
+    font-family: "Avenir Next", sans-serif;
+    color: rgba(67, 66, 66, 1) 100%;
+    font-size: 14pt;
+    line-height: 19pt;
+    font-weight: normal;
+}
+
+.article-container img {
+    max-width: 100%;
+    max-height: 400px;
+}
+
+.article-container a {
+    color: #00ACDA;
+}
+.article-container a:hover {
+    text-decoration: none;
+}
+
+.previous-next {
+    display: flex;
+    flex-direction: row;
+    font-size: 18.6px;
+    justify-content: space-between;
+    margin: 40px 0;
+}
+
+@media screen and (min-width: 480px) {
+    .banner {
+        height: 240px;
+    }
+    .banner-title {
+        font-size: 36px;
+        line-height: 40px;
+    }
+}
+
+/* End Article Page */
+
+.sponsor-roll {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.sponsor-roll img {
+    margin: 20px;
+}
+
+.sponsor-roll img.invert {
+    filter: invert(100%);
+}
+
+/* End Article Page */
+
+/* modal panel + button */
+
+/* Outer */
+
+.popup {
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 999;
+}
+
+/* Inner */
+
+.popup-inner {
+    max-width: 560px;
+    max-height: 315px;
+    width: 90%;
+    padding: 0px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 1);
+    border-radius: 3px;
+    background: #fff;
+    margin-top: 10px;
+}
+
+/* Close Button */
+
+.popup-close {
+    width: 30px;
+    height: 30px;
+    padding-top: 4px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    transition: ease 0.25s all;
+    -webkit-transform: translate(50%, -50%);
+    transform: translate(50%, -50%);
+    border-radius: 1000px;
+    background: rgba(0, 0, 0, 0.8);
+    font-family: Arial, Sans-Serif;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100%;
+    color: #fff;
+}
+
+.popup-close:hover {
+    -webkit-transform: translate(50%, -50%) rotate(180deg);
+    transform: translate(50%, -50%) rotate(180deg);
+    background: rgba(0, 0, 0, 1);
+    text-decoration: none;
+}
+
+a {
+    z-index: 0;
+}
+
+.embedded-video {
+    width: 560px;
+    max-width: 100%;
+    height: 315px;
+    max-height: auto;
+}

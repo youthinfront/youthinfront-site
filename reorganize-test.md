@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: r-home
 audience: reorganize
 ---
