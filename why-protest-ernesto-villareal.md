@@ -2,7 +2,7 @@
 layout: page
 title: Ernesto Villareal
 previous: /why-protest-barack-obama.html
-next: /why-protest-linda-lowery.html
+next: /why-protest-lynda-lowery.html
 ---
 
 Ernesto Villareal
