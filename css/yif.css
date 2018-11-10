@@ -206,6 +206,8 @@ img.page-logo {
     margin: 0 -20px;
     width: 40px;
     z-index: 0;
+    /* Fix for Edge scaling down the content */
+    flex-shrink: 0;
 }
 
 .video-timeline-thumbnail {
