@@ -8,9 +8,9 @@ show_teacher_student_toggle: true
   {% for post in site.posts reversed %}
     {% if post[page.audience] %}
     {% assign displayed_posts = displayed_posts | plus: 1 %}
-    <div class="side-bleed slide-in-{% if displayed_posts <= 5 %}{{displayed_posts}}{% else %}5{% endif %}" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
+    <div class="side-bleed slide-up-fade-in" href="{{ post.url }}" style="background-image: url({{post.bg_img}})">
       <div class="gradient-bleed background-gradient-{{displayed_posts | plus: -1 | modulo: 10 | plus: 1}}"></div>
-      <div class="card-body slide-in-{% if displayed_posts <= 5 %}{{displayed_posts}}{% else %}5{% endif %}">
+      <div class="card-body slide-up-fade-in">
         <div class="card-top">
           <p class="card-text section-title">{{post.title}}</p>
           <p class="card-text section-description section-text">{{post.subtitle}}</p>
